@@ -1,0 +1,29 @@
+dymetraq-web
+├── .gitignore
+├── app
+│   ├── layout.tsx
+│   └── page.tsx
+├── components
+│   ├── AuthorityCard.tsx
+│   ├── ContractCard.tsx
+│   ├── EntityCard.tsx
+│   └── ViewerTable.tsx
+├── lib
+│   ├── loadYaml.ts
+│   ├── mockData.ts
+│   └── types.ts
+├── mappings
+│   ├── authority.yaml
+│   ├── contract.yaml
+│   └── entity.yaml
+├── mocks
+│   ├── authorities.json
+│   ├── contracts.json
+│   └── entities.json
+├── next-env.d.ts
+├── next.config.js
+├── package-lock.json
+├── package.json
+├── public
+├── README.md
+└── tsconfig.json

@@ -1,16 +1,4 @@
 [
-  {
-    "id": "A1",
-    "name": "Madison Procurement Office",
-    "jurisdiction": "City of Madison",
-    "address": "215 Martin Luther King Jr Blvd, Madison, WI",
-    "contracts": ["1", "2"]
-  },
-  {
-    "id": "A2",
-    "name": "Dane County Purchasing",
-    "jurisdiction": "Dane County",
-    "address": "1919 Alliant Energy Center Way, Madison, WI",
-    "contracts": ["3"]
-  }
+  { "id": "A1", "name": "City of Madison" },
+  { "id": "A2", "name": "Dane County" }
 ]

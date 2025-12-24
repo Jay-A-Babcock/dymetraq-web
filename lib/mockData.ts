@@ -1,5 +1,18 @@
-import authorities from "../mocks/authorities.json";
+// lib/mockData.ts
+export type Authority = {
+  id: string;
+  name: string;
+};
 
-export const getAuthorities = () => authorities;
-export const getAuthorityById = (id: string) =>
-  authorities.find((a: any) => a.id === id);
+const authorities: Authority[] = [
+  { id: "A1", name: "City of Madison" },
+  { id: "A2", name: "Dane County" }
+];
+
+export function getAuthorities(): Authority[] {
+  return authorities;
+}
+
+export function getAuthorityById(id: string): Authority | undefined {
+  return authorities.find(a => a.id === id);
+}
