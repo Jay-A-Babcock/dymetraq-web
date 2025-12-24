@@ -1,17 +1,22 @@
 import { getAuthorityById } from "@/lib/mockData";
 
-export default function AuthorityDetailPage({
+export default async function AuthorityDetailPage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>; // params is now a Promise
 }) {
-  console.log("IS SERVER:", typeof window === "undefined");
-  console.log("PARAMS:", params);
-
-  const authority = getAuthorityById(params.id);
+  const { id } = await params; // Await the params
+  
+  console.log("=== DEBUG INFO ===");
+  console.log("ID value:", id);
+  
+  const authority = getAuthorityById(id);
+  
+  console.log("Authority found:", authority);
+  console.log("=== END DEBUG ===");
 
   if (!authority) {
-    return <div>Authority not found</div>;
+    return <div>Authority not found. Looking for ID: {id}</div>;
   }
 
   return (

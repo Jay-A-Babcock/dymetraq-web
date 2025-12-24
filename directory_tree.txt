@@ -1,6 +1,21 @@
 dymetraq-web
 ├── .gitignore
 ├── app
+│   ├── authorities
+│   │   └── page.tsx
+│   ├── authority
+│   │   └── [id]
+│   │       └── page.tsx
+│   ├── contract
+│   │   └── [id]
+│   │       └── page.tsx
+│   ├── contracts
+│   │   └── page.tsx
+│   ├── entities
+│   │   └── page.tsx
+│   ├── entity
+│   │   └── [id]
+│   │       └── page.tsx
 │   ├── layout.tsx
 │   └── page.tsx
 ├── components
@@ -8,6 +23,7 @@ dymetraq-web
 │   ├── ContractCard.tsx
 │   ├── EntityCard.tsx
 │   └── ViewerTable.tsx
+├── directory_tree.txt
 ├── lib
 │   ├── loadYaml.ts
 │   ├── mockData.ts
