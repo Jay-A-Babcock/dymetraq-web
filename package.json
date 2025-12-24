@@ -1,1 +1,35 @@
-
+{
+  "name": "dymetraq-web",
+  "version": "1.0.0",
+  "description": "DymeTraq is a leading provider of cloud-based datasets focused on transparency and public disemmenation of lienage information The company offers a range of products and services, including datasets and APIs.\r   The DymeTraq parent site is the main website for the company, which serves as the central hub for all DymeTraq products and services. The site is designed to be user-friendly and accessible, with a focus on providing valuable information and resources to visitors.",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-A-Babcock/dymetraq-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-A-Babcock/dymetraq-web/issues"
+  },
+  "homepage": "https://github.com/Jay-A-Babcock/dymetraq-web#readme",
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "typescript": "^5.9.3"
+  }
+}
