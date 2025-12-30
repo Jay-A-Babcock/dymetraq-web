@@ -1,4 +1,9 @@
-export default function HomePage() {
+// app/contracts/layout.tsx
+export default function EntitiesLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <main className="main">
       <header className="masthead">
@@ -9,15 +14,14 @@ export default function HomePage() {
         <ul>
           <li>Dashboard</li>
           <li><a href="/authorities">Authorities</a></li>
-          <li><a href="/entities">Entities</a></li>
+          <li><a href="/entities">Vendors</a></li>
           <li><a href="/contracts">Contracts</a></li>
           <li>Reports</li>
         </ul>
       </nav>
 
       <section>
-        <h2>Welcome</h2>
-        <p>This is where your section landing page or detail page content will go.</p>
+        {children}
       </section>
 
       <aside className="rightbar">

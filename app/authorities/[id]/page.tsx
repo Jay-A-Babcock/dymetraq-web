@@ -18,7 +18,7 @@ export default function AuthorityPage({ params }: AuthorityPageProps) {
   );
 
   return (
-    <main>
+    <>
       <h1>{authority.name}</h1>
 
       <h2>Contracts</h2>
@@ -29,6 +29,6 @@ export default function AuthorityPage({ params }: AuthorityPageProps) {
           </li>
         ))}
       </ul>
-    </main>
+    </>
   );
 }

@@ -18,7 +18,7 @@ export default function EntityPage({ params }: EntityPageProps) {
   );
 
   return (
-    <main>
+    <>
       <h1>{entity.name}</h1>
 
       <h2>Related Contracts</h2>
@@ -29,6 +29,6 @@ export default function EntityPage({ params }: EntityPageProps) {
           </li>
         ))}
       </ul>
-    </main>
+    </>
   );
 }

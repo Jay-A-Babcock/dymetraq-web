@@ -18,7 +18,7 @@ export default function ContractPage({ params }: ContractPageProps) {
   );
 
   return (
-    <main>
+    <>
       <h1>{contract.description}</h1>
 
       <p>Amount: ${contract.amount.toLocaleString()}</p>
@@ -29,6 +29,6 @@ export default function ContractPage({ params }: ContractPageProps) {
           Vendor: <a href={`/entities/${vendor.slug}`}>{vendor.name}</a>
         </p>
       )}
-    </main>
+    </>
   );
 }
