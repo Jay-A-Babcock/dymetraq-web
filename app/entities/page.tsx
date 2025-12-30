@@ -1,21 +1,20 @@
-import Link from "next/link";
-import { getEntities } from "@/lib/mockData";
+import entities from "@/mocks/entities.json";
+import { Entity } from "@/lib/types";
 
 export default function EntitiesPage() {
-  const entities = getEntities();
+  const data = entities as Entity[];
 
   return (
-    <div>
+    <main>
       <h1>Entities</h1>
+
       <ul>
-        {entities.map((entity) => (
-          <li key={entity.id}>
-            <Link href={`/entity/${entity.id}`}>
-              {entity.name}
-            </Link>
+        {data.map((e) => (
+          <li key={e.slug}>
+            <a href={`/entities/${e.slug}`}>{e.name}</a>
           </li>
         ))}
       </ul>
-    </div>
+    </main>
   );
 }

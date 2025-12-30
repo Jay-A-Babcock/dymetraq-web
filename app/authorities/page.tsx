@@ -1,19 +1,20 @@
-import Link from "next/link";
-import { getAuthorities } from "@/lib/mockData";
+import authorities from "@/mocks/authorities.json";
+import { Authority } from "@/lib/types";
 
-export default function AuthoritiesListPage() {
-  const authorities = getAuthorities();
+export default function AuthoritiesPage() {
+  const data = authorities as Authority[];
 
   return (
-    <div>
-      <h2>Authorities</h2>
+    <main>
+      <h1>Authorities</h1>
+
       <ul>
-        {authorities.map(a => (
-          <li key={a.id}>
-            <Link href={`/authority/${a.id}`}>{a.name}</Link>
+        {data.map((auth) => (
+          <li key={auth.slug}>
+            <a href={`/authorities/${auth.slug}`}>{auth.name}</a>
           </li>
         ))}
       </ul>
-    </div>
+    </main>
   );
 }

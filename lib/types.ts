@@ -1,7 +1,21 @@
 export interface Authority {
-  id: string;
+  slug: string;
   name: string;
   jurisdiction: string;
-  address: string;
-  contracts: string[];
+  updated: string;
+}
+
+export interface Contract {
+  id: string;
+  authoritySlug: string;
+  vendor: string;
+  amount: number;
+  description: string;
+  date: string;
+}
+
+export interface Entity {
+  slug: string;
+  name: string;
+  type: string;
 }

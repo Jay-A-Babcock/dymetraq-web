@@ -1,4 +1,10 @@
 [
-  { "id": "C1", "title": "Corpse Removal" },
-  { "id": "C2", "title": "New Contract Transparency System" }
+  {
+    "id": "C1",
+    "title": "Corpse Removal"
+  },
+  {
+    "id": "C2",
+    "title": "New Contract Transparency System"
+  }
 ]
