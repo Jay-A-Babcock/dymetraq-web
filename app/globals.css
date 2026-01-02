@@ -1,12 +1,25 @@
 /* app/globals.css */
 
+.coming-soon {
+  background-color: #fff8b3;
+  /* soft yellow */
+  border: 2px dashed #d40000;
+  /* strong red, dashed for visibility */
+  padding: 20px;
+  border-radius: 6px;
+  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
@@ -59,21 +72,60 @@ nav.menu a {
   text-decoration: underline;
 }
 
-/* Main content area */
+/* Main content area - with internal grid for detail pages */
 section {
   grid-column: 2;
   grid-row: 2;
   background-color: #fffde7;
   padding: 30px;
   overflow-y: auto;
+  display: flex;
+  flex-direction: column;
 }
 
-section h2 {
-  margin-bottom: 15px;
+section .section-footer {
+  margin-top: auto;
 }
 
-section p {
-  margin-bottom: 20px;
+/* Detail page layout (for [id] pages with sidebar) */
+.detail-layout {
+  display: grid;
+  grid-template-columns: 1fr 250px;
+  gap: 30px;
+  height: 100%;
+}
+
+.detail-content {
+  overflow-y: auto;
+  padding: 4px 0px 0px 10px;
+}
+
+.detail-content ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-top: 4px;
+}
+
+.detail-content li {
+  margin-bottom: 6px;
+}
+
+.detail-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  overflow-y: auto;
+}
+
+/* Section footer (within content area) */
+.section-footer {
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-top: 1px solid #ddd;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
 }
 
 /* Right sidebar */
@@ -86,6 +138,11 @@ aside.rightbar {
   overflow-y: auto;
 }
 
+aside.rightbar h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
 .dynamic-module {
   background-color: #c8e6c9;
   border: 2px solid #999;
@@ -93,6 +150,11 @@ aside.rightbar {
   padding: 20px;
   margin-bottom: 20px;
   text-align: center;
+}
+
+.dynamic-module p {
+  text-align: left;
+  font-size: small;
 }
 
 .dynamic-module:last-child {

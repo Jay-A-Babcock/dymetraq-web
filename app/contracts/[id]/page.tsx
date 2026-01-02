@@ -1,34 +1,46 @@
+// app/contracts/[id]/page.tsx
 import contracts from "@/mocks/contracts.json";
+import authorities from "@/mocks/authorities.json";
 import entities from "@/mocks/entities.json";
-import { Contract, Entity } from "@/lib/types";
+import { Contract, Authority, Entity } from "@/lib/types";
+import ContractStats from "@/components/ContractStats";
 
 interface ContractPageProps {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }
 
-export default function ContractPage({ params }: ContractPageProps) {
+export default async function ContractPage({ params }: ContractPageProps) {
+  const { id } = await params;
+
   const contract = (contracts as Contract[]).find(
-    (c) => c.id === params.id
+    (c) => c._id === id
   );
 
   if (!contract) return <p>Contract not found.</p>;
 
-  const vendor = (entities as Entity[]).find(
-    (e) => e.slug === contract.vendorSlug
+  const authority = (authorities as Authority[]).find(
+    (a) => a._id === contract.auth_id
+  );
+
+  const contractEntity = (entities as Entity[]).find(
+    (e) => e._id === contract.entity_uid
   );
 
   return (
     <>
-      <h1>{contract.description}</h1>
+      <h1>{contract.cont_name}</h1>
+      <p>Basic information about the contract will be here.</p>
 
-      <p>Amount: ${contract.amount.toLocaleString()}</p>
-      <p>Date: {contract.date}</p>
+      <ContractStats
+        authority={authority}
+        entity={contractEntity}
+        contractValue={contract.value}
+      />
 
-      {vendor && (
-        <p>
-          Vendor: <a href={`/entities/${vendor.slug}`}>{vendor.name}</a>
-        </p>
-      )}
+      <h2>Contract Details</h2>
+      <div className="coming-soon" style={{ height: "200px" }}>
+        Coming soon…
+      </div>
     </>
   );
 }

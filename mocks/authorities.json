@@ -1,4 +1,4 @@
 [
-  { "id": "A1", "name": "City of Madison" },
-  { "id": "A2", "name": "Ddoge County" }
+  { "_id": "A1", "name": "City of Madison" },
+  { "_id": "A2", "name": "Ddoge County" }
 ]
