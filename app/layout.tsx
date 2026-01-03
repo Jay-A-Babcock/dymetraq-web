@@ -15,7 +15,7 @@ export default function RootLayout({
       <body>
         <main className="main">
           <header className="masthead">
-            <h1><a href="/">DymeTraq</a></h1>
+            <h1><a href="/"><img src={"img/DT_logo.png"} style={{width: "100px"}}/></a></h1>
           </header>
 
           <nav className="menu">
@@ -30,6 +30,7 @@ export default function RootLayout({
           {children}
 
           <footer className="footer">
+            <ul><li><a href="about">About Us</a></li></ul>
             © 2026 DymeTraq
           </footer>
         </main>
