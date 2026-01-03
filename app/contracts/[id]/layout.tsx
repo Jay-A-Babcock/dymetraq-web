@@ -7,6 +7,7 @@ export default function ContractDetailLayout({
   const extraModules = (
     <>
       <div className="dynamic-module">
+        
         <h4>Contract Details</h4>
         <p>Value, dates, status, etc.</p>
       </div>

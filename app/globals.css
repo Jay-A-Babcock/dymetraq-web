@@ -170,3 +170,20 @@ footer.footer {
   text-align: center;
   border-top: 2px solid #999;
 }
+
+/* Tree */
+.tree-node {
+  margin-left: 12px;
+  cursor: pointer;
+}
+
+.tree-label {
+  font-weight: 600;
+  padding: 4px 0;
+}
+
+.tree-children {
+  margin-left: 16px;
+  border-left: 1px solid #ddd;
+  padding-left: 8px;
+}

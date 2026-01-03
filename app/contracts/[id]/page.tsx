@@ -34,13 +34,15 @@ export default async function ContractPage({ params }: ContractPageProps) {
       <ContractStats
         authority={authority}
         entity={contractEntity}
-        contractValue={contract.value}
       />
 
       <h2>Contract Details</h2>
-      <div className="coming-soon" style={{ height: "200px" }}>
-        Coming soon…
+      <div className="coming-soon" style={{ height: "200px"}}>
+        <ul><li>Description of Work</li><li>dates</li></ul>
       </div>
+      <div className="coming-soon" style={{ height: "100px", width: "150px", marginTop: "10px" }}>
+        Generate Report Button
+        </div>
     </>
   );
 }
