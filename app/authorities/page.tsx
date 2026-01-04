@@ -1,39 +1,46 @@
 // app/authorities/page.tsx
-import hierarchy from "@/mocks/authorityHierarchy.json";
-import Tree from "@/components/Tree";
+import states from "@/data/states.json";
+import StateCard from "@/components/StateCard";
 
-function renderNode(node) {
-  const isLeaf = !node.children || node.children.length === 0;
-
-  return (
-    <Tree
-      key={node.auth_id}
-      label={
-        <a href={`/authorities/${node.auth_id}`}>
-          {node.name}
-        </a>
-      }
-    >
-      {node.children?.map((child) => renderNode(child))}
-    </Tree>
-  );
+interface State {
+  code: string;
+  name: string;
+  description?: string;
+  authorityCount?: number;
 }
 
-
 export default function AuthoritiesPage() {
+  const statesList = states as State[];
+
   return (
     <div className="detail-layout">
       <div className="detail-content">
-        <h1>Authorities</h1>
+        <h1>Contracting Authorities</h1>
         <p>
-          This page provides a hierarchical list of authorities.
+          Browse contracting authorities by state. Select a state to view its
+          authorities and contracts.
         </p>
 
-        {hierarchy.map((node) => renderNode(node))}
+        <div className="states-grid">
+          {statesList.map((state) => (
+            <StateCard key={state.code} {...state} />
+          ))}
+        </div>
       </div>
 
       <div className="detail-sidebar">
         <h2>Authority Overview</h2>
+        <div className="dynamic-module">
+          <h4>Quick Navigation</h4>
+          <ul style={{ listStyle: "none", padding: "0" }}>
+            {statesList.map((state) => (
+              <li key={state.code} style={{ marginBottom: "8px" }}>
+                <a href={`#${state.code}`}>{state.code}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+
         <div className="dynamic-module">
           <h4>Search Tools</h4>
         </div>

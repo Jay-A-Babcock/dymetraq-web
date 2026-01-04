@@ -1,0 +1,2552 @@
+[
+  {
+    "State": "AK",
+    "AuthID": "1419985",
+    "OfficialName": "Kusilvak County"
+  },
+  {
+    "State": "AK",
+    "AuthID": "1419971",
+    "OfficialName": "Juneau County"
+  },
+  {
+    "State": "AK",
+    "AuthID": "2419025",
+    "OfficialName": "Municipality of Anchorage"
+  },
+  {
+    "State": "AL",
+    "AuthID": "1779775",
+    "OfficialName": "State of Alabama"
+  },
+  {
+    "State": "AL",
+    "AuthID": "161564",
+    "OfficialName": "Lauderdale County"
+  },
+  {
+    "State": "AL",
+    "AuthID": "161575",
+    "OfficialName": "Mobile County"
+  },
+  {
+    "State": "AL",
+    "AuthID": "161526",
+    "OfficialName": "Autauga County"
+  },
+  {
+    "State": "AL",
+    "AuthID": "161586",
+    "OfficialName": "Talladega County"
+  },
+  {
+    "State": "AL",
+    "AuthID": "161558",
+    "OfficialName": "Hale County"
+  },
+  {
+    "State": "AL",
+    "AuthID": "2403101",
+    "OfficialName": "City of Anniston"
+  },
+  {
+    "State": "AL",
+    "AuthID": "2403123",
+    "OfficialName": "City of Athens"
+  },
+  {
+    "State": "AL",
+    "AuthID": "2404746",
+    "OfficialName": "City of Huntsville"
+  },
+  {
+    "State": "AL",
+    "AuthID": "2404289",
+    "OfficialName": "City of Montgomery"
+  },
+  {
+    "State": "AL",
+    "AuthID": "2404278",
+    "OfficialName": "City of Mobile"
+  },
+  {
+    "State": "AL",
+    "AuthID": "2404206",
+    "OfficialName": "City of Decatur"
+  },
+  {
+    "State": "AL",
+    "AuthID": "0103180",
+    "OfficialName": "Talladega County Schools"
+  },
+  {
+    "State": "AL",
+    "AuthID": "0102370",
+    "OfficialName": "Mobile County Public Schools"
+  },
+  {
+    "State": "AZ",
+    "AuthID": "42809",
+    "OfficialName": "Yavapai County"
+  },
+  {
+    "State": "CA",
+    "AuthID": "277314",
+    "OfficialName": "Stanislaus County"
+  },
+  {
+    "State": "CA",
+    "AuthID": "2410415",
+    "OfficialName": "City of El Paso de Robles (Paso Robles)"
+  },
+  {
+    "State": "CA",
+    "AuthID": "2412009",
+    "OfficialName": "City of Sunnyvale"
+  },
+  {
+    "State": "CA",
+    "AuthID": "0638640",
+    "OfficialName": "Sweetwater Union High"
+  },
+  {
+    "State": "CO",
+    "AuthID": "198116",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295732",
+    "OfficialName": "Lafayette County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295734",
+    "OfficialName": "Jackson County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "306919",
+    "OfficialName": "Calhoun County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "303634",
+    "OfficialName": "Bradford County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "306911",
+    "OfficialName": "Franklin County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295735",
+    "OfficialName": "Holmes County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295743",
+    "OfficialName": "Glades County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295758",
+    "OfficialName": "Lee County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "307626",
+    "OfficialName": "Hendry County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "308547",
+    "OfficialName": "Flagler County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "303633",
+    "OfficialName": "Gilchrist County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295724",
+    "OfficialName": "Levy County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "308548",
+    "OfficialName": "Alachua County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295752",
+    "OfficialName": "Citrus County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "308371",
+    "OfficialName": "St. Johns County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "306920",
+    "OfficialName": "Baker County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295726",
+    "OfficialName": "Clay County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295747",
+    "OfficialName": "Polk County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295761",
+    "OfficialName": "Palm Beach County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295753",
+    "OfficialName": "Broward County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295754",
+    "OfficialName": "Collier County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "308551",
+    "OfficialName": "Lake County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295750",
+    "OfficialName": "Orange County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295748",
+    "OfficialName": "Osceola County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295749",
+    "OfficialName": "Brevard County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295738",
+    "OfficialName": "Bay County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295737",
+    "OfficialName": "Escambia County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "308550",
+    "OfficialName": "Martin County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295742",
+    "OfficialName": "Charlotte County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "307624",
+    "OfficialName": "Indian River County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295756",
+    "OfficialName": "Highlands County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295733",
+    "OfficialName": "Jefferson County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "306916",
+    "OfficialName": "Leon County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "306918",
+    "OfficialName": "Gadsden County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295745",
+    "OfficialName": "Pinellas County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295751",
+    "OfficialName": "Hernando County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295739",
+    "OfficialName": "Pasco County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "295757",
+    "OfficialName": "Hillsborough County"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403904",
+    "OfficialName": "City of Bowling Green"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403605",
+    "OfficialName": "City of Fellsmere"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403102",
+    "OfficialName": "City of Apalachicola"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403719",
+    "OfficialName": "City of Graceville"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403128",
+    "OfficialName": "City of Atlantis"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403887",
+    "OfficialName": "City of Boca Raton"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403881",
+    "OfficialName": "City of Blountstown"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403971",
+    "OfficialName": "City of Callaway"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403892",
+    "OfficialName": "City of Bonifay"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403837",
+    "OfficialName": "City of Belle Glade"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403906",
+    "OfficialName": "City of Boynton Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403135",
+    "OfficialName": "City of Auburndale"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403989",
+    "OfficialName": "City of Cape Canaveral"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403070",
+    "OfficialName": "City of Alachua"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403107",
+    "OfficialName": "City of Arcadia"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403613",
+    "OfficialName": "City of Flagler Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403953",
+    "OfficialName": "City of Bunnell"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403907",
+    "OfficialName": "City of Bradenton"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403764",
+    "OfficialName": "City of Groveland"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403089",
+    "OfficialName": "City of Altamonte Springs"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2404247",
+    "OfficialName": "City of Miami"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403643",
+    "OfficialName": "City of Fort Myers"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2405568",
+    "OfficialName": "City of Tampa"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403141",
+    "OfficialName": "City of Aventura"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403958",
+    "OfficialName": "City of Bushnell"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403622",
+    "OfficialName": "City of Florida City"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403163",
+    "OfficialName": "City of Bartow"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403100",
+    "OfficialName": "City of Anna Maria"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403908",
+    "OfficialName": "City of Bradenton Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403893",
+    "OfficialName": "City of Bonita Springs"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403990",
+    "OfficialName": "City of Cape Coral"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2404445",
+    "OfficialName": "City of Ormond Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403109",
+    "OfficialName": "City of Archer"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403762",
+    "OfficialName": "City of Gretna"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2404581",
+    "OfficialName": "City of Quincy"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2404993",
+    "OfficialName": "City of Madison"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2404398",
+    "OfficialName": "City of North Port"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2405713",
+    "OfficialName": "City of West Palm Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403143",
+    "OfficialName": "City of Avon Park"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403127",
+    "OfficialName": "City of Atlantic Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403103",
+    "OfficialName": "City of Apopka"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2405550",
+    "OfficialName": "City of Sunrise"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403824",
+    "OfficialName": "City of Bay Lake"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403838",
+    "OfficialName": "City of Belle Isle"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403844",
+    "OfficialName": "City of Belleview"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2404443",
+    "OfficialName": "City of Orlando"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403840",
+    "OfficialName": "City of Belleair Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403841",
+    "OfficialName": "City of Belleair Bluffs"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403936",
+    "OfficialName": "City of Brooksville"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2405144",
+    "OfficialName": "Town of Altha"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2406510",
+    "OfficialName": "Town of Fort Myers Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2405131",
+    "OfficialName": "Town of Alford"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2583321",
+    "OfficialName": "Town of Alafaya"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2583322",
+    "OfficialName": "Town of Allentown"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2402641",
+    "OfficialName": "Town of Altoona"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2583323",
+    "OfficialName": "Town of Alturas"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2402642",
+    "OfficialName": "Town of Alva"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2402649",
+    "OfficialName": "Town of Apollo Beach"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2583324",
+    "OfficialName": "Town of Aripeka"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2403928",
+    "OfficialName": "City of Bristol"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2628517",
+    "OfficialName": "Town of Acacia Villas"
+  },
+  {
+    "State": "FL",
+    "AuthID": "2402646",
+    "OfficialName": "Town of Andrews"
+  },
+  {
+    "State": "FL",
+    "AuthID": "1200720",
+    "OfficialName": "Hamilton"
+  },
+  {
+    "State": "FL",
+    "AuthID": "1200030",
+    "OfficialName": "Alachua County Public Schools"
+  },
+  {
+    "State": "FL",
+    "AuthID": "FL_collier_coc",
+    "OfficialName": "Collier County Clerk of Courts Clerk of Courts"
+  },
+  {
+    "State": "FL",
+    "AuthID": "FL_escambia_coc",
+    "OfficialName": "Escambia County Clerk of Courts Clerk of Courts"
+  },
+  {
+    "State": "FL",
+    "AuthID": "FL_seminole_tribe",
+    "OfficialName": "Seminole Tribe of Florida"
+  },
+  {
+    "State": "FL",
+    "AuthID": "1200510",
+    "OfficialName": "Escambia County School District"
+  },
+  {
+    "State": "FL",
+    "AuthID": "1201740",
+    "OfficialName": "St. Johns County School District"
+  },
+  {
+    "State": "FL",
+    "AuthID": "1201290",
+    "OfficialName": "Martin County School District"
+  },
+  {
+    "State": "GA",
+    "AuthID": "342832",
+    "OfficialName": "Baker County"
+  },
+  {
+    "State": "GA",
+    "AuthID": "1694833",
+    "OfficialName": "Fulton County"
+  },
+  {
+    "State": "GA",
+    "AuthID": "351383",
+    "OfficialName": "Habersham County"
+  },
+  {
+    "State": "GA",
+    "AuthID": "349570",
+    "OfficialName": "Jackson County"
+  },
+  {
+    "State": "HI",
+    "AuthID": "1500030",
+    "OfficialName": "Hawaii Department of Education"
+  },
+  {
+    "State": "IA",
+    "AuthID": "465190",
+    "OfficialName": "Adair County"
+  },
+  {
+    "State": "IA",
+    "AuthID": "465191",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "ID",
+    "AuthID": "395067",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "ID",
+    "AuthID": "395066",
+    "OfficialName": "Ada County"
+  },
+  {
+    "State": "ID",
+    "AuthID": "1602340",
+    "OfficialName": "Nampa School District"
+  },
+  {
+    "State": "IL",
+    "AuthID": "422191",
+    "OfficialName": "DuPage County"
+  },
+  {
+    "State": "IL",
+    "AuthID": "1785190",
+    "OfficialName": "Will County"
+  },
+  {
+    "State": "IL",
+    "AuthID": "424202",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "IL",
+    "AuthID": "1785216",
+    "OfficialName": "Winnebago County"
+  },
+  {
+    "State": "IL",
+    "AuthID": "2395147",
+    "OfficialName": "City of Naperville"
+  },
+  {
+    "State": "IL",
+    "AuthID": "2397294",
+    "OfficialName": "City of Wheaton"
+  },
+  {
+    "State": "IL",
+    "AuthID": "428803",
+    "OfficialName": "City of Chicago"
+  },
+  {
+    "State": "IL",
+    "AuthID": "2398977",
+    "OfficialName": "Village of Glenview"
+  },
+  {
+    "State": "IL",
+    "AuthID": "2399593",
+    "OfficialName": "Village of Oswego"
+  },
+  {
+    "State": "IL",
+    "AuthID": "2398443",
+    "OfficialName": "Village of Lincolnwood"
+  },
+  {
+    "State": "IL",
+    "AuthID": "IL_SPEC_PARKS_HIGHLAND_PARK",
+    "OfficialName": "Park District of Highland Park"
+  },
+  {
+    "State": "IL",
+    "AuthID": "IL_SPEC_PARKS_ROCKLAND",
+    "OfficialName": "Rockford Park District"
+  },
+  {
+    "State": "IL",
+    "AuthID": "IL_SPEC_LIB_GLENVIEW",
+    "OfficialName": "Glenview Public Library"
+  },
+  {
+    "State": "IL",
+    "AuthID": "IL_SPEC_HEALTH_DUPAGE",
+    "OfficialName": "Dupage County Health Department"
+  },
+  {
+    "State": "IL",
+    "AuthID": "IL_CTA",
+    "OfficialName": "Chicago Transit Authority"
+  },
+  {
+    "State": "IL",
+    "AuthID": "IL_PD_CPD",
+    "OfficialName": "Chicago Police Department"
+  },
+  {
+    "State": "IN",
+    "AuthID": "450401",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "IN",
+    "AuthID": "450402",
+    "OfficialName": "Allen County"
+  },
+  {
+    "State": "KS",
+    "AuthID": "485051",
+    "OfficialName": "Shawnee County"
+  },
+  {
+    "State": "KS",
+    "AuthID": "484977",
+    "OfficialName": "Butler County"
+  },
+  {
+    "State": "KS",
+    "AuthID": "KS_SPEC_UTILITY_KC",
+    "OfficialName": "Kansas City Board of Public Utilities"
+  },
+  {
+    "State": "KY",
+    "AuthID": "516847",
+    "OfficialName": "Adair County"
+  },
+  {
+    "State": "MA",
+    "AuthID": "PD_MA_amherst",
+    "OfficialName": "Amherst Police Department"
+  },
+  {
+    "State": "MA",
+    "AuthID": "611686",
+    "OfficialName": "City of Town of Franklin"
+  },
+  {
+    "State": "MI",
+    "AuthID": "1622944",
+    "OfficialName": "Alger County"
+  },
+  {
+    "State": "MI",
+    "AuthID": "1622970",
+    "OfficialName": "Grand Traverse County"
+  },
+  {
+    "State": "MI",
+    "AuthID": "2398389",
+    "OfficialName": "Village of Lakeview"
+  },
+  {
+    "State": "MN",
+    "AuthID": "662849",
+    "OfficialName": "State of Minnesota"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659502",
+    "OfficialName": "Pennington County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659520",
+    "OfficialName": "Swift County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659460",
+    "OfficialName": "Clearwater County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659509",
+    "OfficialName": "Redwood County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659496",
+    "OfficialName": "Murray County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659521",
+    "OfficialName": "Todd County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659492",
+    "OfficialName": "Meeker County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659524",
+    "OfficialName": "Wadena County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659499",
+    "OfficialName": "Norman County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659508",
+    "OfficialName": "Red Lake County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659474",
+    "OfficialName": "Hubbard County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659477",
+    "OfficialName": "Jackson County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659522",
+    "OfficialName": "Traverse County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659478",
+    "OfficialName": "Kanabec County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659462",
+    "OfficialName": "Cottonwood County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659525",
+    "OfficialName": "Waseca County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659451",
+    "OfficialName": "Big Stone County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659527",
+    "OfficialName": "Watonwan County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659519",
+    "OfficialName": "Stevens County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659481",
+    "OfficialName": "Koochiching County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "663198",
+    "OfficialName": "Aitkin County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659489",
+    "OfficialName": "Marshall County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659494",
+    "OfficialName": "Morrison County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659461",
+    "OfficialName": "Cook County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659516",
+    "OfficialName": "Sibley County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659480",
+    "OfficialName": "Kittson County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659504",
+    "OfficialName": "Pipestone County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659448",
+    "OfficialName": "Becker County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659471",
+    "OfficialName": "Grant County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659457",
+    "OfficialName": "Chippewa County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659503",
+    "OfficialName": "Pine County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659467",
+    "OfficialName": "Faribault County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659510",
+    "OfficialName": "Renville County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659488",
+    "OfficialName": "Mahnomen County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659506",
+    "OfficialName": "Pope County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659531",
+    "OfficialName": "Yellow Medicine County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659482",
+    "OfficialName": "Lac qui Parle County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659513",
+    "OfficialName": "Roseau County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659483",
+    "OfficialName": "Lake of the Woods County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659486",
+    "OfficialName": "Lincoln County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659512",
+    "OfficialName": "Rock County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659469",
+    "OfficialName": "Freeborn County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659466",
+    "OfficialName": "Douglas County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659495",
+    "OfficialName": "Mower County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659449",
+    "OfficialName": "Beltrami County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659463",
+    "OfficialName": "Crow Wing County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659456",
+    "OfficialName": "Cass County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659454",
+    "OfficialName": "Carlton County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659484",
+    "OfficialName": "Lake County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "662850",
+    "OfficialName": "St. Louis County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659490",
+    "OfficialName": "Martin County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659459",
+    "OfficialName": "Clay County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659511",
+    "OfficialName": "Rice County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659501",
+    "OfficialName": "Otter Tail County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659505",
+    "OfficialName": "Polk County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659476",
+    "OfficialName": "Itasca County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659491",
+    "OfficialName": "McLeod County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659473",
+    "OfficialName": "Houston County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659497",
+    "OfficialName": "Nicollet County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659452",
+    "OfficialName": "Blue Earth County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659487",
+    "OfficialName": "Lyon County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659530",
+    "OfficialName": "Wright County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659472",
+    "OfficialName": "Hennepin County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659455",
+    "OfficialName": "Carver County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659526",
+    "OfficialName": "Washington County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659514",
+    "OfficialName": "Scott County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659493",
+    "OfficialName": "Mille Lacs County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659507",
+    "OfficialName": "Ramsey County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659515",
+    "OfficialName": "Sherburne County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659475",
+    "OfficialName": "Isanti County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659464",
+    "OfficialName": "Dakota County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659447",
+    "OfficialName": "Anoka County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659485",
+    "OfficialName": "Le Sueur County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659458",
+    "OfficialName": "Chisago County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659453",
+    "OfficialName": "Brown County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659518",
+    "OfficialName": "Steele County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659470",
+    "OfficialName": "Goodhue County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659468",
+    "OfficialName": "Fillmore County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659523",
+    "OfficialName": "Wabasha County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659500",
+    "OfficialName": "Olmsted County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659465",
+    "OfficialName": "Dodge County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659450",
+    "OfficialName": "Benton County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659517",
+    "OfficialName": "Stearns County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659528",
+    "OfficialName": "Wilkin County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659479",
+    "OfficialName": "Kandiyohi County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659529",
+    "OfficialName": "Winona County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "659498",
+    "OfficialName": "Nobles County"
+  },
+  {
+    "State": "MN",
+    "AuthID": "2394178",
+    "OfficialName": "City of Biwabik"
+  },
+  {
+    "State": "MN",
+    "AuthID": "666076",
+    "OfficialName": "City of Zumbrota"
+  },
+  {
+    "State": "MN",
+    "AuthID": "2395659",
+    "OfficialName": "City of Le Sueur"
+  },
+  {
+    "State": "MN",
+    "AuthID": "2394742",
+    "OfficialName": "City of Faribault"
+  },
+  {
+    "State": "MO",
+    "AuthID": "765805",
+    "OfficialName": "Adair County"
+  },
+  {
+    "State": "MO",
+    "AuthID": "2395942",
+    "OfficialName": "City of Springfield"
+  },
+  {
+    "State": "MO",
+    "AuthID": "2394242",
+    "OfficialName": "City of Branson"
+  },
+  {
+    "State": "MO",
+    "AuthID": "MO_UNI_MSU",
+    "OfficialName": "University of Missouri"
+  },
+  {
+    "State": "MS",
+    "AuthID": "695727",
+    "OfficialName": "Amite County"
+  },
+  {
+    "State": "MS",
+    "AuthID": "695726",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "NC",
+    "AuthID": "1008543",
+    "OfficialName": "Catawba County"
+  },
+  {
+    "State": "NC",
+    "AuthID": "2404032",
+    "OfficialName": "City of Charlotte"
+  },
+  {
+    "State": "NC",
+    "AuthID": "2403753",
+    "OfficialName": "City of Greenville"
+  },
+  {
+    "State": "NC",
+    "AuthID": "NC_AIRPORT_RDU",
+    "OfficialName": "Raleigh Durham Airport Authority"
+  },
+  {
+    "State": "NC",
+    "AuthID": "NC_TMSA_CHARTER",
+    "OfficialName": "TMSA Public Charter Schools"
+  },
+  {
+    "State": "NC",
+    "AuthID": "NC_CHA",
+    "OfficialName": "Charlotte Housing Authority"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1035299",
+    "OfficialName": "McKenzie County"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1034210",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1035623",
+    "OfficialName": "Dunn County"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1034226",
+    "OfficialName": "Cass County"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1035991",
+    "OfficialName": "City of Dickinson"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1035934",
+    "OfficialName": "City of Bismarck"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1036133",
+    "OfficialName": "City of Lisbon"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1036165",
+    "OfficialName": "City of Minot"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1036238",
+    "OfficialName": "City of Richardton"
+  },
+  {
+    "State": "ND",
+    "AuthID": "1036030",
+    "OfficialName": "City of Fargo"
+  },
+  {
+    "State": "NE",
+    "AuthID": "835823",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "NH",
+    "AuthID": "873580",
+    "OfficialName": "City of Dover"
+  },
+  {
+    "State": "NH",
+    "AuthID": "3302640",
+    "OfficialName": "Dover School District"
+  },
+  {
+    "State": "NV",
+    "AuthID": "858608",
+    "OfficialName": "Washoe County"
+  },
+  {
+    "State": "NV",
+    "AuthID": "2410428",
+    "OfficialName": "City of Elko"
+  },
+  {
+    "State": "NV",
+    "AuthID": "3200060",
+    "OfficialName": "Clark County School District"
+  },
+  {
+    "State": "NV",
+    "AuthID": "3200480",
+    "OfficialName": "Washoe County School District"
+  },
+  {
+    "State": "NV",
+    "AuthID": "NV_RHA",
+    "OfficialName": "Reno Housing Authority"
+  },
+  {
+    "State": "NV",
+    "AuthID": "3200120",
+    "OfficialName": "Elko County School District"
+  },
+  {
+    "State": "OH",
+    "AuthID": "1074014",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "OH",
+    "AuthID": "1074043",
+    "OfficialName": "Hamilton County"
+  },
+  {
+    "State": "OK",
+    "AuthID": "1102857",
+    "OfficialName": "State of Oklahoma"
+  },
+  {
+    "State": "OK",
+    "AuthID": "1101788",
+    "OfficialName": "Adair County"
+  },
+  {
+    "State": "OK",
+    "AuthID": "1101789",
+    "OfficialName": "Alfalfa County"
+  },
+  {
+    "State": "OR",
+    "AuthID": "1155107",
+    "OfficialName": "State of Oregon"
+  },
+  {
+    "State": "OR",
+    "AuthID": "1135845",
+    "OfficialName": "Baker County"
+  },
+  {
+    "State": "PA",
+    "AuthID": "1213656",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "SC",
+    "AuthID": "1245666",
+    "OfficialName": "Abbeville County"
+  },
+  {
+    "State": "SC",
+    "AuthID": "1247979",
+    "OfficialName": "Aiken County"
+  },
+  {
+    "State": "SC",
+    "AuthID": "2403055",
+    "OfficialName": "City of Abbeville"
+  },
+  {
+    "State": "SC",
+    "AuthID": "4500720",
+    "OfficialName": "Aiken County Public Schools"
+  },
+  {
+    "State": "TN",
+    "AuthID": "4701590",
+    "OfficialName": "Hamilton County"
+  },
+  {
+    "State": "TX",
+    "AuthID": "2410288",
+    "OfficialName": "City of Dallas"
+  },
+  {
+    "State": "TX",
+    "AuthID": "2410796",
+    "OfficialName": "City of Houston"
+  },
+  {
+    "State": "TX",
+    "AuthID": "2412162",
+    "OfficialName": "City of Waco"
+  },
+  {
+    "State": "TX",
+    "AuthID": "2409810",
+    "OfficialName": "City of Bedford"
+  },
+  {
+    "State": "TX",
+    "AuthID": "TX_SJCC",
+    "OfficialName": "San Jacinto Community College District"
+  },
+  {
+    "State": "TX",
+    "AuthID": "4825170",
+    "OfficialName": "Katy Independent School District"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1480091",
+    "OfficialName": "Accomack County"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1690739",
+    "OfficialName": "Dinwiddie County"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1674271",
+    "OfficialName": "Goochland County"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1498554",
+    "OfficialName": "City of Hampton"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1498560",
+    "OfficialName": "City of Suffolk"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1498559",
+    "OfficialName": "City of Virginia Beach"
+  },
+  {
+    "State": "VA",
+    "AuthID": "1498430",
+    "OfficialName": "City of Manassas"
+  },
+  {
+    "State": "VA",
+    "AuthID": "5102360",
+    "OfficialName": "Manassas City Public Schools"
+  },
+  {
+    "State": "VA",
+    "AuthID": "5103840",
+    "OfficialName": "Virginia Beach City Public Schools"
+  },
+  {
+    "State": "WA",
+    "AuthID": "1529159",
+    "OfficialName": "Pierce County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582650",
+    "OfficialName": "City of Abbotsford"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582658",
+    "OfficialName": "Village of Adell"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582665",
+    "OfficialName": "Village of Albany"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582674",
+    "OfficialName": "Village of Allouez"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582678",
+    "OfficialName": "Village of Alma Center"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582679",
+    "OfficialName": "Village of Almena"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582685",
+    "OfficialName": "City of Altoona"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582689",
+    "OfficialName": "Village of Amherst"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582700",
+    "OfficialName": "City of Antigo"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582703",
+    "OfficialName": "City of Appleton"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582705",
+    "OfficialName": "City of Arcadia"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582723",
+    "OfficialName": "City of Ashland"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582743",
+    "OfficialName": "Village of Baldwin"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582755",
+    "OfficialName": "City of Barron"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582777",
+    "OfficialName": "City of Beaver Dam"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582791",
+    "OfficialName": "City of Beloit"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582799",
+    "OfficialName": "City of Berlin"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2585058",
+    "OfficialName": "Town of Birch Hill"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582822",
+    "OfficialName": "City of Black River Falls"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582826",
+    "OfficialName": "City of Blair"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582828",
+    "OfficialName": "Village of Blanchardville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582830",
+    "OfficialName": "City of Bloomer"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582843",
+    "OfficialName": "City of Boscobel"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582867",
+    "OfficialName": "City of Brookfield"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582888",
+    "OfficialName": "City of Burlington"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582920",
+    "OfficialName": "Village of Cascade"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582924",
+    "OfficialName": "Village of Cashton"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586465",
+    "OfficialName": "Town of Chelsea"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582951",
+    "OfficialName": "City of Chetek"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582958",
+    "OfficialName": "City of Chippewa Falls"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582986",
+    "OfficialName": "City of Clintonville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582997",
+    "OfficialName": "City of Colby"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583001",
+    "OfficialName": "Village of Colfax"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583023",
+    "OfficialName": "City of Crandon"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583027",
+    "OfficialName": "Village of Crivitz"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583064",
+    "OfficialName": "Village of DeForest"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583066",
+    "OfficialName": "City of Delafield"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583068",
+    "OfficialName": "City of Delavan"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2393393",
+    "OfficialName": "Town of Delavan Lake"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583087",
+    "OfficialName": "City of Dodgeville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586477",
+    "OfficialName": "Town of Drummond"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583108",
+    "OfficialName": "City of Durand"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583119",
+    "OfficialName": "Village of East Troy"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583124",
+    "OfficialName": "City of Eau Claire"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583132",
+    "OfficialName": "Village of Edgar"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583155",
+    "OfficialName": "Village of Ellsworth"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586485",
+    "OfficialName": "Town of Emerald"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583184",
+    "OfficialName": "Village of Fairchild"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583188",
+    "OfficialName": "Village of Fall Creek"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583208",
+    "OfficialName": "City of Fond du Lac"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583217",
+    "OfficialName": "Village of Forestville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583248",
+    "OfficialName": "Village of Friendship"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583273",
+    "OfficialName": "City of Gillett"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583309",
+    "OfficialName": "City of Green Bay"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2746307",
+    "OfficialName": "Village of Harrison"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583370",
+    "OfficialName": "City of Hayward"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583372",
+    "OfficialName": "Village of Hazel Green"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586504",
+    "OfficialName": "Town of Hingham"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583448",
+    "OfficialName": "City of Janesville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583463",
+    "OfficialName": "City of Kaukauna"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583478",
+    "OfficialName": "City of Kiel"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583499",
+    "OfficialName": "City of La Crosse"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583532",
+    "OfficialName": "Village of La Valle"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583500",
+    "OfficialName": "City of Ladysmith"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583510",
+    "OfficialName": "Village of Lake Delton"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583511",
+    "OfficialName": "City of Lake Geneva"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586524",
+    "OfficialName": "Town of Lebanon"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583540",
+    "OfficialName": "Village of Lena"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583589",
+    "OfficialName": "City of Lodi"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583595",
+    "OfficialName": "Village of Lone Rock"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583625",
+    "OfficialName": "City of Madison"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583636",
+    "OfficialName": "City of Manitowoc"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583659",
+    "OfficialName": "City of Markesan"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583676",
+    "OfficialName": "City of Mayville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583683",
+    "OfficialName": "City of Medford"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583688",
+    "OfficialName": "City of Mellen"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583724",
+    "OfficialName": "City of Milwaukee"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586533",
+    "OfficialName": "Town of Minocqua"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583735",
+    "OfficialName": "City of Mondovi"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583784",
+    "OfficialName": "City of Neenah"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583786",
+    "OfficialName": "City of Neillsville"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583809",
+    "OfficialName": "City of New Holstein"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583813",
+    "OfficialName": "City of New London"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583816",
+    "OfficialName": "City of New Richmond"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583824",
+    "OfficialName": "Village of North Bay"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583847",
+    "OfficialName": "City of Oconomowoc"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583850",
+    "OfficialName": "City of Oconto"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583852",
+    "OfficialName": "City of Oconto Falls"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583876",
+    "OfficialName": "City of Oshkosh"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583908",
+    "OfficialName": "Village of Pepin"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583913",
+    "OfficialName": "City of Peshtigo"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583918",
+    "OfficialName": "City of Phillips"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583943",
+    "OfficialName": "Village of Plum City"
+  },
+  {
+    "State": "WI",
+    "AuthID": "2586545",
+    "OfficialName": "Town of Port Wing"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583991",
+    "OfficialName": "City of Racine"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584005",
+    "OfficialName": "City of Reedsburg"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584014",
+    "OfficialName": "City of Rhinelander"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584016",
+    "OfficialName": "Village of Rib Lake"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584045",
+    "OfficialName": "Village of Roberts"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584107",
+    "OfficialName": "Village of Scandinavia"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584135",
+    "OfficialName": "City of Shawano"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584155",
+    "OfficialName": "Village of Shorewood"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584171",
+    "OfficialName": "Village of Solon Springs"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584187",
+    "OfficialName": "City of Spooner"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584210",
+    "OfficialName": "City of Stanley"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584226",
+    "OfficialName": "Village of Stockbridge"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584237",
+    "OfficialName": "Village of Strum"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584290",
+    "OfficialName": "Village of Trempealeau"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584374",
+    "OfficialName": "Village of Waunakee"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584432",
+    "OfficialName": "City of Whitewater"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584462",
+    "OfficialName": "City of Wisconsin Dells"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581063",
+    "OfficialName": "Bayfield County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581074",
+    "OfficialName": "Door County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581086",
+    "OfficialName": "Jackson County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581112",
+    "OfficialName": "Richland County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581066",
+    "OfficialName": "Burnett County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581121",
+    "OfficialName": "Vernon County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581085",
+    "OfficialName": "Iron County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581120",
+    "OfficialName": "Trempealeau County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581127",
+    "OfficialName": "Waupaca County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581106",
+    "OfficialName": "Pepin County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581128",
+    "OfficialName": "Waushara County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581108",
+    "OfficialName": "Polk County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581065",
+    "OfficialName": "Buffalo County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581122",
+    "OfficialName": "Vilas County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581103",
+    "OfficialName": "Oneida County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581119",
+    "OfficialName": "Taylor County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581098",
+    "OfficialName": "Marquette County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581088",
+    "OfficialName": "Juneau County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581092",
+    "OfficialName": "Lafayette County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581116",
+    "OfficialName": "Sawyer County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581061",
+    "OfficialName": "Ashland County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581093",
+    "OfficialName": "Langlade County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581060",
+    "OfficialName": "Adams County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581071",
+    "OfficialName": "Crawford County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581062",
+    "OfficialName": "Barron County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581101",
+    "OfficialName": "Monroe County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581110",
+    "OfficialName": "Price County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581080",
+    "OfficialName": "Forest County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581083",
+    "OfficialName": "Green Lake County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581069",
+    "OfficialName": "Clark County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581114",
+    "OfficialName": "Rusk County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581104",
+    "OfficialName": "Outagamie County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581067",
+    "OfficialName": "Calumet County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581115",
+    "OfficialName": "Sauk County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581073",
+    "OfficialName": "Dodge County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581089",
+    "OfficialName": "Kenosha County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581075",
+    "OfficialName": "Douglas County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581068",
+    "OfficialName": "Chippewa County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581077",
+    "OfficialName": "Eau Claire County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581079",
+    "OfficialName": "Fond du Lac County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581064",
+    "OfficialName": "Brown County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581090",
+    "OfficialName": "Kewaunee County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581102",
+    "OfficialName": "Oconto County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581078",
+    "OfficialName": "Florence County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581113",
+    "OfficialName": "Rock County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581091",
+    "OfficialName": "La Crosse County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581084",
+    "OfficialName": "Iowa County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581072",
+    "OfficialName": "Dane County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581070",
+    "OfficialName": "Columbia County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581082",
+    "OfficialName": "Green County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581095",
+    "OfficialName": "Manitowoc County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581097",
+    "OfficialName": "Marinette County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581076",
+    "OfficialName": "Dunn County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581100",
+    "OfficialName": "Milwaukee County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581126",
+    "OfficialName": "Waukesha County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581125",
+    "OfficialName": "Washington County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581105",
+    "OfficialName": "Ozaukee County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581107",
+    "OfficialName": "Pierce County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581833",
+    "OfficialName": "St. Croix County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581129",
+    "OfficialName": "Winnebago County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581081",
+    "OfficialName": "Grant County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581111",
+    "OfficialName": "Racine County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581117",
+    "OfficialName": "Shawano County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581099",
+    "OfficialName": "Menominee County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581118",
+    "OfficialName": "Sheboygan County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581109",
+    "OfficialName": "Portage County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581087",
+    "OfficialName": "Jefferson County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581096",
+    "OfficialName": "Marathon County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581094",
+    "OfficialName": "Lincoln County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581123",
+    "OfficialName": "Walworth County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1581130",
+    "OfficialName": "Wood County"
+  },
+  {
+    "State": "WI",
+    "AuthID": "5509600",
+    "OfficialName": "Milwaukee Public School"
+  },
+  {
+    "State": "WI",
+    "AuthID": "5508520",
+    "OfficialName": "Madison Metropolitan School District"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583327",
+    "OfficialName": "Town of Grover"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1584003",
+    "OfficialName": "Town of Red River"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1582963",
+    "OfficialName": "Town of Clam Falls"
+  },
+  {
+    "State": "WI",
+    "AuthID": "8385047",
+    "OfficialName": "Town of Dairyland"
+  },
+  {
+    "State": "WI",
+    "AuthID": "1583272",
+    "OfficialName": "Town of Gibson"
+  },
+  {
+    "State": "WI",
+    "AuthID": "WI_DOT",
+    "OfficialName": "Wisconsin Department of Transportation"
+  }
+]

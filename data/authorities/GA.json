@@ -1,0 +1,53 @@
+[
+  {
+    "key": "State",
+    "value": "GA",
+    "row": {
+      "State": "GA",
+      "AuthID": "342832",
+      "OfficialName": "Baker County"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "Baker County",
+        "row": {
+          "State": "GA",
+          "AuthID": "342832",
+          "OfficialName": "Baker County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Fulton County",
+        "row": {
+          "State": "GA",
+          "AuthID": "1694833",
+          "OfficialName": "Fulton County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Habersham County",
+        "row": {
+          "State": "GA",
+          "AuthID": "351383",
+          "OfficialName": "Habersham County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Jackson County",
+        "row": {
+          "State": "GA",
+          "AuthID": "349570",
+          "OfficialName": "Jackson County"
+        },
+        "children": []
+      }
+    ]
+  }
+]

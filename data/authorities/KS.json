@@ -1,0 +1,43 @@
+[
+  {
+    "key": "State",
+    "value": "KS",
+    "row": {
+      "State": "KS",
+      "AuthID": "485051",
+      "OfficialName": "Shawnee County"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "Shawnee County",
+        "row": {
+          "State": "KS",
+          "AuthID": "485051",
+          "OfficialName": "Shawnee County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Butler County",
+        "row": {
+          "State": "KS",
+          "AuthID": "484977",
+          "OfficialName": "Butler County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Kansas City Board of Public Utilities",
+        "row": {
+          "State": "KS",
+          "AuthID": "KS_SPEC_UTILITY_KC",
+          "OfficialName": "Kansas City Board of Public Utilities"
+        },
+        "children": []
+      }
+    ]
+  }
+]

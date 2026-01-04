@@ -1,0 +1,5 @@
+[
+  { "code": "AK", "auth_id": "02", "name": "Alaska", "file": "AK" },
+  { "code": "WI", "auth_id": "55", "name": "Wisconsin", "file": "WI" },
+  { "code": "FL", "auth_id": "12", "name": "Florida", "file": "FL" }
+]

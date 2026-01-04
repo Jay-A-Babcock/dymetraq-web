@@ -1,0 +1,73 @@
+[
+  {
+    "key": "State",
+    "value": "TX",
+    "row": {
+      "State": "TX",
+      "AuthID": "2410288",
+      "OfficialName": "City of Dallas"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "City of Dallas",
+        "row": {
+          "State": "TX",
+          "AuthID": "2410288",
+          "OfficialName": "City of Dallas"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Houston",
+        "row": {
+          "State": "TX",
+          "AuthID": "2410796",
+          "OfficialName": "City of Houston"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Waco",
+        "row": {
+          "State": "TX",
+          "AuthID": "2412162",
+          "OfficialName": "City of Waco"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Bedford",
+        "row": {
+          "State": "TX",
+          "AuthID": "2409810",
+          "OfficialName": "City of Bedford"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "San Jacinto Community College District",
+        "row": {
+          "State": "TX",
+          "AuthID": "TX_SJCC",
+          "OfficialName": "San Jacinto Community College District"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Katy Independent School District",
+        "row": {
+          "State": "TX",
+          "AuthID": "4825170",
+          "OfficialName": "Katy Independent School District"
+        },
+        "children": []
+      }
+    ]
+  }
+]

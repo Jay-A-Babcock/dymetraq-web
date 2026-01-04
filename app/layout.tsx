@@ -15,22 +15,36 @@ export default function RootLayout({
       <body>
         <main className="main">
           <header className="masthead">
-            <h1><a href="/"><img src={"img/DT_logo.png"} style={{width: "100px"}}/></a></h1>
+            <h1>
+              <a href="/">
+                <img src={"/img/DT_logo.png"} style={{ width: "100px" }} />
+              </a>
+            </h1>
           </header>
 
           <nav className="menu">
             <h2>Navigation</h2>
             <ul>
-              <li><a href="/authorities">Authorities</a></li>
-              <li><a href="/contracts">Contracts</a></li>              
-              <li><a href="/entities">Entities</a></li>
+              <li>
+                <a href="/authorities">Authorities</a>
+              </li>
+              <li>
+                <a href="/contracts">Contracts</a>
+              </li>
+              <li>
+                <a href="/entities">Entities</a>
+              </li>
             </ul>
           </nav>
 
           {children}
 
           <footer className="footer">
-            <ul><li><a href="about">About Us</a></li></ul>
+            <ul>
+              <li>
+                <a href="about">About Us</a>
+              </li>
+            </ul>
             © 2026 DymeTraq
           </footer>
         </main>

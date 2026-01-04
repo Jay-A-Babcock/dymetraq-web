@@ -1,0 +1,53 @@
+[
+  {
+    "key": "State",
+    "value": "CA",
+    "row": {
+      "State": "CA",
+      "AuthID": "277314",
+      "OfficialName": "Stanislaus County"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "Stanislaus County",
+        "row": {
+          "State": "CA",
+          "AuthID": "277314",
+          "OfficialName": "Stanislaus County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of El Paso de Robles (Paso Robles)",
+        "row": {
+          "State": "CA",
+          "AuthID": "2410415",
+          "OfficialName": "City of El Paso de Robles (Paso Robles)"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Sunnyvale",
+        "row": {
+          "State": "CA",
+          "AuthID": "2412009",
+          "OfficialName": "City of Sunnyvale"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Sweetwater Union High",
+        "row": {
+          "State": "CA",
+          "AuthID": "0638640",
+          "OfficialName": "Sweetwater Union High"
+        },
+        "children": []
+      }
+    ]
+  }
+]

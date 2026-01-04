@@ -1,0 +1,73 @@
+[
+  {
+    "key": "State",
+    "value": "NV",
+    "row": {
+      "State": "NV",
+      "AuthID": "858608",
+      "OfficialName": "Washoe County"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "Washoe County",
+        "row": {
+          "State": "NV",
+          "AuthID": "858608",
+          "OfficialName": "Washoe County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Elko",
+        "row": {
+          "State": "NV",
+          "AuthID": "2410428",
+          "OfficialName": "City of Elko"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Clark County School District",
+        "row": {
+          "State": "NV",
+          "AuthID": "3200060",
+          "OfficialName": "Clark County School District"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Washoe County School District",
+        "row": {
+          "State": "NV",
+          "AuthID": "3200480",
+          "OfficialName": "Washoe County School District"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Reno Housing Authority",
+        "row": {
+          "State": "NV",
+          "AuthID": "NV_RHA",
+          "OfficialName": "Reno Housing Authority"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Elko County School District",
+        "row": {
+          "State": "NV",
+          "AuthID": "3200120",
+          "OfficialName": "Elko County School District"
+        },
+        "children": []
+      }
+    ]
+  }
+]

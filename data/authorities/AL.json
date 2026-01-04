@@ -1,0 +1,153 @@
+[
+  {
+    "key": "State",
+    "value": "AL",
+    "row": {
+      "State": "AL",
+      "AuthID": "1779775",
+      "OfficialName": "State of Alabama"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "State of Alabama",
+        "row": {
+          "State": "AL",
+          "AuthID": "1779775",
+          "OfficialName": "State of Alabama"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Lauderdale County",
+        "row": {
+          "State": "AL",
+          "AuthID": "161564",
+          "OfficialName": "Lauderdale County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Mobile County",
+        "row": {
+          "State": "AL",
+          "AuthID": "161575",
+          "OfficialName": "Mobile County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Autauga County",
+        "row": {
+          "State": "AL",
+          "AuthID": "161526",
+          "OfficialName": "Autauga County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Talladega County",
+        "row": {
+          "State": "AL",
+          "AuthID": "161586",
+          "OfficialName": "Talladega County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Hale County",
+        "row": {
+          "State": "AL",
+          "AuthID": "161558",
+          "OfficialName": "Hale County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Anniston",
+        "row": {
+          "State": "AL",
+          "AuthID": "2403101",
+          "OfficialName": "City of Anniston"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Athens",
+        "row": {
+          "State": "AL",
+          "AuthID": "2403123",
+          "OfficialName": "City of Athens"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Huntsville",
+        "row": {
+          "State": "AL",
+          "AuthID": "2404746",
+          "OfficialName": "City of Huntsville"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Montgomery",
+        "row": {
+          "State": "AL",
+          "AuthID": "2404289",
+          "OfficialName": "City of Montgomery"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Mobile",
+        "row": {
+          "State": "AL",
+          "AuthID": "2404278",
+          "OfficialName": "City of Mobile"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Decatur",
+        "row": {
+          "State": "AL",
+          "AuthID": "2404206",
+          "OfficialName": "City of Decatur"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Talladega County Schools",
+        "row": {
+          "State": "AL",
+          "AuthID": "0103180",
+          "OfficialName": "Talladega County Schools"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Mobile County Public Schools",
+        "row": {
+          "State": "AL",
+          "AuthID": "0102370",
+          "OfficialName": "Mobile County Public Schools"
+        },
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "key": "State",
+    "value": "ID",
+    "row": {
+      "State": "ID",
+      "AuthID": "395067",
+      "OfficialName": "Adams County"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "Adams County",
+        "row": {
+          "State": "ID",
+          "AuthID": "395067",
+          "OfficialName": "Adams County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Ada County",
+        "row": {
+          "State": "ID",
+          "AuthID": "395066",
+          "OfficialName": "Ada County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Nampa School District",
+        "row": {
+          "State": "ID",
+          "AuthID": "1602340",
+          "OfficialName": "Nampa School District"
+        },
+        "children": []
+      }
+    ]
+  }
+]

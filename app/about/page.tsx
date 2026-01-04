@@ -5,7 +5,16 @@ export default function HomePage() {
       <div className="detail-layout">
         <div className="detail-content">
           <h1>About DymeTraq</h1>
-          <p>DymeTraq was founded in 2026 by <a href="https://jay-a-babcock.github.io/portfolio/" target="_blank">Jay Babcock</a>.</p>
+          <p>
+            DymeTraq was founded in 2026 by{" "}
+            <a
+              href="https://jay-a-babcock.github.io/portfolio/"
+              target="_blank"
+            >
+              Jay Babcock
+            </a>
+            .
+          </p>
           <p>
             Our mission is to increase transparency and accountability in public
             spending through accessible data and tools.

@@ -1,0 +1,33 @@
+[
+  {
+    "key": "State",
+    "value": "MA",
+    "row": {
+      "State": "MA",
+      "AuthID": "PD_MA_amherst",
+      "OfficialName": "Amherst Police Department"
+    },
+    "children": [
+      {
+        "key": "OfficialName",
+        "value": "Amherst Police Department",
+        "row": {
+          "State": "MA",
+          "AuthID": "PD_MA_amherst",
+          "OfficialName": "Amherst Police Department"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Town of Franklin",
+        "row": {
+          "State": "MA",
+          "AuthID": "611686",
+          "OfficialName": "City of Town of Franklin"
+        },
+        "children": []
+      }
+    ]
+  }
+]
