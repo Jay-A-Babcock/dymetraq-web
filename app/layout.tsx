@@ -44,6 +44,9 @@ export default function RootLayout({
               <li>
                 <a href="about">About Us</a>
               </li>
+              <li>
+                <a href="dataset/#APIs">APIs</a>
+              </li>
             </ul>
             © 2026 DymeTraq
           </footer>

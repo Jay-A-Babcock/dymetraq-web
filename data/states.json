@@ -1,5 +1,21 @@
 [
-  { "code": "AK", "auth_id": "02", "name": "Alaska", "file": "AK" },
+  { "code": "CA", "auth_id": "06", "name": "California", "file": "CA" },
+  { "code": "TX", "auth_id": "48", "name": "Texas", "file": "TX" },
+  { "code": "NY", "auth_id": "36", "name": "New York", "file": "NY" },
+  { "code": "IL", "auth_id": "17", "name": "Illinois", "file": "IL" },
+  { "code": "FL", "auth_id": "12", "name": "Florida", "file": "FL" },
+  { "code": "PA", "auth_id": "42", "name": "Pennsylvania", "file": "PA" },
+  { "code": "OH", "auth_id": "39", "name": "Ohio", "file": "OH" },
+  { "code": "MI", "auth_id": "26", "name": "Michigan", "file": "MI" },
+  { "code": "NJ", "auth_id": "34", "name": "New Jersey", "file": "NJ" },
+  { "code": "VA", "auth_id": "51", "name": "Virginia", "file": "VA" },
+  { "code": "NC", "auth_id": "37", "name": "North Carolina", "file": "NC" },
+  { "code": "GA", "auth_id": "13", "name": "Georgia", "file": "GA" },
+  { "code": "WA", "auth_id": "53", "name": "Washington", "file": "WA" },
+  { "code": "MA", "auth_id": "25", "name": "Massachusetts", "file": "MA" },
+  { "code": "IN", "auth_id": "18", "name": "Indiana", "file": "IN" },
+  { "code": "TN", "auth_id": "47", "name": "Tennessee", "file": "TN" },
   { "code": "WI", "auth_id": "55", "name": "Wisconsin", "file": "WI" },
-  { "code": "FL", "auth_id": "12", "name": "Florida", "file": "FL" }
+  { "code": "MO", "auth_id": "29", "name": "Missouri", "file": "MO" },
+  { "code": "MD", "auth_id": "24", "name": "Maryland", "file": "MD" }
 ]
