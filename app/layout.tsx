@@ -34,6 +34,9 @@ export default function RootLayout({
               <li>
                 <a href="/entities">Entities</a>
               </li>
+                            <li>
+                <a href="/dataset">Dataset</a>
+              </li>
             </ul>
           </nav>
 

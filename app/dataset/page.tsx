@@ -21,6 +21,21 @@ export default function DatasetPage() {
             Soon, users will be able to gain access to DymeTraq's datasets via
             APIs. Stay-tuned!
           </div>
+          <h2 id="dataset_dashboard">Dataset Dashboard</h2>
+          <div className="coming-soon">
+            <p>
+              A comprehensive dataset dashboard is in the works. This dashboard
+              will show charts and graphs summarizing key aspects of the
+              dataset.
+            </p>
+            <a href="/img/visuals/contracts_by_state.png" target="_blank">
+              <img
+                src={"/img/visuals/contracts_by_state.png"}
+                alt="Contracts by State"
+                style={{ maxWidth: "25%", marginTop: "20px" }}
+              />
+            </a>
+          </div>
         </div>
       </div>
     </>

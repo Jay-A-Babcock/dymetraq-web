@@ -10,11 +10,7 @@ export default function HomePage() {
             Currently, the project is collecting information about
             publicly-awarded contracts from around the country.
           </p>
-          <img
-            src={"/img/visuals/contracts_by_state.png"}
-            alt="Contracts by State"
-            style={{ maxWidth: "50%", marginTop: "20px" }}
-          />
+
         </div>
       </div>
     </>
