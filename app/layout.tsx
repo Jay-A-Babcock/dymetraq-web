@@ -21,7 +21,6 @@ export default function RootLayout({
               </a>
             </h1>
           </header>
-
           <nav className="menu">
             <h2>Navigation</h2>
             <ul>
@@ -34,8 +33,11 @@ export default function RootLayout({
               <li>
                 <a href="/entities">Entities</a>
               </li>
-                            <li>
+              <li>
                 <a href="/dataset">Dataset</a>
+              </li>
+              <li>
+                <a href="/ORR">Open Records Requests</a>
               </li>
             </ul>
           </nav>

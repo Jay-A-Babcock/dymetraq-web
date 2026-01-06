@@ -16,6 +16,7 @@ export default function DatasetPage() {
             various public records and government databases to ensure accuracy
             and reliability.
           </p>
+          <p><a href="/dataset/matrix">Field Matrix</a></p>
           <h2 id="APIs">APIs</h2>
           <div className="coming-soon">
             Soon, users will be able to gain access to DymeTraq's datasets via
