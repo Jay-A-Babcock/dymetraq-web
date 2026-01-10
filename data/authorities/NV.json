@@ -4,47 +4,39 @@
     "value": "NV",
     "row": {
       "State": "NV",
-      "AuthID": "858608",
-      "OfficialName": "Washoe County"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_2410428",
+      "OfficialName": "City of Elko"
     },
     "children": [
-      {
-        "key": "OfficialName",
-        "value": "Washoe County",
-        "row": {
-          "State": "NV",
-          "AuthID": "858608",
-          "OfficialName": "Washoe County"
-        },
-        "children": []
-      },
       {
         "key": "OfficialName",
         "value": "City of Elko",
         "row": {
           "State": "NV",
-          "AuthID": "2410428",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2410428",
           "OfficialName": "City of Elko"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Clark County School District",
+        "value": "Washoe County",
         "row": {
           "State": "NV",
-          "AuthID": "3200060",
-          "OfficialName": "Clark County School District"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Washoe County School District",
-        "row": {
-          "State": "NV",
-          "AuthID": "3200480",
-          "OfficialName": "Washoe County School District"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_858608",
+          "OfficialName": "Washoe County"
         },
         "children": []
       },
@@ -53,8 +45,26 @@
         "value": "Reno Housing Authority",
         "row": {
           "State": "NV",
+          "Class": "housing_authority",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "NV_RHA",
           "OfficialName": "Reno Housing Authority"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Clark County School District",
+        "row": {
+          "State": "NV",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_3200060",
+          "OfficialName": "Clark County School District"
         },
         "children": []
       },
@@ -63,8 +73,26 @@
         "value": "Elko County School District",
         "row": {
           "State": "NV",
-          "AuthID": "3200120",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_3200120",
           "OfficialName": "Elko County School District"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Washoe County School District",
+        "row": {
+          "State": "NV",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_3200480",
+          "OfficialName": "Washoe County School District"
         },
         "children": []
       }

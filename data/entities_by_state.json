@@ -1,15 +1,15 @@
 [
   {
+    "state_abbr": "IL",
+    "UniqueEntities": 525
+  },
+  {
     "state_abbr": "WI",
     "UniqueEntities": 496
   },
   {
     "state_abbr": "FL",
     "UniqueEntities": 398
-  },
-  {
-    "state_abbr": "IL",
-    "UniqueEntities": 336
   },
   {
     "state_abbr": "VA",

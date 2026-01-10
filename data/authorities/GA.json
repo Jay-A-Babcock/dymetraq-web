@@ -4,7 +4,11 @@
     "value": "GA",
     "row": {
       "State": "GA",
-      "AuthID": "342832",
+      "Class": "county",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_342832",
       "OfficialName": "Baker County"
     },
     "children": [
@@ -13,7 +17,11 @@
         "value": "Baker County",
         "row": {
           "State": "GA",
-          "AuthID": "342832",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_342832",
           "OfficialName": "Baker County"
         },
         "children": []
@@ -23,7 +31,11 @@
         "value": "Fulton County",
         "row": {
           "State": "GA",
-          "AuthID": "1694833",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1694833",
           "OfficialName": "Fulton County"
         },
         "children": []
@@ -33,7 +45,11 @@
         "value": "Habersham County",
         "row": {
           "State": "GA",
-          "AuthID": "351383",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_351383",
           "OfficialName": "Habersham County"
         },
         "children": []
@@ -43,8 +59,40 @@
         "value": "Jackson County",
         "row": {
           "State": "GA",
-          "AuthID": "349570",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_349570",
           "OfficialName": "Jackson County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Atlanta Public Schools",
+        "row": {
+          "State": "GA",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_1300120",
+          "OfficialName": "Atlanta Public Schools"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Bibb County School District",
+        "row": {
+          "State": "GA",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_1300420",
+          "OfficialName": "Bibb County School District"
         },
         "children": []
       }

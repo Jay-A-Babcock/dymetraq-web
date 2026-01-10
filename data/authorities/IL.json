@@ -4,47 +4,25 @@
     "value": "IL",
     "row": {
       "State": "IL",
-      "AuthID": "422191",
-      "OfficialName": "DuPage County"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_428803",
+      "OfficialName": "City of Chicago"
     },
     "children": [
       {
         "key": "OfficialName",
-        "value": "DuPage County",
+        "value": "City of Chicago",
         "row": {
           "State": "IL",
-          "AuthID": "422191",
-          "OfficialName": "DuPage County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Will County",
-        "row": {
-          "State": "IL",
-          "AuthID": "1785190",
-          "OfficialName": "Will County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Adams County",
-        "row": {
-          "State": "IL",
-          "AuthID": "424202",
-          "OfficialName": "Adams County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Winnebago County",
-        "row": {
-          "State": "IL",
-          "AuthID": "1785216",
-          "OfficialName": "Winnebago County"
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_428803",
+          "OfficialName": "City of Chicago"
         },
         "children": []
       },
@@ -53,7 +31,11 @@
         "value": "City of Naperville",
         "row": {
           "State": "IL",
-          "AuthID": "2395147",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2395147",
           "OfficialName": "City of Naperville"
         },
         "children": []
@@ -63,48 +45,124 @@
         "value": "City of Wheaton",
         "row": {
           "State": "IL",
-          "AuthID": "2397294",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2397294",
           "OfficialName": "City of Wheaton"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "City of Chicago",
+        "value": "Adams County",
         "row": {
           "State": "IL",
-          "AuthID": "428803",
-          "OfficialName": "City of Chicago"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_424202",
+          "OfficialName": "Adams County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Village of Glenview",
+        "value": "DuPage County",
         "row": {
           "State": "IL",
-          "AuthID": "2398977",
-          "OfficialName": "Village of Glenview"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_422191",
+          "OfficialName": "DuPage County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Village of Oswego",
+        "value": "Will County",
         "row": {
           "State": "IL",
-          "AuthID": "2399593",
-          "OfficialName": "Village of Oswego"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1785190",
+          "OfficialName": "Will County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Village of Lincolnwood",
+        "value": "Winnebago County",
         "row": {
           "State": "IL",
-          "AuthID": "2398443",
-          "OfficialName": "Village of Lincolnwood"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1785216",
+          "OfficialName": "Winnebago County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Glenview Public Library",
+        "row": {
+          "State": "IL",
+          "Class": "library",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "IL_SPEC_LIB_GLENVIEW",
+          "OfficialName": "Glenview Public Library"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Chicago Police Department",
+        "row": {
+          "State": "IL",
+          "Class": "police_department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "IL_PD_CPD",
+          "OfficialName": "Chicago Police Department"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Chicago Transit Authority",
+        "row": {
+          "State": "IL",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "IL_CTA",
+          "OfficialName": "Chicago Transit Authority"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Dupage County Health Department",
+        "row": {
+          "State": "IL",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "IL_SPEC_HEALTH_DUPAGE",
+          "OfficialName": "Dupage County Health Department"
         },
         "children": []
       },
@@ -113,6 +171,10 @@
         "value": "Park District of Highland Park",
         "row": {
           "State": "IL",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "IL_SPEC_PARKS_HIGHLAND_PARK",
           "OfficialName": "Park District of Highland Park"
         },
@@ -123,6 +185,10 @@
         "value": "Rockford Park District",
         "row": {
           "State": "IL",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "IL_SPEC_PARKS_ROCKLAND",
           "OfficialName": "Rockford Park District"
         },
@@ -130,41 +196,57 @@
       },
       {
         "key": "OfficialName",
-        "value": "Glenview Public Library",
+        "value": "Village of Glenview",
         "row": {
           "State": "IL",
-          "AuthID": "IL_SPEC_LIB_GLENVIEW",
-          "OfficialName": "Glenview Public Library"
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2398977",
+          "OfficialName": "Village of Glenview"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Dupage County Health Department",
+        "value": "Village of Lake in the Hills",
         "row": {
           "State": "IL",
-          "AuthID": "IL_SPEC_HEALTH_DUPAGE",
-          "OfficialName": "Dupage County Health Department"
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2398378",
+          "OfficialName": "Village of Lake in the Hills"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Chicago Transit Authority",
+        "value": "Village of Lincolnwood",
         "row": {
           "State": "IL",
-          "AuthID": "IL_CTA",
-          "OfficialName": "Chicago Transit Authority"
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2398443",
+          "OfficialName": "Village of Lincolnwood"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Chicago Police Department",
+        "value": "Village of Oswego",
         "row": {
           "State": "IL",
-          "AuthID": "IL_PD_CPD",
-          "OfficialName": "Chicago Police Department"
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2399593",
+          "OfficialName": "Village of Oswego"
         },
         "children": []
       }

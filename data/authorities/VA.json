@@ -4,47 +4,39 @@
     "value": "VA",
     "row": {
       "State": "VA",
-      "AuthID": "1480091",
-      "OfficialName": "Accomack County"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_1498554",
+      "OfficialName": "City of Hampton"
     },
     "children": [
-      {
-        "key": "OfficialName",
-        "value": "Accomack County",
-        "row": {
-          "State": "VA",
-          "AuthID": "1480091",
-          "OfficialName": "Accomack County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Dinwiddie County",
-        "row": {
-          "State": "VA",
-          "AuthID": "1690739",
-          "OfficialName": "Dinwiddie County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Goochland County",
-        "row": {
-          "State": "VA",
-          "AuthID": "1674271",
-          "OfficialName": "Goochland County"
-        },
-        "children": []
-      },
       {
         "key": "OfficialName",
         "value": "City of Hampton",
         "row": {
           "State": "VA",
-          "AuthID": "1498554",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1498554",
           "OfficialName": "City of Hampton"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Manassas",
+        "row": {
+          "State": "VA",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1498430",
+          "OfficialName": "City of Manassas"
         },
         "children": []
       },
@@ -53,7 +45,11 @@
         "value": "City of Suffolk",
         "row": {
           "State": "VA",
-          "AuthID": "1498560",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1498560",
           "OfficialName": "City of Suffolk"
         },
         "children": []
@@ -63,18 +59,68 @@
         "value": "City of Virginia Beach",
         "row": {
           "State": "VA",
-          "AuthID": "1498559",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1498559",
           "OfficialName": "City of Virginia Beach"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "City of Manassas",
+        "value": "Accomack County",
         "row": {
           "State": "VA",
-          "AuthID": "1498430",
-          "OfficialName": "City of Manassas"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1480091",
+          "OfficialName": "Accomack County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Dinwiddie County",
+        "row": {
+          "State": "VA",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1690739",
+          "OfficialName": "Dinwiddie County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Fairfax County",
+        "row": {
+          "State": "VA",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1480119",
+          "OfficialName": "Fairfax County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Goochland County",
+        "row": {
+          "State": "VA",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1674271",
+          "OfficialName": "Goochland County"
         },
         "children": []
       },
@@ -83,7 +129,11 @@
         "value": "Manassas City Public Schools",
         "row": {
           "State": "VA",
-          "AuthID": "5102360",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_5102360",
           "OfficialName": "Manassas City Public Schools"
         },
         "children": []
@@ -93,7 +143,11 @@
         "value": "Virginia Beach City Public Schools",
         "row": {
           "State": "VA",
-          "AuthID": "5103840",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_5103840",
           "OfficialName": "Virginia Beach City Public Schools"
         },
         "children": []

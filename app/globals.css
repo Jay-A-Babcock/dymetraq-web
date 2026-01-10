@@ -1,4 +1,5 @@
 /* app/globals.css */
+@import "@fortawesome/fontawesome-free/css/all.min.css";
 
 .coming-soon {
   background-color: #fff8b3;
@@ -31,17 +32,17 @@ body {
 main.main {
   display: grid;
   grid-template-columns: 150px 1fr 250px;
-  grid-template-rows: auto 1fr auto;
-  height: 100vh;
-  gap: 0;
+  grid-template-rows: auto 1fr;
+  height: 95vh;
 }
+
 
 /* Masthead spans full width */
 header.masthead {
   grid-column: 1 / -1;
   background-color: #c8d4f0;
   padding: 20px;
-  border-bottom: 2px solid #999;
+  /* border-bottom: 2px solid #999; */
 }
 
 header.masthead h1 {
@@ -55,7 +56,7 @@ nav.menu {
   grid-row: 2;
   background-color: #d9e4f7;
   padding: 20px;
-  border-right: 2px solid #999;
+  /* border-right: 2px solid #999; */
   overflow-y: auto;
 }
 
@@ -186,4 +187,53 @@ footer.footer {
   margin-left: 16px;
   border-left: 1px solid #ddd;
   padding-left: 8px;
+}
+
+/* Global Footer */
+.dt-global-footer {
+  padding: 2rem 0;
+  border-top: 1px solid #ddd;
+  font-size: 0.9rem;
+  background-color: #c8d4f0;
+}
+
+.dt-global-footer-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dt-global-footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.dt-global-footer-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.dt-global-footer-links a:hover {
+  text-decoration: underline;
+}
+
+.dt-global-footer-social {
+  display: flex;
+  gap: 1rem;
+  font-size: 1.2rem;
+}
+
+.dt-global-footer-social a {
+  color: #555;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.dt-global-footer-social a:hover {
+  color: #000;
 }

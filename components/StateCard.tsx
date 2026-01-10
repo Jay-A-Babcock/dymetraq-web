@@ -15,14 +15,18 @@ export default function StateCard({
   authorityCount,
 }: StateCardProps) {
   return (
-    <Link href={`/authorities/${code}`}>
-      <div className="state-card">
-        <h3>{name}</h3>
-        {description && <p>{description}</p>}
-        {authorityCount && (
-          <small>{authorityCount} authorities</small>
-        )}
-      </div>
-    </Link>
+    <div className="state-card">
+      <h3>
+        <Link href={`/authorities/${code}`}>
+          {name}
+        </Link>
+      </h3>
+
+      {description && <p>{description}</p>}
+
+      {authorityCount !== undefined && (
+        <small>{authorityCount} authorities</small>
+      )}
+    </div>
   );
 }

@@ -4,17 +4,25 @@
     "value": "MA",
     "row": {
       "State": "MA",
-      "AuthID": "PD_MA_amherst",
-      "OfficialName": "Amherst Police Department"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_618248",
+      "OfficialName": "City of Barnstable Town"
     },
     "children": [
       {
         "key": "OfficialName",
-        "value": "Amherst Police Department",
+        "value": "City of Barnstable Town",
         "row": {
           "State": "MA",
-          "AuthID": "PD_MA_amherst",
-          "OfficialName": "Amherst Police Department"
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_618248",
+          "OfficialName": "City of Barnstable Town"
         },
         "children": []
       },
@@ -23,8 +31,26 @@
         "value": "City of Town of Franklin",
         "row": {
           "State": "MA",
-          "AuthID": "611686",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_611686",
           "OfficialName": "City of Town of Franklin"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Amherst Police Department",
+        "row": {
+          "State": "MA",
+          "Class": "police_department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "PD_MA_amherst",
+          "OfficialName": "Amherst Police Department"
         },
         "children": []
       }

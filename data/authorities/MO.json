@@ -4,17 +4,25 @@
     "value": "MO",
     "row": {
       "State": "MO",
-      "AuthID": "765805",
-      "OfficialName": "Adair County"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_2394242",
+      "OfficialName": "City of Branson"
     },
     "children": [
       {
         "key": "OfficialName",
-        "value": "Adair County",
+        "value": "City of Branson",
         "row": {
           "State": "MO",
-          "AuthID": "765805",
-          "OfficialName": "Adair County"
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2394242",
+          "OfficialName": "City of Branson"
         },
         "children": []
       },
@@ -23,18 +31,54 @@
         "value": "City of Springfield",
         "row": {
           "State": "MO",
-          "AuthID": "2395942",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2395942",
           "OfficialName": "City of Springfield"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "City of Branson",
+        "value": "Adair County",
         "row": {
           "State": "MO",
-          "AuthID": "2394242",
-          "OfficialName": "City of Branson"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_765805",
+          "OfficialName": "Adair County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Jackson County",
+        "row": {
+          "State": "MO",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_758502",
+          "OfficialName": "Jackson County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Parkway Schools",
+        "row": {
+          "State": "MO",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_2923580",
+          "OfficialName": "Parkway Schools"
         },
         "children": []
       },
@@ -43,6 +87,10 @@
         "value": "University of Missouri",
         "row": {
           "State": "MO",
+          "Class": "university",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "MO_UNI_MSU",
           "OfficialName": "University of Missouri"
         },

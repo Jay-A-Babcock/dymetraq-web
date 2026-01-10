@@ -4,26 +4,24 @@
     "value": "NC",
     "row": {
       "State": "NC",
-      "AuthID": "1008543",
-      "OfficialName": "Catawba County"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_2404032",
+      "OfficialName": "City of Charlotte"
     },
     "children": [
-      {
-        "key": "OfficialName",
-        "value": "Catawba County",
-        "row": {
-          "State": "NC",
-          "AuthID": "1008543",
-          "OfficialName": "Catawba County"
-        },
-        "children": []
-      },
       {
         "key": "OfficialName",
         "value": "City of Charlotte",
         "row": {
           "State": "NC",
-          "AuthID": "2404032",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2404032",
           "OfficialName": "City of Charlotte"
         },
         "children": []
@@ -33,8 +31,40 @@
         "value": "City of Greenville",
         "row": {
           "State": "NC",
-          "AuthID": "2403753",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2403753",
           "OfficialName": "City of Greenville"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Catawba County",
+        "row": {
+          "State": "NC",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1008543",
+          "OfficialName": "Catawba County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Charlotte Housing Authority",
+        "row": {
+          "State": "NC",
+          "Class": "housing_authority",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NC_CHA",
+          "OfficialName": "Charlotte Housing Authority"
         },
         "children": []
       },
@@ -43,6 +73,10 @@
         "value": "Raleigh Durham Airport Authority",
         "row": {
           "State": "NC",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "NC_AIRPORT_RDU",
           "OfficialName": "Raleigh Durham Airport Authority"
         },
@@ -53,18 +87,12 @@
         "value": "TMSA Public Charter Schools",
         "row": {
           "State": "NC",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "NC_TMSA_CHARTER",
           "OfficialName": "TMSA Public Charter Schools"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Charlotte Housing Authority",
-        "row": {
-          "State": "NC",
-          "AuthID": "NC_CHA",
-          "OfficialName": "Charlotte Housing Authority"
         },
         "children": []
       }

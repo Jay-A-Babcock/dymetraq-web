@@ -4,7 +4,11 @@
     "value": "WI",
     "row": {
       "State": "WI",
-      "AuthID": "1582650",
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_1582650",
       "OfficialName": "City of Abbotsford"
     },
     "children": [
@@ -13,58 +17,12 @@
         "value": "City of Abbotsford",
         "row": {
           "State": "WI",
-          "AuthID": "1582650",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582650",
           "OfficialName": "City of Abbotsford"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Adell",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582658",
-          "OfficialName": "Village of Adell"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Albany",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582665",
-          "OfficialName": "Village of Albany"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Allouez",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582674",
-          "OfficialName": "Village of Allouez"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Alma Center",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582678",
-          "OfficialName": "Village of Alma Center"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Almena",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582679",
-          "OfficialName": "Village of Almena"
         },
         "children": []
       },
@@ -73,18 +31,12 @@
         "value": "City of Altoona",
         "row": {
           "State": "WI",
-          "AuthID": "1582685",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582685",
           "OfficialName": "City of Altoona"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Amherst",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582689",
-          "OfficialName": "Village of Amherst"
         },
         "children": []
       },
@@ -93,7 +45,11 @@
         "value": "City of Antigo",
         "row": {
           "State": "WI",
-          "AuthID": "1582700",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582700",
           "OfficialName": "City of Antigo"
         },
         "children": []
@@ -103,7 +59,11 @@
         "value": "City of Appleton",
         "row": {
           "State": "WI",
-          "AuthID": "1582703",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582703",
           "OfficialName": "City of Appleton"
         },
         "children": []
@@ -113,7 +73,11 @@
         "value": "City of Arcadia",
         "row": {
           "State": "WI",
-          "AuthID": "1582705",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582705",
           "OfficialName": "City of Arcadia"
         },
         "children": []
@@ -123,18 +87,12 @@
         "value": "City of Ashland",
         "row": {
           "State": "WI",
-          "AuthID": "1582723",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582723",
           "OfficialName": "City of Ashland"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Baldwin",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582743",
-          "OfficialName": "Village of Baldwin"
         },
         "children": []
       },
@@ -143,7 +101,11 @@
         "value": "City of Barron",
         "row": {
           "State": "WI",
-          "AuthID": "1582755",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582755",
           "OfficialName": "City of Barron"
         },
         "children": []
@@ -153,7 +115,11 @@
         "value": "City of Beaver Dam",
         "row": {
           "State": "WI",
-          "AuthID": "1582777",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582777",
           "OfficialName": "City of Beaver Dam"
         },
         "children": []
@@ -163,7 +129,11 @@
         "value": "City of Beloit",
         "row": {
           "State": "WI",
-          "AuthID": "1582791",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582791",
           "OfficialName": "City of Beloit"
         },
         "children": []
@@ -173,18 +143,12 @@
         "value": "City of Berlin",
         "row": {
           "State": "WI",
-          "AuthID": "1582799",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582799",
           "OfficialName": "City of Berlin"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Birch Hill",
-        "row": {
-          "State": "WI",
-          "AuthID": "2585058",
-          "OfficialName": "Town of Birch Hill"
         },
         "children": []
       },
@@ -193,7 +157,11 @@
         "value": "City of Black River Falls",
         "row": {
           "State": "WI",
-          "AuthID": "1582822",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582822",
           "OfficialName": "City of Black River Falls"
         },
         "children": []
@@ -203,18 +171,12 @@
         "value": "City of Blair",
         "row": {
           "State": "WI",
-          "AuthID": "1582826",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582826",
           "OfficialName": "City of Blair"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Blanchardville",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582828",
-          "OfficialName": "Village of Blanchardville"
         },
         "children": []
       },
@@ -223,7 +185,11 @@
         "value": "City of Bloomer",
         "row": {
           "State": "WI",
-          "AuthID": "1582830",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582830",
           "OfficialName": "City of Bloomer"
         },
         "children": []
@@ -233,7 +199,11 @@
         "value": "City of Boscobel",
         "row": {
           "State": "WI",
-          "AuthID": "1582843",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582843",
           "OfficialName": "City of Boscobel"
         },
         "children": []
@@ -243,7 +213,11 @@
         "value": "City of Brookfield",
         "row": {
           "State": "WI",
-          "AuthID": "1582867",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582867",
           "OfficialName": "City of Brookfield"
         },
         "children": []
@@ -253,38 +227,12 @@
         "value": "City of Burlington",
         "row": {
           "State": "WI",
-          "AuthID": "1582888",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582888",
           "OfficialName": "City of Burlington"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Cascade",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582920",
-          "OfficialName": "Village of Cascade"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Cashton",
-        "row": {
-          "State": "WI",
-          "AuthID": "1582924",
-          "OfficialName": "Village of Cashton"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Chelsea",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586465",
-          "OfficialName": "Town of Chelsea"
         },
         "children": []
       },
@@ -293,7 +241,11 @@
         "value": "City of Chetek",
         "row": {
           "State": "WI",
-          "AuthID": "1582951",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582951",
           "OfficialName": "City of Chetek"
         },
         "children": []
@@ -303,7 +255,11 @@
         "value": "City of Chippewa Falls",
         "row": {
           "State": "WI",
-          "AuthID": "1582958",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582958",
           "OfficialName": "City of Chippewa Falls"
         },
         "children": []
@@ -313,7 +269,11 @@
         "value": "City of Clintonville",
         "row": {
           "State": "WI",
-          "AuthID": "1582986",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582986",
           "OfficialName": "City of Clintonville"
         },
         "children": []
@@ -323,18 +283,12 @@
         "value": "City of Colby",
         "row": {
           "State": "WI",
-          "AuthID": "1582997",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582997",
           "OfficialName": "City of Colby"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Colfax",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583001",
-          "OfficialName": "Village of Colfax"
         },
         "children": []
       },
@@ -343,28 +297,12 @@
         "value": "City of Crandon",
         "row": {
           "State": "WI",
-          "AuthID": "1583023",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583023",
           "OfficialName": "City of Crandon"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Crivitz",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583027",
-          "OfficialName": "Village of Crivitz"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of DeForest",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583064",
-          "OfficialName": "Village of DeForest"
         },
         "children": []
       },
@@ -373,7 +311,11 @@
         "value": "City of Delafield",
         "row": {
           "State": "WI",
-          "AuthID": "1583066",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583066",
           "OfficialName": "City of Delafield"
         },
         "children": []
@@ -383,18 +325,12 @@
         "value": "City of Delavan",
         "row": {
           "State": "WI",
-          "AuthID": "1583068",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583068",
           "OfficialName": "City of Delavan"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Delavan Lake",
-        "row": {
-          "State": "WI",
-          "AuthID": "2393393",
-          "OfficialName": "Town of Delavan Lake"
         },
         "children": []
       },
@@ -403,18 +339,12 @@
         "value": "City of Dodgeville",
         "row": {
           "State": "WI",
-          "AuthID": "1583087",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583087",
           "OfficialName": "City of Dodgeville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Drummond",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586477",
-          "OfficialName": "Town of Drummond"
         },
         "children": []
       },
@@ -423,18 +353,12 @@
         "value": "City of Durand",
         "row": {
           "State": "WI",
-          "AuthID": "1583108",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583108",
           "OfficialName": "City of Durand"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of East Troy",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583119",
-          "OfficialName": "Village of East Troy"
         },
         "children": []
       },
@@ -443,58 +367,12 @@
         "value": "City of Eau Claire",
         "row": {
           "State": "WI",
-          "AuthID": "1583124",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583124",
           "OfficialName": "City of Eau Claire"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Edgar",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583132",
-          "OfficialName": "Village of Edgar"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Ellsworth",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583155",
-          "OfficialName": "Village of Ellsworth"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Emerald",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586485",
-          "OfficialName": "Town of Emerald"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Fairchild",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583184",
-          "OfficialName": "Village of Fairchild"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Fall Creek",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583188",
-          "OfficialName": "Village of Fall Creek"
         },
         "children": []
       },
@@ -503,28 +381,12 @@
         "value": "City of Fond du Lac",
         "row": {
           "State": "WI",
-          "AuthID": "1583208",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583208",
           "OfficialName": "City of Fond du Lac"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Forestville",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583217",
-          "OfficialName": "Village of Forestville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Friendship",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583248",
-          "OfficialName": "Village of Friendship"
         },
         "children": []
       },
@@ -533,7 +395,11 @@
         "value": "City of Gillett",
         "row": {
           "State": "WI",
-          "AuthID": "1583273",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583273",
           "OfficialName": "City of Gillett"
         },
         "children": []
@@ -543,18 +409,12 @@
         "value": "City of Green Bay",
         "row": {
           "State": "WI",
-          "AuthID": "1583309",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583309",
           "OfficialName": "City of Green Bay"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Harrison",
-        "row": {
-          "State": "WI",
-          "AuthID": "2746307",
-          "OfficialName": "Village of Harrison"
         },
         "children": []
       },
@@ -563,28 +423,12 @@
         "value": "City of Hayward",
         "row": {
           "State": "WI",
-          "AuthID": "1583370",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583370",
           "OfficialName": "City of Hayward"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Hazel Green",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583372",
-          "OfficialName": "Village of Hazel Green"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Hingham",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586504",
-          "OfficialName": "Town of Hingham"
         },
         "children": []
       },
@@ -593,7 +437,11 @@
         "value": "City of Janesville",
         "row": {
           "State": "WI",
-          "AuthID": "1583448",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583448",
           "OfficialName": "City of Janesville"
         },
         "children": []
@@ -603,7 +451,11 @@
         "value": "City of Kaukauna",
         "row": {
           "State": "WI",
-          "AuthID": "1583463",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583463",
           "OfficialName": "City of Kaukauna"
         },
         "children": []
@@ -613,7 +465,11 @@
         "value": "City of Kiel",
         "row": {
           "State": "WI",
-          "AuthID": "1583478",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583478",
           "OfficialName": "City of Kiel"
         },
         "children": []
@@ -623,18 +479,12 @@
         "value": "City of La Crosse",
         "row": {
           "State": "WI",
-          "AuthID": "1583499",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583499",
           "OfficialName": "City of La Crosse"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of La Valle",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583532",
-          "OfficialName": "Village of La Valle"
         },
         "children": []
       },
@@ -643,18 +493,12 @@
         "value": "City of Ladysmith",
         "row": {
           "State": "WI",
-          "AuthID": "1583500",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583500",
           "OfficialName": "City of Ladysmith"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Lake Delton",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583510",
-          "OfficialName": "Village of Lake Delton"
         },
         "children": []
       },
@@ -663,28 +507,12 @@
         "value": "City of Lake Geneva",
         "row": {
           "State": "WI",
-          "AuthID": "1583511",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583511",
           "OfficialName": "City of Lake Geneva"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Lebanon",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586524",
-          "OfficialName": "Town of Lebanon"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Lena",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583540",
-          "OfficialName": "Village of Lena"
         },
         "children": []
       },
@@ -693,18 +521,12 @@
         "value": "City of Lodi",
         "row": {
           "State": "WI",
-          "AuthID": "1583589",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583589",
           "OfficialName": "City of Lodi"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Lone Rock",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583595",
-          "OfficialName": "Village of Lone Rock"
         },
         "children": []
       },
@@ -713,7 +535,11 @@
         "value": "City of Madison",
         "row": {
           "State": "WI",
-          "AuthID": "1583625",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583625",
           "OfficialName": "City of Madison"
         },
         "children": []
@@ -723,7 +549,11 @@
         "value": "City of Manitowoc",
         "row": {
           "State": "WI",
-          "AuthID": "1583636",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583636",
           "OfficialName": "City of Manitowoc"
         },
         "children": []
@@ -733,7 +563,11 @@
         "value": "City of Markesan",
         "row": {
           "State": "WI",
-          "AuthID": "1583659",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583659",
           "OfficialName": "City of Markesan"
         },
         "children": []
@@ -743,7 +577,11 @@
         "value": "City of Mayville",
         "row": {
           "State": "WI",
-          "AuthID": "1583676",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583676",
           "OfficialName": "City of Mayville"
         },
         "children": []
@@ -753,7 +591,11 @@
         "value": "City of Medford",
         "row": {
           "State": "WI",
-          "AuthID": "1583683",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583683",
           "OfficialName": "City of Medford"
         },
         "children": []
@@ -763,7 +605,11 @@
         "value": "City of Mellen",
         "row": {
           "State": "WI",
-          "AuthID": "1583688",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583688",
           "OfficialName": "City of Mellen"
         },
         "children": []
@@ -773,18 +619,12 @@
         "value": "City of Milwaukee",
         "row": {
           "State": "WI",
-          "AuthID": "1583724",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583724",
           "OfficialName": "City of Milwaukee"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Minocqua",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586533",
-          "OfficialName": "Town of Minocqua"
         },
         "children": []
       },
@@ -793,7 +633,11 @@
         "value": "City of Mondovi",
         "row": {
           "State": "WI",
-          "AuthID": "1583735",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583735",
           "OfficialName": "City of Mondovi"
         },
         "children": []
@@ -803,7 +647,11 @@
         "value": "City of Neenah",
         "row": {
           "State": "WI",
-          "AuthID": "1583784",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583784",
           "OfficialName": "City of Neenah"
         },
         "children": []
@@ -813,7 +661,11 @@
         "value": "City of Neillsville",
         "row": {
           "State": "WI",
-          "AuthID": "1583786",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583786",
           "OfficialName": "City of Neillsville"
         },
         "children": []
@@ -823,7 +675,11 @@
         "value": "City of New Holstein",
         "row": {
           "State": "WI",
-          "AuthID": "1583809",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583809",
           "OfficialName": "City of New Holstein"
         },
         "children": []
@@ -833,7 +689,11 @@
         "value": "City of New London",
         "row": {
           "State": "WI",
-          "AuthID": "1583813",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583813",
           "OfficialName": "City of New London"
         },
         "children": []
@@ -843,18 +703,12 @@
         "value": "City of New Richmond",
         "row": {
           "State": "WI",
-          "AuthID": "1583816",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583816",
           "OfficialName": "City of New Richmond"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of North Bay",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583824",
-          "OfficialName": "Village of North Bay"
         },
         "children": []
       },
@@ -863,7 +717,11 @@
         "value": "City of Oconomowoc",
         "row": {
           "State": "WI",
-          "AuthID": "1583847",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583847",
           "OfficialName": "City of Oconomowoc"
         },
         "children": []
@@ -873,7 +731,11 @@
         "value": "City of Oconto",
         "row": {
           "State": "WI",
-          "AuthID": "1583850",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583850",
           "OfficialName": "City of Oconto"
         },
         "children": []
@@ -883,7 +745,11 @@
         "value": "City of Oconto Falls",
         "row": {
           "State": "WI",
-          "AuthID": "1583852",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583852",
           "OfficialName": "City of Oconto Falls"
         },
         "children": []
@@ -893,18 +759,12 @@
         "value": "City of Oshkosh",
         "row": {
           "State": "WI",
-          "AuthID": "1583876",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583876",
           "OfficialName": "City of Oshkosh"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Pepin",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583908",
-          "OfficialName": "Village of Pepin"
         },
         "children": []
       },
@@ -913,7 +773,11 @@
         "value": "City of Peshtigo",
         "row": {
           "State": "WI",
-          "AuthID": "1583913",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583913",
           "OfficialName": "City of Peshtigo"
         },
         "children": []
@@ -923,28 +787,12 @@
         "value": "City of Phillips",
         "row": {
           "State": "WI",
-          "AuthID": "1583918",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583918",
           "OfficialName": "City of Phillips"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Plum City",
-        "row": {
-          "State": "WI",
-          "AuthID": "1583943",
-          "OfficialName": "Village of Plum City"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Port Wing",
-        "row": {
-          "State": "WI",
-          "AuthID": "2586545",
-          "OfficialName": "Town of Port Wing"
         },
         "children": []
       },
@@ -953,7 +801,11 @@
         "value": "City of Racine",
         "row": {
           "State": "WI",
-          "AuthID": "1583991",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583991",
           "OfficialName": "City of Racine"
         },
         "children": []
@@ -963,7 +815,11 @@
         "value": "City of Reedsburg",
         "row": {
           "State": "WI",
-          "AuthID": "1584005",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584005",
           "OfficialName": "City of Reedsburg"
         },
         "children": []
@@ -973,38 +829,12 @@
         "value": "City of Rhinelander",
         "row": {
           "State": "WI",
-          "AuthID": "1584014",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584014",
           "OfficialName": "City of Rhinelander"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Rib Lake",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584016",
-          "OfficialName": "Village of Rib Lake"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Roberts",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584045",
-          "OfficialName": "Village of Roberts"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Scandinavia",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584107",
-          "OfficialName": "Village of Scandinavia"
         },
         "children": []
       },
@@ -1013,28 +843,12 @@
         "value": "City of Shawano",
         "row": {
           "State": "WI",
-          "AuthID": "1584135",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584135",
           "OfficialName": "City of Shawano"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Shorewood",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584155",
-          "OfficialName": "Village of Shorewood"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Solon Springs",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584171",
-          "OfficialName": "Village of Solon Springs"
         },
         "children": []
       },
@@ -1043,7 +857,11 @@
         "value": "City of Spooner",
         "row": {
           "State": "WI",
-          "AuthID": "1584187",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584187",
           "OfficialName": "City of Spooner"
         },
         "children": []
@@ -1053,48 +871,12 @@
         "value": "City of Stanley",
         "row": {
           "State": "WI",
-          "AuthID": "1584210",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584210",
           "OfficialName": "City of Stanley"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Stockbridge",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584226",
-          "OfficialName": "Village of Stockbridge"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Strum",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584237",
-          "OfficialName": "Village of Strum"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Trempealeau",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584290",
-          "OfficialName": "Village of Trempealeau"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Waunakee",
-        "row": {
-          "State": "WI",
-          "AuthID": "1584374",
-          "OfficialName": "Village of Waunakee"
         },
         "children": []
       },
@@ -1103,7 +885,11 @@
         "value": "City of Whitewater",
         "row": {
           "State": "WI",
-          "AuthID": "1584432",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584432",
           "OfficialName": "City of Whitewater"
         },
         "children": []
@@ -1113,228 +899,12 @@
         "value": "City of Wisconsin Dells",
         "row": {
           "State": "WI",
-          "AuthID": "1584462",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584462",
           "OfficialName": "City of Wisconsin Dells"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Bayfield County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581063",
-          "OfficialName": "Bayfield County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Door County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581074",
-          "OfficialName": "Door County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Jackson County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581086",
-          "OfficialName": "Jackson County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Richland County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581112",
-          "OfficialName": "Richland County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Burnett County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581066",
-          "OfficialName": "Burnett County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Vernon County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581121",
-          "OfficialName": "Vernon County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Iron County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581085",
-          "OfficialName": "Iron County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Trempealeau County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581120",
-          "OfficialName": "Trempealeau County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Waupaca County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581127",
-          "OfficialName": "Waupaca County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Pepin County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581106",
-          "OfficialName": "Pepin County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Waushara County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581128",
-          "OfficialName": "Waushara County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Polk County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581108",
-          "OfficialName": "Polk County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Buffalo County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581065",
-          "OfficialName": "Buffalo County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Vilas County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581122",
-          "OfficialName": "Vilas County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Oneida County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581103",
-          "OfficialName": "Oneida County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Taylor County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581119",
-          "OfficialName": "Taylor County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Marquette County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581098",
-          "OfficialName": "Marquette County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Juneau County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581088",
-          "OfficialName": "Juneau County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Lafayette County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581092",
-          "OfficialName": "Lafayette County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Sawyer County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581116",
-          "OfficialName": "Sawyer County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Ashland County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581061",
-          "OfficialName": "Ashland County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Langlade County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581093",
-          "OfficialName": "Langlade County"
         },
         "children": []
       },
@@ -1343,18 +913,26 @@
         "value": "Adams County",
         "row": {
           "State": "WI",
-          "AuthID": "1581060",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581060",
           "OfficialName": "Adams County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Crawford County",
+        "value": "Ashland County",
         "row": {
           "State": "WI",
-          "AuthID": "1581071",
-          "OfficialName": "Crawford County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581061",
+          "OfficialName": "Ashland County"
         },
         "children": []
       },
@@ -1363,158 +941,26 @@
         "value": "Barron County",
         "row": {
           "State": "WI",
-          "AuthID": "1581062",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581062",
           "OfficialName": "Barron County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Monroe County",
+        "value": "Bayfield County",
         "row": {
           "State": "WI",
-          "AuthID": "1581101",
-          "OfficialName": "Monroe County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Price County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581110",
-          "OfficialName": "Price County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Forest County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581080",
-          "OfficialName": "Forest County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Green Lake County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581083",
-          "OfficialName": "Green Lake County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Clark County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581069",
-          "OfficialName": "Clark County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Rusk County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581114",
-          "OfficialName": "Rusk County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Outagamie County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581104",
-          "OfficialName": "Outagamie County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Calumet County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581067",
-          "OfficialName": "Calumet County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Sauk County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581115",
-          "OfficialName": "Sauk County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Dodge County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581073",
-          "OfficialName": "Dodge County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Kenosha County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581089",
-          "OfficialName": "Kenosha County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Douglas County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581075",
-          "OfficialName": "Douglas County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Chippewa County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581068",
-          "OfficialName": "Chippewa County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Eau Claire County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581077",
-          "OfficialName": "Eau Claire County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Fond du Lac County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581079",
-          "OfficialName": "Fond du Lac County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581063",
+          "OfficialName": "Bayfield County"
         },
         "children": []
       },
@@ -1523,78 +969,82 @@
         "value": "Brown County",
         "row": {
           "State": "WI",
-          "AuthID": "1581064",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581064",
           "OfficialName": "Brown County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Kewaunee County",
+        "value": "Buffalo County",
         "row": {
           "State": "WI",
-          "AuthID": "1581090",
-          "OfficialName": "Kewaunee County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581065",
+          "OfficialName": "Buffalo County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Oconto County",
+        "value": "Burnett County",
         "row": {
           "State": "WI",
-          "AuthID": "1581102",
-          "OfficialName": "Oconto County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581066",
+          "OfficialName": "Burnett County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Florence County",
+        "value": "Calumet County",
         "row": {
           "State": "WI",
-          "AuthID": "1581078",
-          "OfficialName": "Florence County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581067",
+          "OfficialName": "Calumet County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Rock County",
+        "value": "Chippewa County",
         "row": {
           "State": "WI",
-          "AuthID": "1581113",
-          "OfficialName": "Rock County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581068",
+          "OfficialName": "Chippewa County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "La Crosse County",
+        "value": "Clark County",
         "row": {
           "State": "WI",
-          "AuthID": "1581091",
-          "OfficialName": "La Crosse County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Iowa County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581084",
-          "OfficialName": "Iowa County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Dane County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581072",
-          "OfficialName": "Dane County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581069",
+          "OfficialName": "Clark County"
         },
         "children": []
       },
@@ -1603,38 +1053,82 @@
         "value": "Columbia County",
         "row": {
           "State": "WI",
-          "AuthID": "1581070",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581070",
           "OfficialName": "Columbia County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Green County",
+        "value": "Crawford County",
         "row": {
           "State": "WI",
-          "AuthID": "1581082",
-          "OfficialName": "Green County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581071",
+          "OfficialName": "Crawford County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Manitowoc County",
+        "value": "Dane County",
         "row": {
           "State": "WI",
-          "AuthID": "1581095",
-          "OfficialName": "Manitowoc County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581072",
+          "OfficialName": "Dane County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Marinette County",
+        "value": "Dodge County",
         "row": {
           "State": "WI",
-          "AuthID": "1581097",
-          "OfficialName": "Marinette County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581073",
+          "OfficialName": "Dodge County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Door County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581074",
+          "OfficialName": "Door County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Douglas County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581075",
+          "OfficialName": "Douglas County"
         },
         "children": []
       },
@@ -1643,78 +1137,68 @@
         "value": "Dunn County",
         "row": {
           "State": "WI",
-          "AuthID": "1581076",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581076",
           "OfficialName": "Dunn County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Milwaukee County",
+        "value": "Eau Claire County",
         "row": {
           "State": "WI",
-          "AuthID": "1581100",
-          "OfficialName": "Milwaukee County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581077",
+          "OfficialName": "Eau Claire County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Waukesha County",
+        "value": "Florence County",
         "row": {
           "State": "WI",
-          "AuthID": "1581126",
-          "OfficialName": "Waukesha County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581078",
+          "OfficialName": "Florence County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Washington County",
+        "value": "Fond du Lac County",
         "row": {
           "State": "WI",
-          "AuthID": "1581125",
-          "OfficialName": "Washington County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581079",
+          "OfficialName": "Fond du Lac County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Ozaukee County",
+        "value": "Forest County",
         "row": {
           "State": "WI",
-          "AuthID": "1581105",
-          "OfficialName": "Ozaukee County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Pierce County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581107",
-          "OfficialName": "Pierce County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "St. Croix County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581833",
-          "OfficialName": "St. Croix County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Winnebago County",
-        "row": {
-          "State": "WI",
-          "AuthID": "1581129",
-          "OfficialName": "Winnebago County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581080",
+          "OfficialName": "Forest County"
         },
         "children": []
       },
@@ -1723,58 +1207,82 @@
         "value": "Grant County",
         "row": {
           "State": "WI",
-          "AuthID": "1581081",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581081",
           "OfficialName": "Grant County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Racine County",
+        "value": "Green County",
         "row": {
           "State": "WI",
-          "AuthID": "1581111",
-          "OfficialName": "Racine County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581082",
+          "OfficialName": "Green County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Shawano County",
+        "value": "Green Lake County",
         "row": {
           "State": "WI",
-          "AuthID": "1581117",
-          "OfficialName": "Shawano County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581083",
+          "OfficialName": "Green Lake County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Menominee County",
+        "value": "Iowa County",
         "row": {
           "State": "WI",
-          "AuthID": "1581099",
-          "OfficialName": "Menominee County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581084",
+          "OfficialName": "Iowa County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Sheboygan County",
+        "value": "Iron County",
         "row": {
           "State": "WI",
-          "AuthID": "1581118",
-          "OfficialName": "Sheboygan County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581085",
+          "OfficialName": "Iron County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Portage County",
+        "value": "Jackson County",
         "row": {
           "State": "WI",
-          "AuthID": "1581109",
-          "OfficialName": "Portage County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581086",
+          "OfficialName": "Jackson County"
         },
         "children": []
       },
@@ -1783,18 +1291,96 @@
         "value": "Jefferson County",
         "row": {
           "State": "WI",
-          "AuthID": "1581087",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581087",
           "OfficialName": "Jefferson County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Marathon County",
+        "value": "Juneau County",
         "row": {
           "State": "WI",
-          "AuthID": "1581096",
-          "OfficialName": "Marathon County"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581088",
+          "OfficialName": "Juneau County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Kenosha County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581089",
+          "OfficialName": "Kenosha County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Kewaunee County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581090",
+          "OfficialName": "Kewaunee County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "La Crosse County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581091",
+          "OfficialName": "La Crosse County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Lafayette County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581092",
+          "OfficialName": "Lafayette County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Langlade County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581093",
+          "OfficialName": "Langlade County"
         },
         "children": []
       },
@@ -1803,8 +1389,418 @@
         "value": "Lincoln County",
         "row": {
           "State": "WI",
-          "AuthID": "1581094",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581094",
           "OfficialName": "Lincoln County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Manitowoc County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581095",
+          "OfficialName": "Manitowoc County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Marathon County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581096",
+          "OfficialName": "Marathon County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Marinette County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581097",
+          "OfficialName": "Marinette County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Marquette County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581098",
+          "OfficialName": "Marquette County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Menominee County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581099",
+          "OfficialName": "Menominee County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Milwaukee County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581100",
+          "OfficialName": "Milwaukee County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Monroe County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581101",
+          "OfficialName": "Monroe County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Oconto County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581102",
+          "OfficialName": "Oconto County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Oneida County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581103",
+          "OfficialName": "Oneida County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Outagamie County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581104",
+          "OfficialName": "Outagamie County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Ozaukee County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581105",
+          "OfficialName": "Ozaukee County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Pepin County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581106",
+          "OfficialName": "Pepin County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Pierce County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581107",
+          "OfficialName": "Pierce County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Polk County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581108",
+          "OfficialName": "Polk County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Portage County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581109",
+          "OfficialName": "Portage County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Price County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581110",
+          "OfficialName": "Price County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Racine County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581111",
+          "OfficialName": "Racine County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Richland County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581112",
+          "OfficialName": "Richland County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Rock County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581113",
+          "OfficialName": "Rock County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Rusk County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581114",
+          "OfficialName": "Rusk County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Sauk County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581115",
+          "OfficialName": "Sauk County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Sawyer County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581116",
+          "OfficialName": "Sawyer County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Shawano County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581117",
+          "OfficialName": "Shawano County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Sheboygan County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581118",
+          "OfficialName": "Sheboygan County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "St. Croix County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581833",
+          "OfficialName": "St. Croix County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Taylor County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581119",
+          "OfficialName": "Taylor County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Trempealeau County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581120",
+          "OfficialName": "Trempealeau County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Vernon County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581121",
+          "OfficialName": "Vernon County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Vilas County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581122",
+          "OfficialName": "Vilas County"
         },
         "children": []
       },
@@ -1813,8 +1809,82 @@
         "value": "Walworth County",
         "row": {
           "State": "WI",
-          "AuthID": "1581123",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581123",
           "OfficialName": "Walworth County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Washington County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581125",
+          "OfficialName": "Washington County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Waukesha County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581126",
+          "OfficialName": "Waukesha County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Waupaca County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581127",
+          "OfficialName": "Waupaca County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Waushara County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581128",
+          "OfficialName": "Waushara County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Winnebago County",
+        "row": {
+          "State": "WI",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581129",
+          "OfficialName": "Winnebago County"
         },
         "children": []
       },
@@ -1823,18 +1893,26 @@
         "value": "Wood County",
         "row": {
           "State": "WI",
-          "AuthID": "1581130",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1581130",
           "OfficialName": "Wood County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Milwaukee Public School",
+        "value": "Wisconsin Department of Transportation",
         "row": {
           "State": "WI",
-          "AuthID": "5509600",
-          "OfficialName": "Milwaukee Public School"
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "WI_DOT",
+          "OfficialName": "Wisconsin Department of Transportation"
         },
         "children": []
       },
@@ -1843,28 +1921,54 @@
         "value": "Madison Metropolitan School District",
         "row": {
           "State": "WI",
-          "AuthID": "5508520",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_5508520",
           "OfficialName": "Madison Metropolitan School District"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Town of Grover",
+        "value": "Milwaukee Public School",
         "row": {
           "State": "WI",
-          "AuthID": "1583327",
-          "OfficialName": "Town of Grover"
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_5509600",
+          "OfficialName": "Milwaukee Public School"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Town of Red River",
+        "value": "Town of Birch Hill",
         "row": {
           "State": "WI",
-          "AuthID": "1584003",
-          "OfficialName": "Town of Red River"
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2585058",
+          "OfficialName": "Town of Birch Hill"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Chelsea",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586465",
+          "OfficialName": "Town of Chelsea"
         },
         "children": []
       },
@@ -1873,7 +1977,11 @@
         "value": "Town of Clam Falls",
         "row": {
           "State": "WI",
-          "AuthID": "1582963",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582963",
           "OfficialName": "Town of Clam Falls"
         },
         "children": []
@@ -1883,8 +1991,54 @@
         "value": "Town of Dairyland",
         "row": {
           "State": "WI",
-          "AuthID": "8385047",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_8385047",
           "OfficialName": "Town of Dairyland"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Delavan Lake",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2393393",
+          "OfficialName": "Town of Delavan Lake"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Drummond",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586477",
+          "OfficialName": "Town of Drummond"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Emerald",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586485",
+          "OfficialName": "Town of Emerald"
         },
         "children": []
       },
@@ -1893,18 +2047,628 @@
         "value": "Town of Gibson",
         "row": {
           "State": "WI",
-          "AuthID": "1583272",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583272",
           "OfficialName": "Town of Gibson"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "Wisconsin Department of Transportation",
+        "value": "Town of Grover",
         "row": {
           "State": "WI",
-          "AuthID": "WI_DOT",
-          "OfficialName": "Wisconsin Department of Transportation"
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583327",
+          "OfficialName": "Town of Grover"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Hingham",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586504",
+          "OfficialName": "Town of Hingham"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Lebanon",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586524",
+          "OfficialName": "Town of Lebanon"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Minocqua",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586533",
+          "OfficialName": "Town of Minocqua"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Port Wing",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2586545",
+          "OfficialName": "Town of Port Wing"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Red River",
+        "row": {
+          "State": "WI",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584003",
+          "OfficialName": "Town of Red River"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Adell",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582658",
+          "OfficialName": "Village of Adell"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Albany",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582665",
+          "OfficialName": "Village of Albany"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Allouez",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582674",
+          "OfficialName": "Village of Allouez"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Alma Center",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582678",
+          "OfficialName": "Village of Alma Center"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Almena",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582679",
+          "OfficialName": "Village of Almena"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Amherst",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582689",
+          "OfficialName": "Village of Amherst"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Baldwin",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582743",
+          "OfficialName": "Village of Baldwin"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Blanchardville",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582828",
+          "OfficialName": "Village of Blanchardville"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Cascade",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582920",
+          "OfficialName": "Village of Cascade"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Cashton",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1582924",
+          "OfficialName": "Village of Cashton"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Colfax",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583001",
+          "OfficialName": "Village of Colfax"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Crivitz",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583027",
+          "OfficialName": "Village of Crivitz"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of DeForest",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583064",
+          "OfficialName": "Village of DeForest"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of East Troy",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583119",
+          "OfficialName": "Village of East Troy"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Edgar",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583132",
+          "OfficialName": "Village of Edgar"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Ellsworth",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583155",
+          "OfficialName": "Village of Ellsworth"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Fairchild",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583184",
+          "OfficialName": "Village of Fairchild"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Fall Creek",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583188",
+          "OfficialName": "Village of Fall Creek"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Forestville",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583217",
+          "OfficialName": "Village of Forestville"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Friendship",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583248",
+          "OfficialName": "Village of Friendship"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Harrison",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2746307",
+          "OfficialName": "Village of Harrison"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Hazel Green",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583372",
+          "OfficialName": "Village of Hazel Green"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of La Valle",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583532",
+          "OfficialName": "Village of La Valle"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Lake Delton",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583510",
+          "OfficialName": "Village of Lake Delton"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Lena",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583540",
+          "OfficialName": "Village of Lena"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Lone Rock",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583595",
+          "OfficialName": "Village of Lone Rock"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of North Bay",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583824",
+          "OfficialName": "Village of North Bay"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Pepin",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583908",
+          "OfficialName": "Village of Pepin"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Plum City",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1583943",
+          "OfficialName": "Village of Plum City"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Rib Lake",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584016",
+          "OfficialName": "Village of Rib Lake"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Roberts",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584045",
+          "OfficialName": "Village of Roberts"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Scandinavia",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584107",
+          "OfficialName": "Village of Scandinavia"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Shorewood",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584155",
+          "OfficialName": "Village of Shorewood"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Solon Springs",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584171",
+          "OfficialName": "Village of Solon Springs"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Stockbridge",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584226",
+          "OfficialName": "Village of Stockbridge"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Strum",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584237",
+          "OfficialName": "Village of Strum"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Trempealeau",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584290",
+          "OfficialName": "Village of Trempealeau"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Village of Waunakee",
+        "row": {
+          "State": "WI",
+          "Class": "village",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584374",
+          "OfficialName": "Village of Waunakee"
         },
         "children": []
       }

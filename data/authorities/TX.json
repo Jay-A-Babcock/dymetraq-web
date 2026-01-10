@@ -4,16 +4,38 @@
     "value": "TX",
     "row": {
       "State": "TX",
-      "AuthID": "2410288",
-      "OfficialName": "City of Dallas"
+      "Class": null,
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "TX_DART",
+      "OfficialName": null
     },
     "children": [
+      {
+        "key": "OfficialName",
+        "value": "City of Bedford",
+        "row": {
+          "State": "TX",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2409810",
+          "OfficialName": "City of Bedford"
+        },
+        "children": []
+      },
       {
         "key": "OfficialName",
         "value": "City of Dallas",
         "row": {
           "State": "TX",
-          "AuthID": "2410288",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2410288",
           "OfficialName": "City of Dallas"
         },
         "children": []
@@ -23,8 +45,40 @@
         "value": "City of Houston",
         "row": {
           "State": "TX",
-          "AuthID": "2410796",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2410796",
           "OfficialName": "City of Houston"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Lewisville",
+        "row": {
+          "State": "TX",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2410829",
+          "OfficialName": "City of Lewisville"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Lubbock",
+        "row": {
+          "State": "TX",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2410892",
+          "OfficialName": "City of Lubbock"
         },
         "children": []
       },
@@ -33,28 +87,68 @@
         "value": "City of Waco",
         "row": {
           "State": "TX",
-          "AuthID": "2412162",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2412162",
           "OfficialName": "City of Waco"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "City of Bedford",
+        "value": "Brazoria County",
         "row": {
           "State": "TX",
-          "AuthID": "2409810",
-          "OfficialName": "City of Bedford"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1383805",
+          "OfficialName": "Brazoria County"
         },
         "children": []
       },
       {
         "key": "OfficialName",
-        "value": "San Jacinto Community College District",
+        "value": "Harris County",
         "row": {
           "State": "TX",
-          "AuthID": "TX_SJCC",
-          "OfficialName": "San Jacinto Community College District"
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1383886",
+          "OfficialName": "Harris County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Austin ISD",
+        "row": {
+          "State": "TX",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_4808940",
+          "OfficialName": "Austin ISD"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Fort Bend ISD",
+        "row": {
+          "State": "TX",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_4819650",
+          "OfficialName": "Fort Bend ISD"
         },
         "children": []
       },
@@ -63,8 +157,26 @@
         "value": "Katy Independent School District",
         "row": {
           "State": "TX",
-          "AuthID": "4825170",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_4825170",
           "OfficialName": "Katy Independent School District"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "San Jacinto Community College District",
+        "row": {
+          "State": "TX",
+          "Class": "university",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "TX_SJCC",
+          "OfficialName": "San Jacinto Community College District"
         },
         "children": []
       }

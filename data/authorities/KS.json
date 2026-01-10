@@ -4,27 +4,39 @@
     "value": "KS",
     "row": {
       "State": "KS",
-      "AuthID": "485051",
-      "OfficialName": "Shawnee County"
+      "Class": "county",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_484977",
+      "OfficialName": "Butler County"
     },
     "children": [
-      {
-        "key": "OfficialName",
-        "value": "Shawnee County",
-        "row": {
-          "State": "KS",
-          "AuthID": "485051",
-          "OfficialName": "Shawnee County"
-        },
-        "children": []
-      },
       {
         "key": "OfficialName",
         "value": "Butler County",
         "row": {
           "State": "KS",
-          "AuthID": "484977",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_484977",
           "OfficialName": "Butler County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Shawnee County",
+        "row": {
+          "State": "KS",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_485051",
+          "OfficialName": "Shawnee County"
         },
         "children": []
       },
@@ -33,6 +45,10 @@
         "value": "Kansas City Board of Public Utilities",
         "row": {
           "State": "KS",
+          "Class": "special_district",
+          "County": null,
+          "City": null,
+          "Department": null,
           "AuthID": "KS_SPEC_UTILITY_KC",
           "OfficialName": "Kansas City Board of Public Utilities"
         },

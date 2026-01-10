@@ -4,26 +4,24 @@
     "value": "CA",
     "row": {
       "State": "CA",
-      "AuthID": "277314",
-      "OfficialName": "Stanislaus County"
+      "Class": "City",
+      "County": null,
+      "City": null,
+      "Department": null,
+      "AuthID": "GNIS_2410415",
+      "OfficialName": "City of El Paso de Robles (Paso Robles)"
     },
     "children": [
-      {
-        "key": "OfficialName",
-        "value": "Stanislaus County",
-        "row": {
-          "State": "CA",
-          "AuthID": "277314",
-          "OfficialName": "Stanislaus County"
-        },
-        "children": []
-      },
       {
         "key": "OfficialName",
         "value": "City of El Paso de Robles (Paso Robles)",
         "row": {
           "State": "CA",
-          "AuthID": "2410415",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2410415",
           "OfficialName": "City of El Paso de Robles (Paso Robles)"
         },
         "children": []
@@ -33,8 +31,26 @@
         "value": "City of Sunnyvale",
         "row": {
           "State": "CA",
-          "AuthID": "2412009",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2412009",
           "OfficialName": "City of Sunnyvale"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Stanislaus County",
+        "row": {
+          "State": "CA",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_277314",
+          "OfficialName": "Stanislaus County"
         },
         "children": []
       },
@@ -43,7 +59,11 @@
         "value": "Sweetwater Union High",
         "row": {
           "State": "CA",
-          "AuthID": "0638640",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_0638640",
           "OfficialName": "Sweetwater Union High"
         },
         "children": []

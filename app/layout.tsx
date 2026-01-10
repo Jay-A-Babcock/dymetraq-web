@@ -1,4 +1,5 @@
 // app/layout.tsx
+import GlobalFooter from "@/components/global-footer";
 import "./globals.css";
 
 export const metadata = {
@@ -43,19 +44,9 @@ export default function RootLayout({
           </nav>
 
           {children}
-
-          <footer className="footer">
-            <ul>
-              <li>
-                <a href="about">About Us</a>
-              </li>
-              <li>
-                <a href="dataset/#APIs">APIs</a>
-              </li>
-            </ul>
-            © 2026 DymeTraq
-          </footer>
-        </main>
+</main>
+          <GlobalFooter />
+        
       </body>
     </html>
   );
