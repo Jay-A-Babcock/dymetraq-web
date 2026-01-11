@@ -4,6 +4,9 @@ import "./globals.css";
 
 export const metadata = {
   title: "DymeTraq",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
@@ -44,9 +47,8 @@ export default function RootLayout({
           </nav>
 
           {children}
-</main>
-          <GlobalFooter />
-        
+        </main>
+        <GlobalFooter />
       </body>
     </html>
   );

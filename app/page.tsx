@@ -12,7 +12,7 @@ export default function HomePage() {
           </p>
           <h2>Future Projects</h2>
           <p>
-            DymeTraq has plans to expand its tracing capabilities to include:
+            DymeTraq has plans to expand its tracing capabilities to include:</p>
             <ul>
               <li>
                 <b>Police Accountability</b>
@@ -29,7 +29,7 @@ export default function HomePage() {
                 promote educational equity and effectiveness.
               </p>
             </ul>
-          </p>
+          
           <h2>Products</h2>
           <ul>
             <li>
