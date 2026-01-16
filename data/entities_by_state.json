@@ -1,7 +1,7 @@
 [
   {
     "state_abbr": "IL",
-    "UniqueEntities": 525
+    "UniqueEntities": 526
   },
   {
     "state_abbr": "WI",
@@ -9,7 +9,7 @@
   },
   {
     "state_abbr": "FL",
-    "UniqueEntities": 398
+    "UniqueEntities": 404
   },
   {
     "state_abbr": "VA",
@@ -17,7 +17,7 @@
   },
   {
     "state_abbr": "MO",
-    "UniqueEntities": 127
+    "UniqueEntities": 128
   },
   {
     "state_abbr": "CA",

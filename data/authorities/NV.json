@@ -56,20 +56,6 @@
       },
       {
         "key": "OfficialName",
-        "value": "Clark County School District",
-        "row": {
-          "State": "NV",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_3200060",
-          "OfficialName": "Clark County School District"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
         "value": "Elko County School District",
         "row": {
           "State": "NV",

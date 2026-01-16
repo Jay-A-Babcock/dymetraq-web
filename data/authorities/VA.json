@@ -8,10 +8,24 @@
       "County": null,
       "City": null,
       "Department": null,
-      "AuthID": "GNIS_1498554",
-      "OfficialName": "City of Hampton"
+      "AuthID": "GNIS_1498558",
+      "OfficialName": "City of Chesapeake"
     },
     "children": [
+      {
+        "key": "OfficialName",
+        "value": "City of Chesapeake",
+        "row": {
+          "State": "VA",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1498558",
+          "OfficialName": "City of Chesapeake"
+        },
+        "children": []
+      },
       {
         "key": "OfficialName",
         "value": "City of Hampton",
@@ -121,6 +135,48 @@
           "Department": null,
           "AuthID": "GNIS_1674271",
           "OfficialName": "Goochland County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Virginia Department of Transportation - Alternative Project Delivery Division",
+        "row": {
+          "State": "VA",
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "VA_DOT_APDD",
+          "OfficialName": "Virginia Department of Transportation - Alternative Project Delivery Division"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Virginia Department of Transportation - Construction Engineering & Inspection Division",
+        "row": {
+          "State": "VA",
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "VA_DOT_CEID",
+          "OfficialName": "Virginia Department of Transportation - Construction Engineering & Inspection Division"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Virginia Department of Transportation - Consultant Procurement",
+        "row": {
+          "State": "VA",
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "VA_DOT_CP",
+          "OfficialName": "Virginia Department of Transportation - Consultant Procurement"
         },
         "children": []
       },

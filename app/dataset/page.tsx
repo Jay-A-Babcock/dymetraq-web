@@ -29,6 +29,13 @@ export default function DatasetPage() {
               will show charts and graphs summarizing key aspects of the
               dataset.
             </p>
+                        <a href="/img/visuals/authorities_by_state.png" target="_blank">
+              <img
+                src={"/img/visuals/authorities_by_state.png"}
+                alt="Authorities by State"
+                style={{ maxWidth: "25%", marginTop: "20px" }}
+              />
+            </a>
             <a href="/img/visuals/contracts_by_state.png" target="_blank">
               <img
                 src={"/img/visuals/contracts_by_state.png"}

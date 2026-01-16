@@ -4,12 +4,12 @@
     "value": "FL",
     "row": {
       "State": "FL",
-      "Class": "City",
+      "Class": null,
       "County": null,
       "City": null,
       "Department": null,
-      "AuthID": "GNIS_2403070",
-      "OfficialName": "City of Alachua"
+      "AuthID": "FL_LCEC",
+      "OfficialName": null
     },
     "children": [
       {
@@ -490,6 +490,48 @@
       },
       {
         "key": "OfficialName",
+        "value": "City of Coral Springs",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2404127",
+          "OfficialName": "City of Coral Springs"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Dunedin",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2403516",
+          "OfficialName": "City of Dunedin"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Edgewater",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2403541",
+          "OfficialName": "City of Edgewater"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "City of Fellsmere",
         "row": {
           "State": "FL",
@@ -541,6 +583,34 @@
           "Department": null,
           "AuthID": "GNIS_2403643",
           "OfficialName": "City of Fort Myers"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Fort Pierce",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2403646",
+          "OfficialName": "City of Fort Pierce"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Gainesville",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2403676",
+          "OfficialName": "City of Gainesville"
         },
         "children": []
       },
@@ -616,6 +686,48 @@
       },
       {
         "key": "OfficialName",
+        "value": "City of Miramar",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2404275",
+          "OfficialName": "City of Miramar"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of New Smyrna Beach",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2404367",
+          "OfficialName": "City of New Smyrna Beach"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Newberry",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2404370",
+          "OfficialName": "City of Newberry"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "City of North Port",
         "row": {
           "State": "FL",
@@ -625,6 +737,20 @@
           "Department": null,
           "AuthID": "GNIS_2404398",
           "OfficialName": "City of North Port"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Oakland Park",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2404413",
+          "OfficialName": "City of Oakland Park"
         },
         "children": []
       },
@@ -709,6 +835,34 @@
           "Department": null,
           "AuthID": "GNIS_2405568",
           "OfficialName": "City of Tampa"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Tarpon Springs",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2405569",
+          "OfficialName": "City of Tarpon Springs"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "City of Tavares",
+        "row": {
+          "State": "FL",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2405571",
+          "OfficialName": "City of Tavares"
         },
         "children": []
       },
@@ -1022,20 +1176,6 @@
       },
       {
         "key": "OfficialName",
-        "value": "Highlands County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295756",
-          "OfficialName": "Highlands County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
         "value": "Hillsborough County",
         "row": {
           "State": "FL",
@@ -1190,6 +1330,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "Monroe County",
+        "row": {
+          "State": "FL",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_295759",
+          "OfficialName": "Monroe County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "Orange County",
         "row": {
           "State": "FL",
@@ -1288,15 +1442,15 @@
       },
       {
         "key": "OfficialName",
-        "value": "Seminole Tribe of Florida",
+        "value": "St. Lucie County",
         "row": {
           "State": "FL",
-          "Class": "native_american_tribe",
+          "Class": "county",
           "County": null,
           "City": null,
           "Department": null,
-          "AuthID": "FL_seminole_tribe",
-          "OfficialName": "Seminole Tribe of Florida"
+          "AuthID": "GNIS_308372",
+          "OfficialName": "St. Lucie County"
         },
         "children": []
       },
@@ -1316,15 +1470,15 @@
       },
       {
         "key": "OfficialName",
-        "value": "Escambia County School District",
+        "value": "Broward County Public Schools",
         "row": {
           "State": "FL",
           "Class": "school_district",
           "County": null,
           "City": null,
           "Department": null,
-          "AuthID": "NCES_1200510",
-          "OfficialName": "Escambia County School District"
+          "AuthID": "NCES_1200180",
+          "OfficialName": "Broward County Public Schools"
         },
         "children": []
       },
@@ -1353,6 +1507,48 @@
           "Department": null,
           "AuthID": "NCES_1201290",
           "OfficialName": "Martin County School District"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Miami-Dade Public Schools",
+        "row": {
+          "State": "FL",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_1200390",
+          "OfficialName": "Miami-Dade Public Schools"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Monroe County Schools",
+        "row": {
+          "State": "FL",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_1201320",
+          "OfficialName": "Monroe County Schools"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Seminole County Public Schools",
+        "row": {
+          "State": "FL",
+          "Class": "school_district",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "NCES_1201710",
+          "OfficialName": "Seminole County Public Schools"
         },
         "children": []
       },
@@ -1540,6 +1736,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "Town of Davie",
+        "row": {
+          "State": "FL",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2406359",
+          "OfficialName": "Town of Davie"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "Town of Fort Myers Beach",
         "row": {
           "State": "FL",
@@ -1577,6 +1787,20 @@
           "Department": null,
           "AuthID": "GNIS_2407067",
           "OfficialName": "Town of Palm Beach"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Pembroke Park",
+        "row": {
+          "State": "FL",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2407094",
+          "OfficialName": "Town of Pembroke Park"
         },
         "children": []
       }

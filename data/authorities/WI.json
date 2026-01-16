@@ -882,6 +882,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "City of Superior",
+        "row": {
+          "State": "WI",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1584257",
+          "OfficialName": "City of Superior"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "City of Whitewater",
         "row": {
           "State": "WI",
@@ -1918,6 +1932,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "Wisconsin Department of Transportation Bureau of Aeronautics",
+        "row": {
+          "State": "WI",
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "WI_DOT_BA",
+          "OfficialName": "Wisconsin Department of Transportation Bureau of Aeronautics"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "Madison Metropolitan School District",
         "row": {
           "State": "WI",
@@ -2137,6 +2165,34 @@
           "Department": null,
           "AuthID": "GNIS_1584003",
           "OfficialName": "Town of Red River"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Blackhawk Technical College",
+        "row": {
+          "State": "WI",
+          "Class": "university",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "WI_UNI_BTC",
+          "OfficialName": "Blackhawk Technical College"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Northeast Wisconsin Technical College",
+        "row": {
+          "State": "WI",
+          "Class": "university",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "WI_UNIV_NWTC",
+          "OfficialName": "Northeast Wisconsin Technical College"
         },
         "children": []
       },

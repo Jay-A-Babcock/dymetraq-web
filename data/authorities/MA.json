@@ -28,6 +28,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "City of Somerville",
+        "row": {
+          "State": "MA",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_619409",
+          "OfficialName": "City of Somerville"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "City of Town of Franklin",
         "row": {
           "State": "MA",
@@ -42,6 +56,34 @@
       },
       {
         "key": "OfficialName",
+        "value": "Massachusetts Department of Conservation & Research",
+        "row": {
+          "State": "MA",
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "MA_DCR",
+          "OfficialName": "Massachusetts Department of Conservation & Research"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Massachusetts Division of Capital Asset Management and Maintenance (DCAMM)",
+        "row": {
+          "State": "MA",
+          "Class": "department",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "MA_DCAMM",
+          "OfficialName": "Massachusetts Division of Capital Asset Management and Maintenance (DCAMM)"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "Amherst Police Department",
         "row": {
           "State": "MA",
@@ -51,6 +93,20 @@
           "Department": null,
           "AuthID": "PD_MA_amherst",
           "OfficialName": "Amherst Police Department"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Town of Sandwich",
+        "row": {
+          "State": "MA",
+          "Class": "town",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2378216",
+          "OfficialName": "Town of Sandwich"
         },
         "children": []
       }

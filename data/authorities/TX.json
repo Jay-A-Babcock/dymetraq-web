@@ -28,6 +28,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "City of Burleson",
+        "row": {
+          "State": "TX",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2409943",
+          "OfficialName": "City of Burleson"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "City of Dallas",
         "row": {
           "State": "TX",
@@ -84,6 +98,20 @@
       },
       {
         "key": "OfficialName",
+        "value": "City of McKinney",
+        "row": {
+          "State": "TX",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_2411064",
+          "OfficialName": "City of McKinney"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
         "value": "City of Waco",
         "row": {
           "State": "TX",
@@ -121,6 +149,20 @@
           "Department": null,
           "AuthID": "GNIS_1383886",
           "OfficialName": "Harris County"
+        },
+        "children": []
+      },
+      {
+        "key": "OfficialName",
+        "value": "Lubbock County",
+        "row": {
+          "State": "TX",
+          "Class": "county",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_1383937",
+          "OfficialName": "Lubbock County"
         },
         "children": []
       },

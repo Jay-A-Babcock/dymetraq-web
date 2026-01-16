@@ -4,12 +4,12 @@
     "value": "IL",
     "row": {
       "State": "IL",
-      "Class": "City",
+      "Class": null,
       "County": null,
       "City": null,
       "Department": null,
-      "AuthID": "GNIS_428803",
-      "OfficialName": "City of Chicago"
+      "AuthID": "IL_R1PC",
+      "OfficialName": null
     },
     "children": [
       {
@@ -51,20 +51,6 @@
           "Department": null,
           "AuthID": "GNIS_2397294",
           "OfficialName": "City of Wheaton"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Adams County",
-        "row": {
-          "State": "IL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_424202",
-          "OfficialName": "Adams County"
         },
         "children": []
       },
@@ -135,20 +121,6 @@
           "Department": null,
           "AuthID": "IL_PD_CPD",
           "OfficialName": "Chicago Police Department"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Chicago Transit Authority",
-        "row": {
-          "State": "IL",
-          "Class": "special_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "IL_CTA",
-          "OfficialName": "Chicago Transit Authority"
         },
         "children": []
       },

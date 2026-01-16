@@ -4,14 +4,28 @@
     "value": "KS",
     "row": {
       "State": "KS",
-      "Class": "county",
+      "Class": "City",
       "County": null,
       "City": null,
       "Department": null,
-      "AuthID": "GNIS_484977",
-      "OfficialName": "Butler County"
+      "AuthID": "GNIS_485609",
+      "OfficialName": "City of Lawrence"
     },
     "children": [
+      {
+        "key": "OfficialName",
+        "value": "City of Lawrence",
+        "row": {
+          "State": "KS",
+          "Class": "City",
+          "County": null,
+          "City": null,
+          "Department": null,
+          "AuthID": "GNIS_485609",
+          "OfficialName": "City of Lawrence"
+        },
+        "children": []
+      },
       {
         "key": "OfficialName",
         "value": "Butler County",
