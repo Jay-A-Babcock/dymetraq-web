@@ -3,362 +3,40 @@
     "key": "State",
     "value": "AL",
     "row": {
+      "AuthName": "City of Alabaster",
+      "AuthID": "GNIS_2403069",
+      "AuthClass": "City",
       "State": "AL",
-      "Class": "City",
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "GNIS_2403054",
-      "OfficialName": "City of Abbeville"
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
-        "value": "City of Abbeville",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403054",
-          "OfficialName": "City of Abbeville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Adamsville",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403063",
-          "OfficialName": "City of Adamsville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Alabaster",
         "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Alabaster",
           "AuthID": "GNIS_2403069",
-          "OfficialName": "City of Alabaster"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Albertville",
-        "row": {
+          "AuthClass": "City",
           "State": "AL",
-          "Class": "City",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403074",
-          "OfficialName": "City of Albertville"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "City of Alexander City",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403077",
-          "OfficialName": "City of Alexander City"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Aliceville",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403080",
-          "OfficialName": "City of Aliceville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Andalusia",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403097",
-          "OfficialName": "City of Andalusia"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Anniston",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403101",
-          "OfficialName": "City of Anniston"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Arab",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403104",
-          "OfficialName": "City of Arab"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Ashville",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403122",
-          "OfficialName": "City of Ashville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Athens",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403123",
-          "OfficialName": "City of Athens"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Atmore",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403129",
-          "OfficialName": "City of Atmore"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Attalla",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403130",
-          "OfficialName": "City of Attalla"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Auburn",
-        "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403132",
-          "OfficialName": "City of Auburn"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Mobile",
         "row": {
-          "State": "AL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Mobile",
           "AuthID": "GNIS_2404278",
-          "OfficialName": "City of Mobile"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "State of Alabama",
-        "row": {
+          "AuthClass": "City",
           "State": "AL",
-          "Class": "State",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1779775",
-          "OfficialName": "State of Alabama"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Autauga County",
-        "row": {
-          "State": "AL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_161526",
-          "OfficialName": "Autauga County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Hale County",
-        "row": {
-          "State": "AL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_161558",
-          "OfficialName": "Hale County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Jefferson County",
-        "row": {
-          "State": "AL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_161562",
-          "OfficialName": "Jefferson County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Lauderdale County",
-        "row": {
-          "State": "AL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_161564",
-          "OfficialName": "Lauderdale County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Mobile County",
-        "row": {
-          "State": "AL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_161575",
-          "OfficialName": "Mobile County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Talladega County",
-        "row": {
-          "State": "AL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_161586",
-          "OfficialName": "Talladega County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Mobile County Public Schools",
-        "row": {
-          "State": "AL",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_0102370",
-          "OfficialName": "Mobile County Public Schools"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Talladega County Schools",
-        "row": {
-          "State": "AL",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_0103180",
-          "OfficialName": "Talladega County Schools"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Gainesville",
-        "row": {
-          "State": "AL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2406537",
-          "OfficialName": "Town of Gainesville"
+          "Department": null
         },
         "children": []
       }

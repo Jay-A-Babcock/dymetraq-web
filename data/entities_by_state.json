@@ -1,35 +1,43 @@
 [
   {
+    "state_abbr": "FL",
+    "UniqueEntities": 602
+  },
+  {
     "state_abbr": "IL",
-    "UniqueEntities": 526
+    "UniqueEntities": 531
   },
   {
     "state_abbr": "WI",
-    "UniqueEntities": 496
-  },
-  {
-    "state_abbr": "FL",
-    "UniqueEntities": 404
-  },
-  {
-    "state_abbr": "VA",
-    "UniqueEntities": 161
+    "UniqueEntities": 505
   },
   {
     "state_abbr": "MO",
-    "UniqueEntities": 128
+    "UniqueEntities": 176
+  },
+  {
+    "state_abbr": "VA",
+    "UniqueEntities": 164
   },
   {
     "state_abbr": "CA",
-    "UniqueEntities": 101
+    "UniqueEntities": 117
+  },
+  {
+    "state_abbr": "KS",
+    "UniqueEntities": 105
   },
   {
     "state_abbr": "NV",
     "UniqueEntities": 50
   },
   {
-    "state_abbr": "KS",
-    "UniqueEntities": 36
+    "state_abbr": "KY",
+    "UniqueEntities": 37
+  },
+  {
+    "state_abbr": "AK",
+    "UniqueEntities": 34
   },
   {
     "state_abbr": "TX",
@@ -42,6 +50,10 @@
   {
     "state_abbr": "MN",
     "UniqueEntities": 12
+  },
+  {
+    "state_abbr": "AZ",
+    "UniqueEntities": 2
   },
   {
     "state_abbr": "GA",

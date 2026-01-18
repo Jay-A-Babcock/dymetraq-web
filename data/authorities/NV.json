@@ -3,82 +3,82 @@
     "key": "State",
     "value": "NV",
     "row": {
+      "AuthName": "City of Elko",
+      "AuthID": "GNIS_2410428",
+      "AuthClass": "City",
       "State": "NV",
-      "Class": "City",
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "GNIS_2410428",
-      "OfficialName": "City of Elko"
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Elko",
         "row": {
-          "State": "NV",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Elko",
           "AuthID": "GNIS_2410428",
-          "OfficialName": "City of Elko"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Washoe County",
-        "row": {
+          "AuthClass": "City",
           "State": "NV",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_858608",
-          "OfficialName": "Washoe County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Reno Housing Authority",
-        "row": {
-          "State": "NV",
-          "Class": "housing_authority",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NV_RHA",
-          "OfficialName": "Reno Housing Authority"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Elko County School District",
         "row": {
+          "AuthName": "Elko County School District",
+          "AuthID": "NCES_3200120",
+          "AuthClass": "school_district",
           "State": "NV",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_3200120",
-          "OfficialName": "Elko County School District"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Washoe County School District",
+        "key": "AuthName",
+        "value": "Reno Housing Authority",
         "row": {
+          "AuthName": "Reno Housing Authority",
+          "AuthID": "NV_RHA",
+          "AuthClass": "housing_authority",
           "State": "NV",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Washoe County",
+        "row": {
+          "AuthName": "Washoe County",
+          "AuthID": "GNIS_858608",
+          "AuthClass": "county",
+          "State": "NV",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Washoe County School District",
+        "row": {
+          "AuthName": "Washoe County School District",
           "AuthID": "NCES_3200480",
-          "OfficialName": "Washoe County School District"
+          "AuthClass": "school_district",
+          "State": "NV",
+          "County": null,
+          "City": null,
+          "Department": null
         },
         "children": []
       }

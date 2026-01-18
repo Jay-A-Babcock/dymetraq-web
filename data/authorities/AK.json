@@ -1,12 +1,12 @@
 [
   {
     "key": "State",
-    "value": "ID",
+    "value": "AK",
     "row": {
-      "AuthName": "Ada County",
-      "AuthID": "GNIS_395066",
-      "AuthClass": "county",
-      "State": "ID",
+      "AuthName": "City of Bethel",
+      "AuthID": "GNIS_2419362",
+      "AuthClass": "City",
+      "State": "AK",
       "County": null,
       "City": null,
       "Department": null
@@ -14,12 +14,12 @@
     "children": [
       {
         "key": "AuthName",
-        "value": "Ada County",
+        "value": "City of Bethel",
         "row": {
-          "AuthName": "Ada County",
-          "AuthID": "GNIS_395066",
-          "AuthClass": "county",
-          "State": "ID",
+          "AuthName": "City of Bethel",
+          "AuthID": "GNIS_2419362",
+          "AuthClass": "City",
+          "State": "AK",
           "County": null,
           "City": null,
           "Department": null
@@ -28,12 +28,12 @@
       },
       {
         "key": "AuthName",
-        "value": "Nampa School District",
+        "value": "City of Wasilla",
         "row": {
-          "AuthName": "Nampa School District",
-          "AuthID": "NCES_1602340",
-          "AuthClass": "school_district",
-          "State": "ID",
+          "AuthName": "City of Wasilla",
+          "AuthID": "GNIS_2418871",
+          "AuthClass": "City",
+          "State": "AK",
           "County": null,
           "City": null,
           "Department": null

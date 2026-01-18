@@ -3,222 +3,222 @@
     "key": "State",
     "value": "IL",
     "row": {
+      "AuthName": "Chicago Police Department",
+      "AuthID": "IL_PD_CPD",
+      "AuthClass": "police_department",
       "State": "IL",
-      "Class": null,
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "IL_R1PC",
-      "OfficialName": null
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
-        "value": "City of Chicago",
-        "row": {
-          "State": "IL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_428803",
-          "OfficialName": "City of Chicago"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Naperville",
-        "row": {
-          "State": "IL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2395147",
-          "OfficialName": "City of Naperville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Wheaton",
-        "row": {
-          "State": "IL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2397294",
-          "OfficialName": "City of Wheaton"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "DuPage County",
-        "row": {
-          "State": "IL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_422191",
-          "OfficialName": "DuPage County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Will County",
-        "row": {
-          "State": "IL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1785190",
-          "OfficialName": "Will County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Winnebago County",
-        "row": {
-          "State": "IL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1785216",
-          "OfficialName": "Winnebago County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Glenview Public Library",
-        "row": {
-          "State": "IL",
-          "Class": "library",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "IL_SPEC_LIB_GLENVIEW",
-          "OfficialName": "Glenview Public Library"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Chicago Police Department",
         "row": {
+          "AuthName": "Chicago Police Department",
+          "AuthID": "IL_PD_CPD",
+          "AuthClass": "police_department",
           "State": "IL",
-          "Class": "police_department",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "IL_PD_CPD",
-          "OfficialName": "Chicago Police Department"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "City of Aurora",
+        "row": {
+          "AuthName": "City of Aurora",
+          "AuthID": "GNIS_2394031",
+          "AuthClass": "City",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Chicago",
+        "row": {
+          "AuthName": "City of Chicago",
+          "AuthID": "GNIS_428803",
+          "AuthClass": "City",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Naperville",
+        "row": {
+          "AuthName": "City of Naperville",
+          "AuthID": "GNIS_2395147",
+          "AuthClass": "City",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Wheaton",
+        "row": {
+          "AuthName": "City of Wheaton",
+          "AuthID": "GNIS_2397294",
+          "AuthClass": "City",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "DuPage County",
+        "row": {
+          "AuthName": "DuPage County",
+          "AuthID": "GNIS_422191",
+          "AuthClass": "county",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Dupage County Health Department",
         "row": {
+          "AuthName": "Dupage County Health Department",
+          "AuthID": "IL_SPEC_HEALTH_DUPAGE",
+          "AuthClass": "special_district",
           "State": "IL",
-          "Class": "special_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "IL_SPEC_HEALTH_DUPAGE",
-          "OfficialName": "Dupage County Health Department"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Glenview Public Library",
+        "row": {
+          "AuthName": "Glenview Public Library",
+          "AuthID": "IL_SPEC_LIB_GLENVIEW",
+          "AuthClass": "library",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Park District of Highland Park",
         "row": {
+          "AuthName": "Park District of Highland Park",
+          "AuthID": "IL_SPEC_PARKS_HIGHLAND_PARK",
+          "AuthClass": "special_district",
           "State": "IL",
-          "Class": "special_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "IL_SPEC_PARKS_HIGHLAND_PARK",
-          "OfficialName": "Park District of Highland Park"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Rockford Park District",
         "row": {
+          "AuthName": "Rockford Park District",
+          "AuthID": "IL_SPEC_PARKS_ROCKLAND",
+          "AuthClass": "special_district",
           "State": "IL",
-          "Class": "special_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "IL_SPEC_PARKS_ROCKLAND",
-          "OfficialName": "Rockford Park District"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Rockford Public School District #205",
+        "row": {
+          "AuthName": "Rockford Public School District #205",
+          "AuthID": "NCES_1734510",
+          "AuthClass": "school_district",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Village of Glenview",
         "row": {
-          "State": "IL",
-          "Class": "village",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Village of Glenview",
           "AuthID": "GNIS_2398977",
-          "OfficialName": "Village of Glenview"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Village of Lake in the Hills",
-        "row": {
+          "AuthClass": "village",
           "State": "IL",
-          "Class": "village",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2398378",
-          "OfficialName": "Village of Lake in the Hills"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Village of Lincolnwood",
         "row": {
+          "AuthName": "Village of Lincolnwood",
+          "AuthID": "GNIS_2398443",
+          "AuthClass": "village",
           "State": "IL",
-          "Class": "village",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2398443",
-          "OfficialName": "Village of Lincolnwood"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Village of Oswego",
         "row": {
+          "AuthName": "Village of Oswego",
+          "AuthID": "GNIS_2399593",
+          "AuthClass": "village",
           "State": "IL",
-          "Class": "village",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2399593",
-          "OfficialName": "Village of Oswego"
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Will County",
+        "row": {
+          "AuthName": "Will County",
+          "AuthID": "GNIS_1785190",
+          "AuthClass": "county",
+          "State": "IL",
+          "County": null,
+          "City": null,
+          "Department": null
         },
         "children": []
       }

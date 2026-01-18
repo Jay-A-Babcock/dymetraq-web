@@ -1,21 +1,122 @@
 [
-  { "code": "CA", "auth_id": "06", "name": "California", "file": "CA" },
-  { "code": "TX", "auth_id": "48", "name": "Texas", "file": "TX" },
-  { "code": "NY", "auth_id": "36", "name": "New York", "file": "NY" },
-  { "code": "IL", "auth_id": "17", "name": "Illinois", "file": "IL" },
-  { "code": "FL", "auth_id": "12", "name": "Florida", "file": "FL" },
-  { "code": "PA", "auth_id": "42", "name": "Pennsylvania", "file": "PA" },
-  { "code": "OH", "auth_id": "39", "name": "Ohio", "file": "OH" },
-  { "code": "MI", "auth_id": "26", "name": "Michigan", "file": "MI" },
-  { "code": "NJ", "auth_id": "34", "name": "New Jersey", "file": "NJ" },
-  { "code": "VA", "auth_id": "51", "name": "Virginia", "file": "VA" },
-  { "code": "NC", "auth_id": "37", "name": "North Carolina", "file": "NC" },
-  { "code": "GA", "auth_id": "13", "name": "Georgia", "file": "GA" },
-  { "code": "WA", "auth_id": "53", "name": "Washington", "file": "WA" },
-  { "code": "MA", "auth_id": "25", "name": "Massachusetts", "file": "MA" },
-  { "code": "IN", "auth_id": "18", "name": "Indiana", "file": "IN" },
-  { "code": "TN", "auth_id": "47", "name": "Tennessee", "file": "TN" },
-  { "code": "WI", "auth_id": "55", "name": "Wisconsin", "file": "WI" },
-  { "code": "MO", "auth_id": "29", "name": "Missouri", "file": "MO" },
-  { "code": "MD", "auth_id": "24", "name": "Maryland", "file": "MD" }
+  {
+    "Code": "AK",
+    "File": "AK",
+    "StateName": "Alaska",
+    "Authorities": 3,
+    "Contracts": 138,
+    "Entities": 34
+  },
+  {
+    "Code": "AZ",
+    "File": "AZ",
+    "StateName": "Arizona",
+    "Authorities": 1,
+    "Contracts": 37,
+    "Entities": 2
+  },
+  {
+    "Code": "CA",
+    "File": "CA",
+    "StateName": "California",
+    "Authorities": 17,
+    "Contracts": 873,
+    "Entities": 117
+  },
+  {
+    "Code": "FL",
+    "File": "FL",
+    "StateName": "Florida",
+    "Authorities": 97,
+    "Contracts": 5186,
+    "Entities": 602
+  },
+  {
+    "Code": "GA",
+    "File": "GA",
+    "StateName": "Georgia",
+    "Authorities": 2,
+    "Contracts": 105,
+    "Entities": 1
+  },
+  {
+    "Code": "ID",
+    "File": "ID",
+    "StateName": "Idaho",
+    "Authorities": 2,
+    "Contracts": 52,
+    "Entities": 22
+  },
+  {
+    "Code": "IL",
+    "File": "IL",
+    "StateName": "Illinois",
+    "Authorities": 18,
+    "Contracts": 12884,
+    "Entities": 531
+  },
+  {
+    "Code": "KS",
+    "File": "KS",
+    "StateName": "Kansas",
+    "Authorities": 4,
+    "Contracts": 281,
+    "Entities": 105
+  },
+  {
+    "Code": "KY",
+    "File": "KY",
+    "StateName": "Kentucky",
+    "Authorities": 1,
+    "Contracts": 98,
+    "Entities": 37
+  },
+  {
+    "Code": "MN",
+    "File": "MN",
+    "StateName": "Minnesota",
+    "Authorities": 5,
+    "Contracts": 152,
+    "Entities": 12
+  },
+  {
+    "Code": "MO",
+    "File": "MO",
+    "StateName": "Missouri",
+    "Authorities": 4,
+    "Contracts": 329,
+    "Entities": 176
+  },
+  {
+    "Code": "NV",
+    "File": "NV",
+    "StateName": "Nevada",
+    "Authorities": 5,
+    "Contracts": 242,
+    "Entities": 50
+  },
+  {
+    "Code": "TX",
+    "File": "TX",
+    "StateName": "Texas",
+    "Authorities": 7,
+    "Contracts": 348,
+    "Entities": 29
+  },
+  {
+    "Code": "VA",
+    "File": "VA",
+    "StateName": "Virginia",
+    "Authorities": 8,
+    "Contracts": 626,
+    "Entities": 164
+  },
+  {
+    "Code": "WI",
+    "File": "WI",
+    "StateName": "Wisconsin",
+    "Authorities": 116,
+    "Contracts": 3264,
+    "Entities": 505
+  }
 ]

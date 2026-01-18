@@ -3,110 +3,40 @@
     "key": "State",
     "value": "MA",
     "row": {
+      "AuthName": "Amherst Police Department",
+      "AuthID": "PD_MA_amherst",
+      "AuthClass": "police_department",
       "State": "MA",
-      "Class": "City",
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "GNIS_618248",
-      "OfficialName": "City of Barnstable Town"
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
-        "value": "City of Barnstable Town",
-        "row": {
-          "State": "MA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_618248",
-          "OfficialName": "City of Barnstable Town"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Somerville",
-        "row": {
-          "State": "MA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_619409",
-          "OfficialName": "City of Somerville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Town of Franklin",
-        "row": {
-          "State": "MA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_611686",
-          "OfficialName": "City of Town of Franklin"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Massachusetts Department of Conservation & Research",
-        "row": {
-          "State": "MA",
-          "Class": "department",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "MA_DCR",
-          "OfficialName": "Massachusetts Department of Conservation & Research"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Massachusetts Division of Capital Asset Management and Maintenance (DCAMM)",
-        "row": {
-          "State": "MA",
-          "Class": "department",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "MA_DCAMM",
-          "OfficialName": "Massachusetts Division of Capital Asset Management and Maintenance (DCAMM)"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Amherst Police Department",
         "row": {
+          "AuthName": "Amherst Police Department",
+          "AuthID": "PD_MA_amherst",
+          "AuthClass": "police_department",
           "State": "MA",
-          "Class": "police_department",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "PD_MA_amherst",
-          "OfficialName": "Amherst Police Department"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Town of Sandwich",
+        "key": "AuthName",
+        "value": "City of Town of Franklin",
         "row": {
+          "AuthName": "City of Town of Franklin",
+          "AuthID": "GNIS_611686",
+          "AuthClass": "City",
           "State": "MA",
-          "Class": "town",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2378216",
-          "OfficialName": "Town of Sandwich"
+          "Department": null
         },
         "children": []
       }

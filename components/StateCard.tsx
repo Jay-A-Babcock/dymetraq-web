@@ -2,31 +2,35 @@
 import Link from "next/link";
 
 interface StateCardProps {
-  code: string;
-  name: string;
-  description?: string;
-  authorityCount?: number;
+  Code: string;
+  File: string;
+  StateName: string;
+  Authorities: number;
+  Contracts: number;
+  Entities: number;
 }
 
 export default function StateCard({
-  code,
-  name,
-  description,
-  authorityCount,
+  Code,
+  StateName,
+  Authorities,
+  Contracts,
+  Entities,
 }: StateCardProps) {
   return (
     <div className="state-card">
-      <h3>
-        <Link href={`/authorities/${code}`}>
-          {name}
-        </Link>
-      </h3>
-
-      {description && <p>{description}</p>}
-
-      {authorityCount !== undefined && (
-        <small>{authorityCount} authorities</small>
-      )}
+      <Link href={`/authorities/${Code}`}>
+        <h3>{StateName}</h3>
+        <p>
+          <b>Authorities:</b> {Authorities.toLocaleString()}
+        </p>
+        <p>
+          <b>Contracts:</b> {Contracts.toLocaleString()}
+        </p>
+        <p>
+          <b>Entities:</b> {Entities.toLocaleString()}
+        </p>
+      </Link>
     </div>
   );
 }

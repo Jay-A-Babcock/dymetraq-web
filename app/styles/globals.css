@@ -33,7 +33,7 @@ main.main {
   display: grid;
   grid-template-columns: 150px 1fr 250px;
   grid-template-rows: auto 1fr;
-  height: 95vh;
+  min-height: 95vh;
 }
 
 
@@ -236,4 +236,82 @@ footer.footer {
 
 .dt-global-footer-social a:hover {
   color: #000;
+}
+
+/* State Cards */
+.state-card-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px; /* spacing between cards */
+  margin-top: 10px;
+}
+
+.state-card {
+  background: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.state-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  background-color: #0066cc;
+}
+
+.state-card a {
+  text-decoration: none;
+  color: inherit;
+  
+}
+
+
+/* Region Selector */
+.dynamic-module .region-group {
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+  background: #f7f7f7;
+}
+
+.dynamic-module .region-midwest {
+  background: #e6f0ff;
+}
+
+.dynamic-module .region-south {
+  background: #ffecec;
+}
+
+.dynamic-module .region-west {
+  background: #fff4e5;
+}
+
+.dynamic-module .region-east {
+  background: #e9f9ef;
+}
+
+.dynamic-module .region-special {
+  background: #f3eaff;
+  border-left: 4px solid #805ad5;
+}
+
+.region-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.region-link {
+  color: #2b6cb0;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+.region-link:hover {
+  background: #e2e8f0;
 }

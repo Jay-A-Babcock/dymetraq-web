@@ -1,13 +1,26 @@
 // app/authorities/[state]/page.tsx
-import states from "@/data/states.json";
+import rawStates from "@/data/states.json";
+
 import Tree from "@/components/Tree";
 
 interface StateWithFile {
-  code: string;
-  name: string;
-  file: string;
-  auth_id: string;
+  Code: string;
+  File: string;
+  StateName: string;
+  Authorities: number;
+  Contracts: number;
+  Entities: number;
 }
+
+interface TreeNode {
+  key: string;
+  value: string;
+  AuthID?: string;
+  row?: { AuthID: string };
+  children?: TreeNode[];
+}
+
+const States: StateWithFile[] = rawStates;
 
 export default async function StatePage({
   params,
@@ -16,25 +29,35 @@ export default async function StatePage({
 }) {
   const { state } = await params;
 
-  const stateData = (states as StateWithFile[]).find((s) => s.code === state);
+  console.log("State param:", state);
+  
+  const stateData = States.find((s) => s.Code === state);
 
-  if (!stateData) return <p>State not found.</p>;
+  if (!stateData) {
+    return <p>State not found.</p>;
+  }
 
+  // Load the authority hierarchy JSON for this state
   const { default: authorities } = await import(
-    `@/data/authorities/${stateData.file}.json`
+    `@/data/authorities/${stateData.File}.json`
   );
 
-  function renderNode(node: any, parentPath: string = "") {
+  function renderNode(node: TreeNode, parentPath = "") {
+    const authId = node.AuthID ?? node.row?.AuthID;
     const nodeKey = `${parentPath}-${node.key}-${node.value}`;
 
     return (
       <Tree
-        key={nodeKey} // ← Unique combination of path + key + value
+        key={nodeKey}
         label={
-          <a href={`/authorities/${state}/${node.row.AuthID}`}>{node.value}</a>
+          authId ? (
+            <a href={`/authorities/${state}/${authId}`}>{node.value}</a>
+          ) : (
+            <span>{node.value}</span>
+          )
         }
       >
-        {node.children?.map((child: any) => renderNode(child, nodeKey))}
+        {node.children?.map((child) => renderNode(child, nodeKey))}
       </Tree>
     );
   }
@@ -42,9 +65,14 @@ export default async function StatePage({
   return (
     <div className="detail-layout">
       <div className="detail-content">
-        <h1>{stateData?.name}</h1>
+        <h1>{stateData.StateName}</h1>
+
+        <p className="coming-soon">
+          Proper List is still being arranged into a hierarchy.
+        </p>
+
         <div className="tree-view">
-          {authorities.map((node: any) => renderNode(node))}
+          {authorities.map((node: TreeNode) => renderNode(node))}
         </div>
       </div>
 

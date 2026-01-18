@@ -3,572 +3,250 @@
     "key": "State",
     "value": "CA",
     "row": {
+      "AuthName": "Alpine County",
+      "AuthID": "GNIS_1675840",
+      "AuthClass": "county",
       "State": "CA",
-      "Class": "",
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "CA_GGBHTD",
-      "OfficialName": null
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
-        "value": "City of Adelanto",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409663",
-          "OfficialName": "City of Adelanto"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Agoura Hills",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409666",
-          "OfficialName": "City of Agoura Hills"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Alameda",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409669",
-          "OfficialName": "City of Alameda"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Albany",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409674",
-          "OfficialName": "City of Albany"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Alhambra",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409681",
-          "OfficialName": "City of Alhambra"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Aliso Viejo",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409683",
-          "OfficialName": "City of Aliso Viejo"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Alturas",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409688",
-          "OfficialName": "City of Alturas"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Amador City",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409693",
-          "OfficialName": "City of Amador City"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of American Canyon",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409695",
-          "OfficialName": "City of American Canyon"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Anaheim",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409704",
-          "OfficialName": "City of Anaheim"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Anderson",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409706",
-          "OfficialName": "City of Anderson"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Angels",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409709",
-          "OfficialName": "City of Angels"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Antioch",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409715",
-          "OfficialName": "City of Antioch"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Arcadia",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409722",
-          "OfficialName": "City of Arcadia"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Arcata",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409723",
-          "OfficialName": "City of Arcata"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Arroyo Grande",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409734",
-          "OfficialName": "City of Arroyo Grande"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Artesia",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409735",
-          "OfficialName": "City of Artesia"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Arvin",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409738",
-          "OfficialName": "City of Arvin"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Atascadero",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409745",
-          "OfficialName": "City of Atascadero"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Atwater",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409752",
-          "OfficialName": "City of Atwater"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Auburn",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409754",
-          "OfficialName": "City of Auburn"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Avalon",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409763",
-          "OfficialName": "City of Avalon"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Avenal",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409764",
-          "OfficialName": "City of Avenal"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Azusa",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409768",
-          "OfficialName": "City of Azusa"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of El Paso de Robles (Paso Robles)",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2410415",
-          "OfficialName": "City of El Paso de Robles (Paso Robles)"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of San Rafael",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2411804",
-          "OfficialName": "City of San Rafael"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Sunnyvale",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2412009",
-          "OfficialName": "City of Sunnyvale"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Vacaville",
-        "row": {
-          "State": "CA",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2412139",
-          "OfficialName": "City of Vacaville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Alameda County",
-        "row": {
-          "State": "CA",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1675839",
-          "OfficialName": "Alameda County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Alpine County",
         "row": {
-          "State": "CA",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Alpine County",
           "AuthID": "GNIS_1675840",
-          "OfficialName": "Alpine County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Amador County",
-        "row": {
+          "AuthClass": "county",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1675841",
-          "OfficialName": "Amador County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Fresno County",
+        "key": "AuthName",
+        "value": "City of Alhambra",
         "row": {
+          "AuthName": "City of Alhambra",
+          "AuthID": "GNIS_2409681",
+          "AuthClass": "City",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277274",
-          "OfficialName": "Fresno County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Los Angeles County",
+        "key": "AuthName",
+        "value": "City of Aliso Viejo",
         "row": {
+          "AuthName": "City of Aliso Viejo",
+          "AuthID": "GNIS_2409683",
+          "AuthClass": "City",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277283",
-          "OfficialName": "Los Angeles County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Madera County",
+        "key": "AuthName",
+        "value": "City of Antioch",
         "row": {
+          "AuthName": "City of Antioch",
+          "AuthID": "GNIS_2409715",
+          "AuthClass": "City",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277284",
-          "OfficialName": "Madera County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Marin County",
+        "key": "AuthName",
+        "value": "City of Arcata",
         "row": {
+          "AuthName": "City of Arcata",
+          "AuthID": "GNIS_2409723",
+          "AuthClass": "City",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277285",
-          "OfficialName": "Marin County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "City of Arroyo Grande",
+        "row": {
+          "AuthName": "City of Arroyo Grande",
+          "AuthID": "GNIS_2409734",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Artesia",
+        "row": {
+          "AuthName": "City of Artesia",
+          "AuthID": "GNIS_2409735",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Arvin",
+        "row": {
+          "AuthName": "City of Arvin",
+          "AuthID": "GNIS_2409738",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Atascadero",
+        "row": {
+          "AuthName": "City of Atascadero",
+          "AuthID": "GNIS_2409745",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Auburn",
+        "row": {
+          "AuthName": "City of Auburn",
+          "AuthID": "GNIS_2409754",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Avenal",
+        "row": {
+          "AuthName": "City of Avenal",
+          "AuthID": "GNIS_2409764",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of El Paso de Robles (Paso Robles)",
+        "row": {
+          "AuthName": "City of El Paso de Robles (Paso Robles)",
+          "AuthID": "GNIS_2410415",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Sunnyvale",
+        "row": {
+          "AuthName": "City of Sunnyvale",
+          "AuthID": "GNIS_2412009",
+          "AuthClass": "City",
+          "State": "CA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Merced County",
         "row": {
-          "State": "CA",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Merced County",
           "AuthID": "GNIS_277288",
-          "OfficialName": "Merced County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Mono County",
-        "row": {
+          "AuthClass": "county",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277290",
-          "OfficialName": "Mono County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "San Joaquin County",
+        "key": "AuthName",
+        "value": "San Diego Unified School District",
         "row": {
+          "AuthName": "San Diego Unified School District",
+          "AuthID": "NCES_0634320",
+          "AuthClass": "school_district",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277303",
-          "OfficialName": "San Joaquin County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Stanislaus County",
         "row": {
+          "AuthName": "Stanislaus County",
+          "AuthID": "GNIS_277314",
+          "AuthClass": "county",
           "State": "CA",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_277314",
-          "OfficialName": "Stanislaus County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Sweetwater Union High",
         "row": {
+          "AuthName": "Sweetwater Union High",
+          "AuthID": "NCES_0638640",
+          "AuthClass": "school_district",
           "State": "CA",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_0638640",
-          "OfficialName": "Sweetwater Union High"
+          "Department": null
         },
         "children": []
       }

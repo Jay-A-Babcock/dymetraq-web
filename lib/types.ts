@@ -53,8 +53,10 @@ export interface Entity {
 }
 
 export interface State {
-  code: string;
-  name: string;
-  description?: string;
-  authorityCount?: number;
+  Code: string;
+  File: string;
+  StateName: string;
+  Authorities: number;
+  Contracts: number;
+  Entities: number;
 }

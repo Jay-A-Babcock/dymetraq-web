@@ -3,68 +3,68 @@
     "key": "State",
     "value": "KS",
     "row": {
+      "AuthName": "Butler County",
+      "AuthID": "GNIS_484977",
+      "AuthClass": "county",
       "State": "KS",
-      "Class": "City",
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "GNIS_485609",
-      "OfficialName": "City of Lawrence"
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
-        "value": "City of Lawrence",
-        "row": {
-          "State": "KS",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_485609",
-          "OfficialName": "City of Lawrence"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Butler County",
         "row": {
-          "State": "KS",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Butler County",
           "AuthID": "GNIS_484977",
-          "OfficialName": "Butler County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Shawnee County",
-        "row": {
+          "AuthClass": "county",
           "State": "KS",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_485051",
-          "OfficialName": "Shawnee County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "City of Lawrence",
+        "row": {
+          "AuthName": "City of Lawrence",
+          "AuthID": "GNIS_485609",
+          "AuthClass": "City",
+          "State": "KS",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Kansas City Board of Public Utilities",
         "row": {
+          "AuthName": "Kansas City Board of Public Utilities",
+          "AuthID": "KS_SPEC_UTILITY_KC",
+          "AuthClass": "special_district",
           "State": "KS",
-          "Class": "special_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "KS_SPEC_UTILITY_KC",
-          "OfficialName": "Kansas City Board of Public Utilities"
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Shawnee County",
+        "row": {
+          "AuthName": "Shawnee County",
+          "AuthID": "GNIS_485051",
+          "AuthClass": "county",
+          "State": "KS",
+          "County": null,
+          "City": null,
+          "Department": null
         },
         "children": []
       }

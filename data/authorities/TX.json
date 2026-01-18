@@ -3,222 +3,82 @@
     "key": "State",
     "value": "TX",
     "row": {
+      "AuthName": "City of Arlington",
+      "AuthID": "GNIS_2409731",
+      "AuthClass": "City",
       "State": "TX",
-      "Class": null,
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "TX_DART",
-      "OfficialName": null
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "City of Arlington",
+        "row": {
+          "AuthName": "City of Arlington",
+          "AuthID": "GNIS_2409731",
+          "AuthClass": "City",
+          "State": "TX",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "City of Bedford",
         "row": {
-          "State": "TX",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Bedford",
           "AuthID": "GNIS_2409810",
-          "OfficialName": "City of Bedford"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Burleson",
-        "row": {
+          "AuthClass": "City",
           "State": "TX",
-          "Class": "City",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2409943",
-          "OfficialName": "City of Burleson"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Dallas",
         "row": {
-          "State": "TX",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Dallas",
           "AuthID": "GNIS_2410288",
-          "OfficialName": "City of Dallas"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Houston",
-        "row": {
+          "AuthClass": "City",
           "State": "TX",
-          "Class": "City",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2410796",
-          "OfficialName": "City of Houston"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "City of Lewisville",
-        "row": {
-          "State": "TX",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2410829",
-          "OfficialName": "City of Lewisville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Lubbock",
-        "row": {
-          "State": "TX",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2410892",
-          "OfficialName": "City of Lubbock"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of McKinney",
-        "row": {
-          "State": "TX",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2411064",
-          "OfficialName": "City of McKinney"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Waco",
         "row": {
-          "State": "TX",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Waco",
           "AuthID": "GNIS_2412162",
-          "OfficialName": "City of Waco"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Brazoria County",
-        "row": {
+          "AuthClass": "City",
           "State": "TX",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1383805",
-          "OfficialName": "Brazoria County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Harris County",
-        "row": {
-          "State": "TX",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1383886",
-          "OfficialName": "Harris County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Lubbock County",
-        "row": {
-          "State": "TX",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_1383937",
-          "OfficialName": "Lubbock County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Austin ISD",
-        "row": {
-          "State": "TX",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_4808940",
-          "OfficialName": "Austin ISD"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Fort Bend ISD",
-        "row": {
-          "State": "TX",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_4819650",
-          "OfficialName": "Fort Bend ISD"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Katy Independent School District",
-        "row": {
-          "State": "TX",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_4825170",
-          "OfficialName": "Katy Independent School District"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "San Jacinto Community College District",
         "row": {
+          "AuthName": "San Jacinto Community College District",
+          "AuthID": "TX_SJCC",
+          "AuthClass": "university",
           "State": "TX",
-          "Class": "university",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "TX_SJCC",
-          "OfficialName": "San Jacinto Community College District"
+          "Department": null
         },
         "children": []
       }

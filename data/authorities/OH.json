@@ -1,0 +1,101 @@
+[
+  {
+    "key": "State",
+    "value": "OH",
+    "row": {
+      "AuthName": "City of Akron",
+      "AuthID": "GNIS_1086993",
+      "AuthClass": "City",
+      "State": "OH",
+      "County": null,
+      "City": null,
+      "Department": null
+    },
+    "children": [
+      {
+        "key": "AuthName",
+        "value": "City of Akron",
+        "row": {
+          "AuthName": "City of Akron",
+          "AuthID": "GNIS_1086993",
+          "AuthClass": "City",
+          "State": "OH",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Cincinnati",
+        "row": {
+          "AuthName": "City of Cincinnati",
+          "AuthID": "GNIS_1086201",
+          "AuthClass": "City",
+          "State": "OH",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Monroe",
+        "row": {
+          "AuthName": "City of Monroe",
+          "AuthID": "GNIS_2395374",
+          "AuthClass": "City",
+          "State": "OH",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Springfield",
+        "row": {
+          "AuthName": "City of Springfield",
+          "AuthID": "GNIS_1085859",
+          "AuthClass": "City",
+          "State": "OH",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Clermont County",
+        "row": {
+          "AuthName": "Clermont County",
+          "AuthID": "GNIS_1074025",
+          "AuthClass": "county",
+          "State": "OH",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Trumbull County",
+        "row": {
+          "AuthName": "Trumbull County",
+          "AuthID": "GNIS_1074089",
+          "AuthClass": "county",
+          "State": "OH",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      }
+    ]
+  }
+]

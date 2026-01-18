@@ -3,166 +3,68 @@
     "key": "State",
     "value": "MO",
     "row": {
+      "AuthName": "City of Branson",
+      "AuthID": "GNIS_2394242",
+      "AuthClass": "City",
       "State": "MO",
-      "Class": "City",
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "GNIS_2394242",
-      "OfficialName": "City of Branson"
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Branson",
         "row": {
-          "State": "MO",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Branson",
           "AuthID": "GNIS_2394242",
-          "OfficialName": "City of Branson"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Maryland Heights",
-        "row": {
+          "AuthClass": "City",
           "State": "MO",
-          "Class": "City",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2395034",
-          "OfficialName": "City of Maryland Heights"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "City of Mexico",
-        "row": {
-          "State": "MO",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2395107",
-          "OfficialName": "City of Mexico"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Republic",
         "row": {
+          "AuthName": "City of Republic",
+          "AuthID": "GNIS_2396352",
+          "AuthClass": "City",
           "State": "MO",
-          "Class": "City",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2396352",
-          "OfficialName": "City of Republic"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "City of Springfield",
         "row": {
-          "State": "MO",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "City of Springfield",
           "AuthID": "GNIS_2395942",
-          "OfficialName": "City of Springfield"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of St. Louis",
-        "row": {
+          "AuthClass": "City",
           "State": "MO",
-          "Class": "City",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_767557",
-          "OfficialName": "City of St. Louis"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "City of Willard",
-        "row": {
-          "State": "MO",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2397312",
-          "OfficialName": "City of Willard"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Adair County",
-        "row": {
-          "State": "MO",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_765805",
-          "OfficialName": "Adair County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Jackson County",
-        "row": {
-          "State": "MO",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_758502",
-          "OfficialName": "Jackson County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Parkway Schools",
-        "row": {
-          "State": "MO",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_2923580",
-          "OfficialName": "Parkway Schools"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "University of Missouri",
         "row": {
+          "AuthName": "University of Missouri",
+          "AuthID": "MO_UNI_MSU",
+          "AuthClass": "university",
           "State": "MO",
-          "Class": "university",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "MO_UNI_MSU",
-          "OfficialName": "University of Missouri"
+          "Department": null
         },
         "children": []
       }

@@ -1,12 +1,12 @@
 [
   {
     "key": "State",
-    "value": "NC",
+    "value": "CO",
     "row": {
-      "AuthName": "City of Greenville",
-      "AuthID": "GNIS_2403753",
-      "AuthClass": "City",
-      "State": "NC",
+      "AuthName": "Larimer County",
+      "AuthID": "GNIS_198150",
+      "AuthClass": "county",
+      "State": "CO",
       "County": null,
       "City": null,
       "Department": null
@@ -14,12 +14,12 @@
     "children": [
       {
         "key": "AuthName",
-        "value": "City of Greenville",
+        "value": "Larimer County",
         "row": {
-          "AuthName": "City of Greenville",
-          "AuthID": "GNIS_2403753",
-          "AuthClass": "City",
-          "State": "NC",
+          "AuthName": "Larimer County",
+          "AuthID": "GNIS_198150",
+          "AuthClass": "county",
+          "State": "CO",
           "County": null,
           "City": null,
           "Department": null

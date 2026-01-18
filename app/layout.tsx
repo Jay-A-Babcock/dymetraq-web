@@ -1,6 +1,6 @@
 // app/layout.tsx
 import GlobalFooter from "@/components/global-footer";
-import "./globals.css";
+import "./styles/globals.css";
 
 export const metadata = {
   title: "DymeTraq",

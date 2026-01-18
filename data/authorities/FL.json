@@ -3,1804 +3,1160 @@
     "key": "State",
     "value": "FL",
     "row": {
+      "AuthName": "Alachua County",
+      "AuthID": "GNIS_308548",
+      "AuthClass": "county",
       "State": "FL",
-      "Class": null,
       "County": null,
       "City": null,
-      "Department": null,
-      "AuthID": "FL_LCEC",
-      "OfficialName": null
+      "Department": null
     },
     "children": [
       {
-        "key": "OfficialName",
-        "value": "City of Alachua",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403070",
-          "OfficialName": "City of Alachua"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Altamonte Springs",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403089",
-          "OfficialName": "City of Altamonte Springs"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Anna Maria",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403100",
-          "OfficialName": "City of Anna Maria"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Apalachicola",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403102",
-          "OfficialName": "City of Apalachicola"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Apopka",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403103",
-          "OfficialName": "City of Apopka"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Arcadia",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403107",
-          "OfficialName": "City of Arcadia"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Archer",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403109",
-          "OfficialName": "City of Archer"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Atlantic Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403127",
-          "OfficialName": "City of Atlantic Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Atlantis",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403128",
-          "OfficialName": "City of Atlantis"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Auburndale",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403135",
-          "OfficialName": "City of Auburndale"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Aventura",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403141",
-          "OfficialName": "City of Aventura"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Avon Park",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403143",
-          "OfficialName": "City of Avon Park"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bartow",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403163",
-          "OfficialName": "City of Bartow"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bay Lake",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403824",
-          "OfficialName": "City of Bay Lake"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Belle Glade",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403837",
-          "OfficialName": "City of Belle Glade"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Belle Isle",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403838",
-          "OfficialName": "City of Belle Isle"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Belleair Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403840",
-          "OfficialName": "City of Belleair Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Belleair Bluffs",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403841",
-          "OfficialName": "City of Belleair Bluffs"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Belleview",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403844",
-          "OfficialName": "City of Belleview"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Blountstown",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403881",
-          "OfficialName": "City of Blountstown"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Boca Raton",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403887",
-          "OfficialName": "City of Boca Raton"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bonifay",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403892",
-          "OfficialName": "City of Bonifay"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bonita Springs",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403893",
-          "OfficialName": "City of Bonita Springs"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bowling Green",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403904",
-          "OfficialName": "City of Bowling Green"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Boynton Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403906",
-          "OfficialName": "City of Boynton Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bradenton",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403907",
-          "OfficialName": "City of Bradenton"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bradenton Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403908",
-          "OfficialName": "City of Bradenton Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bristol",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403928",
-          "OfficialName": "City of Bristol"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Brooksville",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403936",
-          "OfficialName": "City of Brooksville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bunnell",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403953",
-          "OfficialName": "City of Bunnell"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Bushnell",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403958",
-          "OfficialName": "City of Bushnell"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Callaway",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403971",
-          "OfficialName": "City of Callaway"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Cape Canaveral",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403989",
-          "OfficialName": "City of Cape Canaveral"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Cape Coral",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403990",
-          "OfficialName": "City of Cape Coral"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Coral Springs",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404127",
-          "OfficialName": "City of Coral Springs"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Dunedin",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403516",
-          "OfficialName": "City of Dunedin"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Edgewater",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403541",
-          "OfficialName": "City of Edgewater"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Fellsmere",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403605",
-          "OfficialName": "City of Fellsmere"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Flagler Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403613",
-          "OfficialName": "City of Flagler Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Florida City",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403622",
-          "OfficialName": "City of Florida City"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Fort Myers",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403643",
-          "OfficialName": "City of Fort Myers"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Fort Pierce",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403646",
-          "OfficialName": "City of Fort Pierce"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Gainesville",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403676",
-          "OfficialName": "City of Gainesville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Graceville",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403719",
-          "OfficialName": "City of Graceville"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Gretna",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403762",
-          "OfficialName": "City of Gretna"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Groveland",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2403764",
-          "OfficialName": "City of Groveland"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Madison",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404993",
-          "OfficialName": "City of Madison"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Miami",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404247",
-          "OfficialName": "City of Miami"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Miramar",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404275",
-          "OfficialName": "City of Miramar"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of New Smyrna Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404367",
-          "OfficialName": "City of New Smyrna Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Newberry",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404370",
-          "OfficialName": "City of Newberry"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of North Port",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404398",
-          "OfficialName": "City of North Port"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Oakland Park",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404413",
-          "OfficialName": "City of Oakland Park"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Orlando",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404443",
-          "OfficialName": "City of Orlando"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Ormond Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404445",
-          "OfficialName": "City of Ormond Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Pensacola",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404503",
-          "OfficialName": "City of Pensacola"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Quincy",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2404581",
-          "OfficialName": "City of Quincy"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Sunrise",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405550",
-          "OfficialName": "City of Sunrise"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Tampa",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405568",
-          "OfficialName": "City of Tampa"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Tarpon Springs",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405569",
-          "OfficialName": "City of Tarpon Springs"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of Tavares",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405571",
-          "OfficialName": "City of Tavares"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "City of West Palm Beach",
-        "row": {
-          "State": "FL",
-          "Class": "City",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405713",
-          "OfficialName": "City of West Palm Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Collier County Clerk of Courts Clerk of Courts",
-        "row": {
-          "State": "FL",
-          "Class": "clerk_of_courts",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "FL_collier_coc",
-          "OfficialName": "Collier County Clerk of Courts Clerk of Courts"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Escambia County Clerk of Courts Clerk of Courts",
-        "row": {
-          "State": "FL",
-          "Class": "clerk_of_courts",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "FL_escambia_coc",
-          "OfficialName": "Escambia County Clerk of Courts Clerk of Courts"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Alachua County",
         "row": {
+          "AuthName": "Alachua County",
+          "AuthID": "GNIS_308548",
+          "AuthClass": "county",
           "State": "FL",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_308548",
-          "OfficialName": "Alachua County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Baker County",
         "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Baker County",
           "AuthID": "GNIS_306920",
-          "OfficialName": "Baker County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Bay County",
-        "row": {
+          "AuthClass": "county",
           "State": "FL",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295738",
-          "OfficialName": "Bay County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Bradford County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_303634",
-          "OfficialName": "Bradford County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Brevard County",
         "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Brevard County",
           "AuthID": "GNIS_295749",
-          "OfficialName": "Brevard County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Broward County",
-        "row": {
+          "AuthClass": "county",
           "State": "FL",
-          "Class": "county",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295753",
-          "OfficialName": "Broward County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Calhoun County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_306919",
-          "OfficialName": "Calhoun County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Charlotte County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295742",
-          "OfficialName": "Charlotte County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Citrus County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295752",
-          "OfficialName": "Citrus County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Clay County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295726",
-          "OfficialName": "Clay County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Collier County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295754",
-          "OfficialName": "Collier County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Escambia County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295737",
-          "OfficialName": "Escambia County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Flagler County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_308547",
-          "OfficialName": "Flagler County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Franklin County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_306911",
-          "OfficialName": "Franklin County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Gadsden County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_306918",
-          "OfficialName": "Gadsden County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Gilchrist County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_303633",
-          "OfficialName": "Gilchrist County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Glades County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295743",
-          "OfficialName": "Glades County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Hendry County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_307626",
-          "OfficialName": "Hendry County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Hernando County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295751",
-          "OfficialName": "Hernando County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Hillsborough County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295757",
-          "OfficialName": "Hillsborough County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Holmes County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295735",
-          "OfficialName": "Holmes County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Indian River County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_307624",
-          "OfficialName": "Indian River County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Jackson County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295734",
-          "OfficialName": "Jackson County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Jefferson County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295733",
-          "OfficialName": "Jefferson County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Lafayette County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295732",
-          "OfficialName": "Lafayette County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Lake County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_308551",
-          "OfficialName": "Lake County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Lee County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295758",
-          "OfficialName": "Lee County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Leon County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_306916",
-          "OfficialName": "Leon County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Levy County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295724",
-          "OfficialName": "Levy County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Martin County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_308550",
-          "OfficialName": "Martin County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Monroe County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295759",
-          "OfficialName": "Monroe County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Orange County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295750",
-          "OfficialName": "Orange County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Osceola County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295748",
-          "OfficialName": "Osceola County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Palm Beach County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295761",
-          "OfficialName": "Palm Beach County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Pasco County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295739",
-          "OfficialName": "Pasco County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Pinellas County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295745",
-          "OfficialName": "Pinellas County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Polk County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_295747",
-          "OfficialName": "Polk County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "St. Johns County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_308371",
-          "OfficialName": "St. Johns County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "St. Lucie County",
-        "row": {
-          "State": "FL",
-          "Class": "county",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_308372",
-          "OfficialName": "St. Lucie County"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Alachua County Public Schools",
-        "row": {
-          "State": "FL",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "NCES_1200030\r\n",
-          "OfficialName": "Alachua County Public Schools"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Broward County Public Schools",
         "row": {
+          "AuthName": "Broward County Public Schools",
+          "AuthID": "NCES_1200180",
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1200180",
-          "OfficialName": "Broward County Public Schools"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Calhoun County",
+        "row": {
+          "AuthName": "Calhoun County",
+          "AuthID": "GNIS_306919",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Citrus County",
+        "row": {
+          "AuthName": "Citrus County",
+          "AuthID": "GNIS_295752",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Anna Maria",
+        "row": {
+          "AuthName": "City of Anna Maria",
+          "AuthID": "GNIS_2403100",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Arcadia",
+        "row": {
+          "AuthName": "City of Arcadia",
+          "AuthID": "GNIS_2403107",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Atlantic Beach",
+        "row": {
+          "AuthName": "City of Atlantic Beach",
+          "AuthID": "GNIS_2403127",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Atlantis",
+        "row": {
+          "AuthName": "City of Atlantis",
+          "AuthID": "GNIS_2403128",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Aventura",
+        "row": {
+          "AuthName": "City of Aventura",
+          "AuthID": "GNIS_2403141",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bartow",
+        "row": {
+          "AuthName": "City of Bartow",
+          "AuthID": "GNIS_2403163",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Belle Isle",
+        "row": {
+          "AuthName": "City of Belle Isle",
+          "AuthID": "GNIS_2403838",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Belleair Beach",
+        "row": {
+          "AuthName": "City of Belleair Beach",
+          "AuthID": "GNIS_2403840",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Belleview",
+        "row": {
+          "AuthName": "City of Belleview",
+          "AuthID": "GNIS_2403844",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Boca Raton",
+        "row": {
+          "AuthName": "City of Boca Raton",
+          "AuthID": "GNIS_2403887",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bowling Green",
+        "row": {
+          "AuthName": "City of Bowling Green",
+          "AuthID": "GNIS_2403904",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Boynton Beach",
+        "row": {
+          "AuthName": "City of Boynton Beach",
+          "AuthID": "GNIS_2403906",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bradenton",
+        "row": {
+          "AuthName": "City of Bradenton",
+          "AuthID": "GNIS_2403907",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bradenton Beach",
+        "row": {
+          "AuthName": "City of Bradenton Beach",
+          "AuthID": "GNIS_2403908",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bristol",
+        "row": {
+          "AuthName": "City of Bristol",
+          "AuthID": "GNIS_2403928",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Brooksville",
+        "row": {
+          "AuthName": "City of Brooksville",
+          "AuthID": "GNIS_2403936",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bunnell",
+        "row": {
+          "AuthName": "City of Bunnell",
+          "AuthID": "GNIS_2403953",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Bushnell",
+        "row": {
+          "AuthName": "City of Bushnell",
+          "AuthID": "GNIS_2403958",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Cape Coral",
+        "row": {
+          "AuthName": "City of Cape Coral",
+          "AuthID": "GNIS_2403990",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Coral Springs",
+        "row": {
+          "AuthName": "City of Coral Springs",
+          "AuthID": "GNIS_2404127",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Doral",
+        "row": {
+          "AuthName": "City of Doral",
+          "AuthID": "GNIS_2404236",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Dunedin",
+        "row": {
+          "AuthName": "City of Dunedin",
+          "AuthID": "GNIS_2403516",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Edgewater",
+        "row": {
+          "AuthName": "City of Edgewater",
+          "AuthID": "GNIS_2403541",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Flagler Beach",
+        "row": {
+          "AuthName": "City of Flagler Beach",
+          "AuthID": "GNIS_2403613",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Fort Pierce",
+        "row": {
+          "AuthName": "City of Fort Pierce",
+          "AuthID": "GNIS_2403646",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Gainesville",
+        "row": {
+          "AuthName": "City of Gainesville",
+          "AuthID": "GNIS_2403676",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Gretna",
+        "row": {
+          "AuthName": "City of Gretna",
+          "AuthID": "GNIS_2403762",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Groveland",
+        "row": {
+          "AuthName": "City of Groveland",
+          "AuthID": "GNIS_2403764",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Haines City",
+        "row": {
+          "AuthName": "City of Haines City",
+          "AuthID": "GNIS_2403781",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Homestead",
+        "row": {
+          "AuthName": "City of Homestead",
+          "AuthID": "GNIS_2404723",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Miramar",
+        "row": {
+          "AuthName": "City of Miramar",
+          "AuthID": "GNIS_2404275",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of New Port Richey",
+        "row": {
+          "AuthName": "City of New Port Richey",
+          "AuthID": "GNIS_2404365",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of New Smyrna Beach",
+        "row": {
+          "AuthName": "City of New Smyrna Beach",
+          "AuthID": "GNIS_2404367",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of North Port",
+        "row": {
+          "AuthName": "City of North Port",
+          "AuthID": "GNIS_2404398",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Oakland Park",
+        "row": {
+          "AuthName": "City of Oakland Park",
+          "AuthID": "GNIS_2404413",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Ormond Beach",
+        "row": {
+          "AuthName": "City of Ormond Beach",
+          "AuthID": "GNIS_2404445",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Palm Bay",
+        "row": {
+          "AuthName": "City of Palm Bay",
+          "AuthID": "GNIS_2404463",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Pensacola",
+        "row": {
+          "AuthName": "City of Pensacola",
+          "AuthID": "GNIS_2404503",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Pinellas Park",
+        "row": {
+          "AuthName": "City of Pinellas Park",
+          "AuthID": "GNIS_2404523",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Quincy",
+        "row": {
+          "AuthName": "City of Quincy",
+          "AuthID": "GNIS_2404581",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Sanibel",
+        "row": {
+          "AuthName": "City of Sanibel",
+          "AuthID": "GNIS_2405420",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Seminole",
+        "row": {
+          "AuthName": "City of Seminole",
+          "AuthID": "GNIS_2405442",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Sunrise",
+        "row": {
+          "AuthName": "City of Sunrise",
+          "AuthID": "GNIS_2405550",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Tarpon Springs",
+        "row": {
+          "AuthName": "City of Tarpon Springs",
+          "AuthID": "GNIS_2405569",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Tavares",
+        "row": {
+          "AuthName": "City of Tavares",
+          "AuthID": "GNIS_2405571",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Vero Beach",
+        "row": {
+          "AuthName": "City of Vero Beach",
+          "AuthID": "GNIS_2405643",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Clay County",
+        "row": {
+          "AuthName": "Clay County",
+          "AuthID": "GNIS_295726",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Collier County Clerk of Courts Clerk of Courts",
+        "row": {
+          "AuthName": "Collier County Clerk of Courts Clerk of Courts",
+          "AuthID": "FL_COLLIER_COC",
+          "AuthClass": "clerk_of_courts",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Collier County Public Schools",
+        "row": {
+          "AuthName": "Collier County Public Schools",
+          "AuthID": "NCES_1200330",
+          "AuthClass": "school_district",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Duval County Public Schools",
+        "row": {
+          "AuthName": "Duval County Public Schools",
+          "AuthID": "NCES_1200480",
+          "AuthClass": "school_district",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Hamilton",
         "row": {
+          "AuthName": "Hamilton",
+          "AuthID": "NCES_1200720",
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1200720",
-          "OfficialName": "Hamilton"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Hendry County",
+        "row": {
+          "AuthName": "Hendry County",
+          "AuthID": "GNIS_307626",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Hillsborough County Public Schools",
+        "row": {
+          "AuthName": "Hillsborough County Public Schools",
+          "AuthID": "NCES_1200870",
+          "AuthClass": "school_district",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Indian River County",
+        "row": {
+          "AuthName": "Indian River County",
+          "AuthID": "GNIS_307624",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Lee County",
+        "row": {
+          "AuthName": "Lee County",
+          "AuthID": "GNIS_295758",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Marion County",
+        "row": {
+          "AuthName": "Marion County",
+          "AuthID": "GNIS_306922",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Martin County",
+        "row": {
+          "AuthName": "Martin County",
+          "AuthID": "GNIS_308550",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Martin County School District",
         "row": {
+          "AuthName": "Martin County School District",
+          "AuthID": "NCES_1201290",
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1201290",
-          "OfficialName": "Martin County School District"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Miami-Dade Public Schools",
         "row": {
+          "AuthName": "Miami-Dade Public Schools",
+          "AuthID": "NCES_1200390",
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1200390",
-          "OfficialName": "Miami-Dade Public Schools"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Monroe County",
+        "row": {
+          "AuthName": "Monroe County",
+          "AuthID": "GNIS_295759",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Monroe County Schools",
         "row": {
+          "AuthName": "Monroe County Schools",
+          "AuthID": "NCES_1201320",
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1201320",
-          "OfficialName": "Monroe County Schools"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Okaloosa County",
+        "row": {
+          "AuthName": "Okaloosa County",
+          "AuthID": "GNIS_306915",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Pasco County",
+        "row": {
+          "AuthName": "Pasco County",
+          "AuthID": "GNIS_295739",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Pinellas County",
+        "row": {
+          "AuthName": "Pinellas County",
+          "AuthID": "GNIS_295745",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Polk County",
+        "row": {
+          "AuthName": "Polk County",
+          "AuthID": "GNIS_295747",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Seminole County Public Schools",
         "row": {
+          "AuthName": "Seminole County Public Schools",
+          "AuthID": "NCES_1201710",
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1201710",
-          "OfficialName": "Seminole County Public Schools"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Seminole Tribe of Florida",
+        "row": {
+          "AuthName": "Seminole Tribe of Florida",
+          "AuthID": "BIA_S53021",
+          "AuthClass": "native_american_tribe",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "St. Johns County",
+        "row": {
+          "AuthName": "St. Johns County",
+          "AuthID": "GNIS_308371",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "St. Johns County School District",
         "row": {
-          "State": "FL",
-          "Class": "school_district",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "St. Johns County School District",
           "AuthID": "NCES_1201740",
-          "OfficialName": "St. Johns County School District"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "The School District of Lee County",
-        "row": {
+          "AuthClass": "school_district",
           "State": "FL",
-          "Class": "school_district",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "NCES_1201080",
-          "OfficialName": "The School District of Lee County"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Town of Acacia Villas",
+        "key": "AuthName",
+        "value": "St. Lucie County",
         "row": {
+          "AuthName": "St. Lucie County",
+          "AuthID": "GNIS_308372",
+          "AuthClass": "county",
           "State": "FL",
-          "Class": "town",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2628517",
-          "OfficialName": "Town of Acacia Villas"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
-        "value": "Town of Alafaya",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2583321",
-          "OfficialName": "Town of Alafaya"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Alford",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405131",
-          "OfficialName": "Town of Alford"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Allentown",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2583322",
-          "OfficialName": "Town of Allentown"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Altha",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2405144",
-          "OfficialName": "Town of Altha"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Altoona",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2402641",
-          "OfficialName": "Town of Altoona"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Alturas",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2583323",
-          "OfficialName": "Town of Alturas"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Alva",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2402642",
-          "OfficialName": "Town of Alva"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Andrews",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2402646",
-          "OfficialName": "Town of Andrews"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Apollo Beach",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2402649",
-          "OfficialName": "Town of Apollo Beach"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Aripeka",
-        "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2583324",
-          "OfficialName": "Town of Aripeka"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Town of Davie",
         "row": {
+          "AuthName": "Town of Davie",
+          "AuthID": "GNIS_2406359",
+          "AuthClass": "town",
           "State": "FL",
-          "Class": "town",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2406359",
-          "OfficialName": "Town of Davie"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Town of Fort Myers Beach",
         "row": {
+          "AuthName": "Town of Fort Myers Beach",
+          "AuthID": "GNIS_2406510",
+          "AuthClass": "town",
           "State": "FL",
-          "Class": "town",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2406510",
-          "OfficialName": "Town of Fort Myers Beach"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
         "value": "Town of Jupiter",
         "row": {
-          "State": "FL",
-          "Class": "town",
-          "County": null,
-          "City": null,
-          "Department": null,
+          "AuthName": "Town of Jupiter",
           "AuthID": "GNIS_2405927",
-          "OfficialName": "Town of Jupiter"
-        },
-        "children": []
-      },
-      {
-        "key": "OfficialName",
-        "value": "Town of Palm Beach",
-        "row": {
+          "AuthClass": "town",
           "State": "FL",
-          "Class": "town",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2407067",
-          "OfficialName": "Town of Palm Beach"
+          "Department": null
         },
         "children": []
       },
       {
-        "key": "OfficialName",
+        "key": "AuthName",
+        "value": "Town of Miami Lakes",
+        "row": {
+          "AuthName": "Town of Miami Lakes",
+          "AuthID": "GNIS_2406152",
+          "AuthClass": "town",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Town of Pembroke Park",
         "row": {
+          "AuthName": "Town of Pembroke Park",
+          "AuthID": "GNIS_2407094",
+          "AuthClass": "town",
           "State": "FL",
-          "Class": "town",
           "County": null,
           "City": null,
-          "Department": null,
-          "AuthID": "GNIS_2407094",
-          "OfficialName": "Town of Pembroke Park"
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Town of The Villages",
+        "row": {
+          "AuthName": "Town of The Villages",
+          "AuthID": "GNIS_2402925",
+          "AuthClass": "town",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
         },
         "children": []
       }
