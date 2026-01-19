@@ -27,8 +27,8 @@
     "Code": "FL",
     "File": "FL",
     "StateName": "Florida",
-    "Authorities": 110,
-    "Contracts": 5934,
+    "Authorities": 109,
+    "Contracts": 5931,
     "Entities": 1145
   },
   {
@@ -52,7 +52,7 @@
     "File": "IL",
     "StateName": "Illinois",
     "Authorities": 19,
-    "Contracts": 12950,
+    "Contracts": 12946,
     "Entities": 536
   },
   {
@@ -100,7 +100,7 @@
     "File": "OH",
     "StateName": "Ohio",
     "Authorities": 6,
-    "Contracts": 386,
+    "Contracts": 385,
     "Entities": 1
   },
   {
@@ -123,16 +123,16 @@
     "Code": "VA",
     "File": "VA",
     "StateName": "Virginia",
-    "Authorities": 10,
-    "Contracts": 728,
+    "Authorities": 9,
+    "Contracts": 727,
     "Entities": 165
   },
   {
     "Code": "WI",
     "File": "WI",
     "StateName": "Wisconsin",
-    "Authorities": 118,
-    "Contracts": 3383,
+    "Authorities": 117,
+    "Contracts": 3379,
     "Entities": 650
   }
 ]
