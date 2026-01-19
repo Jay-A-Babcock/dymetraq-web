@@ -7,7 +7,7 @@
       "AuthID": "GNIS_2411604",
       "AuthClass": "City",
       "State": "AZ",
-      "County": null,
+      "County": "Bullhead City",
       "City": null,
       "Department": null
     },
@@ -20,7 +20,7 @@
           "AuthID": "GNIS_2411604",
           "AuthClass": "City",
           "State": "AZ",
-          "County": null,
+          "County": "Bullhead City",
           "City": null,
           "Department": null
         },

@@ -48,6 +48,20 @@
           "AuthID": "GNIS_2395659",
           "AuthClass": "City",
           "State": "MN",
+          "County": "Cleveland",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Ramsey County",
+        "row": {
+          "AuthName": "Ramsey County",
+          "AuthID": "GNIS_659507",
+          "AuthClass": "county",
+          "State": "MN",
           "County": null,
           "City": null,
           "Department": null
@@ -60,6 +74,20 @@
         "row": {
           "AuthName": "Scott County",
           "AuthID": "GNIS_659514",
+          "AuthClass": "county",
+          "State": "MN",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "St. Louis County",
+        "row": {
+          "AuthName": "St. Louis County",
+          "AuthID": "GNIS_662850",
           "AuthClass": "county",
           "State": "MN",
           "County": null,

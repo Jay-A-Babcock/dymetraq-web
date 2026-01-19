@@ -1,34 +1,40 @@
-// components/AuthoritiesTree.tsx
-import { Authority } from "@/lib/types";
-import { Tree } from "@/data/official_names.json";
+"use client";
 
-interface AuthoritiesTreeProps {
-  authorities: Authority[];
-}
+import { useState } from "react";
 
-export default function AuthoritiesTree({ authorities }: AuthoritiesTreeProps) {
-  const byState = authorities.reduce((acc, auth) => {
-    if (!acc[auth.State]) acc[auth.State] = [];
-    acc[auth.State].push(auth);
-    return acc;
-  }, {} as Record<string, Authority[]>);
+export default function Tree({ label, children }) {
+  const [open, setOpen] = useState(false);
+  const hasChildren = Array.isArray(children) && children.length > 0;
 
   return (
-    <Tree>
-      {Object.entries(byState).map(([state, auths]) => (
-        <Tree key={state} label={<strong>{state}</strong>}>
-          {auths.map((auth) => (
-            <Tree
-              key={auth.AuthID}
-              label={
-                <a href={`/authorities/${auth.AuthID}`}>
-                  {auth.OfficialName}
-                </a>
-              }
-            />
-          ))}
-        </Tree>
-      ))}
-    </Tree>
+    <div className="tree-node">
+      <div className="tree-row">
+        {/* Toggle arrow */}
+        {hasChildren ? (
+          <span
+            className="tree-arrow"
+            onClick={(e) => {
+              e.stopPropagation();
+              setOpen(!open);
+            }}
+          >
+            {open ? "▼" : "▶"}
+          </span>
+        ) : (
+          <span className="tree-arrow">•</span>
+        )}
+
+        {/* Label area — can contain links */}
+        <span className="tree-label">
+          {label}
+        </span>
+      </div>
+
+      {open && hasChildren && (
+        <div className="tree-children">
+          {children}
+        </div>
+      )}
+    </div>
   );
 }

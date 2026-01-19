@@ -42,6 +42,20 @@
       },
       {
         "key": "AuthName",
+        "value": "City of Portsmouth",
+        "row": {
+          "AuthName": "City of Portsmouth",
+          "AuthID": "GNIS_1498556",
+          "AuthClass": "City",
+          "State": "VA",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "City of Suffolk",
         "row": {
           "AuthName": "City of Suffolk",

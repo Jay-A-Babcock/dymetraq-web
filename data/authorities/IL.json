@@ -34,7 +34,7 @@
           "AuthID": "GNIS_2394031",
           "AuthClass": "City",
           "State": "IL",
-          "County": null,
+          "County": "Aurora",
           "City": null,
           "Department": null
         },
@@ -48,7 +48,7 @@
           "AuthID": "GNIS_428803",
           "AuthClass": "City",
           "State": "IL",
-          "County": null,
+          "County": "Berwyn",
           "City": null,
           "Department": null
         },
@@ -62,7 +62,7 @@
           "AuthID": "GNIS_2395147",
           "AuthClass": "City",
           "State": "IL",
-          "County": null,
+          "County": "Downers Grove",
           "City": null,
           "Department": null
         },
@@ -196,13 +196,27 @@
       },
       {
         "key": "AuthName",
+        "value": "Village of Oak Park",
+        "row": {
+          "AuthName": "Village of Oak Park",
+          "AuthID": "GNIS_2399539",
+          "AuthClass": "village",
+          "State": "IL",
+          "County": "Berwyn",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Village of Oswego",
         "row": {
           "AuthName": "Village of Oswego",
           "AuthID": "GNIS_2399593",
           "AuthClass": "village",
           "State": "IL",
-          "County": null,
+          "County": "Kendall",
           "City": null,
           "Department": null
         },

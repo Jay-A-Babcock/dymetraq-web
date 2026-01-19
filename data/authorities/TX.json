@@ -7,7 +7,7 @@
       "AuthID": "GNIS_2409731",
       "AuthClass": "City",
       "State": "TX",
-      "County": null,
+      "County": "Arlington",
       "City": null,
       "Department": null
     },
@@ -20,7 +20,7 @@
           "AuthID": "GNIS_2409731",
           "AuthClass": "City",
           "State": "TX",
-          "County": null,
+          "County": "Arlington",
           "City": null,
           "Department": null
         },
@@ -62,6 +62,20 @@
           "AuthID": "GNIS_2412162",
           "AuthClass": "City",
           "State": "TX",
+          "County": "McLennan",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Forney Inedependent School District",
+        "row": {
+          "AuthName": "Forney Inedependent School District",
+          "AuthID": "NCES_4819560",
+          "AuthClass": "school_district",
+          "State": "TX",
           "County": null,
           "City": null,
           "Department": null
@@ -74,7 +88,7 @@
         "row": {
           "AuthName": "San Jacinto Community College District",
           "AuthID": "TX_SJCC",
-          "AuthClass": "university",
+          "AuthClass": "Educational Institutions",
           "State": "TX",
           "County": null,
           "City": null,

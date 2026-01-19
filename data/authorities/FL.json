@@ -230,7 +230,7 @@
           "AuthID": "GNIS_2403887",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Boca Raton",
           "City": null,
           "Department": null
         },
@@ -272,7 +272,7 @@
           "AuthID": "GNIS_2403907",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Bradenton",
           "City": null,
           "Department": null
         },
@@ -356,7 +356,7 @@
           "AuthID": "GNIS_2403990",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Bonita Springs",
           "City": null,
           "Department": null
         },
@@ -440,7 +440,7 @@
           "AuthID": "GNIS_2403646",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Fort Pierce",
           "City": null,
           "Department": null
         },
@@ -454,7 +454,7 @@
           "AuthID": "GNIS_2403676",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Alachua",
           "City": null,
           "Department": null
         },
@@ -510,7 +510,63 @@
           "AuthID": "GNIS_2404723",
           "AuthClass": "City",
           "State": "FL",
+          "County": "Hialeah",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Kissimmee",
+        "row": {
+          "AuthName": "City of Kissimmee",
+          "AuthID": "GNIS_2404839",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": "Kissimmee",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Lake Alfred",
+        "row": {
+          "AuthName": "City of Lake Alfred",
+          "AuthID": "GNIS_2404856",
+          "AuthClass": "City",
+          "State": "FL",
           "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Lake Mary",
+        "row": {
+          "AuthName": "City of Lake Mary",
+          "AuthID": "GNIS_2404865",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Melbourne",
+        "row": {
+          "AuthName": "City of Melbourne",
+          "AuthID": "GNIS_2405067",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": "Brevard",
           "City": null,
           "Department": null
         },
@@ -552,6 +608,20 @@
           "AuthID": "GNIS_2404367",
           "AuthClass": "City",
           "State": "FL",
+          "County": "Daytona Beach",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of North Miami",
+        "row": {
+          "AuthName": "City of North Miami",
+          "AuthID": "GNIS_2404394",
+          "AuthClass": "City",
+          "State": "FL",
           "County": null,
           "City": null,
           "Department": null
@@ -566,7 +636,7 @@
           "AuthID": "GNIS_2404398",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "North Port",
           "City": null,
           "Department": null
         },
@@ -594,7 +664,7 @@
           "AuthID": "GNIS_2404445",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Daytona Beach",
           "City": null,
           "Department": null
         },
@@ -608,7 +678,7 @@
           "AuthID": "GNIS_2404463",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Brevard",
           "City": null,
           "Department": null
         },
@@ -622,7 +692,7 @@
           "AuthID": "GNIS_2404503",
           "AuthClass": "City",
           "State": "FL",
-          "County": null,
+          "County": "Escambia",
           "City": null,
           "Department": null
         },
@@ -637,6 +707,20 @@
           "AuthClass": "City",
           "State": "FL",
           "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of Plantation",
+        "row": {
+          "AuthName": "City of Plantation",
+          "AuthID": "GNIS_2404536",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": "Broward",
           "City": null,
           "Department": null
         },
@@ -700,6 +784,20 @@
       },
       {
         "key": "AuthName",
+        "value": "City of Tampa",
+        "row": {
+          "AuthName": "City of Tampa",
+          "AuthID": "GNIS_2405568",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": "Brandon",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "City of Tarpon Springs",
         "row": {
           "AuthName": "City of Tarpon Springs",
@@ -732,6 +830,20 @@
         "row": {
           "AuthName": "City of Vero Beach",
           "AuthID": "GNIS_2405643",
+          "AuthClass": "City",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "City of West Park",
+        "row": {
+          "AuthName": "City of West Park",
+          "AuthID": "GNIS_2405714",
           "AuthClass": "City",
           "State": "FL",
           "County": null,
@@ -859,6 +971,20 @@
           "AuthName": "Lee County",
           "AuthID": "GNIS_295758",
           "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Leon County Schools",
+        "row": {
+          "AuthName": "Leon County Schools",
+          "AuthID": "NCES_1201110",
+          "AuthClass": "school_district",
           "State": "FL",
           "County": null,
           "City": null,
@@ -1078,13 +1204,27 @@
       },
       {
         "key": "AuthName",
+        "value": "Sumter County",
+        "row": {
+          "AuthName": "Sumter County",
+          "AuthID": "GNIS_295740",
+          "AuthClass": "county",
+          "State": "FL",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Town of Davie",
         "row": {
           "AuthName": "Town of Davie",
           "AuthID": "GNIS_2406359",
           "AuthClass": "town",
           "State": "FL",
-          "County": null,
+          "County": "Broward",
           "City": null,
           "Department": null
         },
@@ -1112,7 +1252,7 @@
           "AuthID": "GNIS_2405927",
           "AuthClass": "town",
           "State": "FL",
-          "County": null,
+          "County": "Boca Raton",
           "City": null,
           "Department": null
         },

@@ -60,7 +60,7 @@
         "row": {
           "AuthName": "Blackhawk Technical College",
           "AuthID": "WI_UNI_BTC",
-          "AuthClass": "university",
+          "AuthClass": "Educational Institutions",
           "State": "WI",
           "County": null,
           "City": null,
@@ -104,7 +104,7 @@
           "AuthID": "GNIS_1582685",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Altoona",
           "City": null,
           "Department": null
         },
@@ -118,7 +118,7 @@
           "AuthID": "GNIS_1582700",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Antigo",
           "City": null,
           "Department": null
         },
@@ -132,7 +132,7 @@
           "AuthID": "GNIS_1582703",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Appleton",
           "City": null,
           "Department": null
         },
@@ -146,7 +146,7 @@
           "AuthID": "GNIS_1582723",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Ashland",
           "City": null,
           "Department": null
         },
@@ -160,7 +160,7 @@
           "AuthID": "GNIS_1582755",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Almena",
           "City": null,
           "Department": null
         },
@@ -174,7 +174,7 @@
           "AuthID": "GNIS_1582888",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Burlington",
           "City": null,
           "Department": null
         },
@@ -188,7 +188,7 @@
           "AuthID": "GNIS_1582951",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Almena",
           "City": null,
           "Department": null
         },
@@ -202,7 +202,7 @@
           "AuthID": "GNIS_1582986",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Big Falls",
           "City": null,
           "Department": null
         },
@@ -216,7 +216,7 @@
           "AuthID": "GNIS_1582997",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Clark",
           "City": null,
           "Department": null
         },
@@ -230,7 +230,7 @@
           "AuthID": "GNIS_1583023",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Crandon",
           "City": null,
           "Department": null
         },
@@ -244,7 +244,7 @@
           "AuthID": "GNIS_1583066",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Big Bend",
           "City": null,
           "Department": null
         },
@@ -258,7 +258,7 @@
           "AuthID": "GNIS_1583068",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Bloomfield",
           "City": null,
           "Department": null
         },
@@ -272,7 +272,7 @@
           "AuthID": "GNIS_1583124",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Altoona",
           "City": null,
           "Department": null
         },
@@ -286,7 +286,7 @@
           "AuthID": "GNIS_1583273",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Gillett",
           "City": null,
           "Department": null
         },
@@ -300,7 +300,7 @@
           "AuthID": "GNIS_1583370",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Couderay",
           "City": null,
           "Department": null
         },
@@ -314,7 +314,7 @@
           "AuthID": "GNIS_1583448",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Beloit",
           "City": null,
           "Department": null
         },
@@ -328,7 +328,7 @@
           "AuthID": "GNIS_1583478",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Cleveland",
           "City": null,
           "Department": null
         },
@@ -342,7 +342,7 @@
           "AuthID": "GNIS_1583499",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Bangor",
           "City": null,
           "Department": null
         },
@@ -356,7 +356,7 @@
           "AuthID": "GNIS_1583500",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Bruce",
           "City": null,
           "Department": null
         },
@@ -370,7 +370,7 @@
           "AuthID": "GNIS_1583511",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Bloomfield",
           "City": null,
           "Department": null
         },
@@ -384,7 +384,7 @@
           "AuthID": "GNIS_1583625",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Belleville",
           "City": null,
           "Department": null
         },
@@ -398,7 +398,7 @@
           "AuthID": "GNIS_1583636",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Cleveland",
           "City": null,
           "Department": null
         },
@@ -412,7 +412,7 @@
           "AuthID": "GNIS_1583676",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Beaver Dam",
           "City": null,
           "Department": null
         },
@@ -426,7 +426,7 @@
           "AuthID": "GNIS_1583683",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Gilman",
           "City": null,
           "Department": null
         },
@@ -440,7 +440,7 @@
           "AuthID": "GNIS_1583688",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Ashland",
           "City": null,
           "Department": null
         },
@@ -454,7 +454,7 @@
           "AuthID": "GNIS_1583735",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Alma",
           "City": null,
           "Department": null
         },
@@ -468,7 +468,7 @@
           "AuthID": "GNIS_1583784",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Fox Crossing",
           "City": null,
           "Department": null
         },
@@ -482,7 +482,7 @@
           "AuthID": "GNIS_1583786",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Clark",
           "City": null,
           "Department": null
         },
@@ -496,7 +496,7 @@
           "AuthID": "GNIS_1583809",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Brillion",
           "City": null,
           "Department": null
         },
@@ -510,7 +510,7 @@
           "AuthID": "GNIS_1583813",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Big Falls",
           "City": null,
           "Department": null
         },
@@ -524,7 +524,7 @@
           "AuthID": "GNIS_1583816",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Baldwin",
           "City": null,
           "Department": null
         },
@@ -538,7 +538,7 @@
           "AuthID": "GNIS_1583847",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Big Bend",
           "City": null,
           "Department": null
         },
@@ -552,7 +552,7 @@
           "AuthID": "GNIS_1583852",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Gillett",
           "City": null,
           "Department": null
         },
@@ -566,7 +566,7 @@
           "AuthID": "GNIS_1583876",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Fox Crossing",
           "City": null,
           "Department": null
         },
@@ -580,7 +580,7 @@
           "AuthID": "GNIS_1583913",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Coleman",
           "City": null,
           "Department": null
         },
@@ -594,7 +594,7 @@
           "AuthID": "GNIS_1583918",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Catawba",
           "City": null,
           "Department": null
         },
@@ -608,7 +608,7 @@
           "AuthID": "GNIS_1583991",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Burlington",
           "City": null,
           "Department": null
         },
@@ -622,7 +622,7 @@
           "AuthID": "GNIS_1584005",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Baraboo",
           "City": null,
           "Department": null
         },
@@ -636,7 +636,7 @@
           "AuthID": "GNIS_1584014",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Oneida",
           "City": null,
           "Department": null
         },
@@ -650,7 +650,7 @@
           "AuthID": "GNIS_1584135",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Aniwa",
           "City": null,
           "Department": null
         },
@@ -664,7 +664,7 @@
           "AuthID": "GNIS_1584187",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Birchwood",
           "City": null,
           "Department": null
         },
@@ -678,7 +678,7 @@
           "AuthID": "GNIS_1584210",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Bloomer",
           "City": null,
           "Department": null
         },
@@ -692,7 +692,7 @@
           "AuthID": "GNIS_1584257",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Dairyland",
           "City": null,
           "Department": null
         },
@@ -706,7 +706,7 @@
           "AuthID": "GNIS_1584432",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Bloomfield",
           "City": null,
           "Department": null
         },
@@ -720,7 +720,7 @@
           "AuthID": "GNIS_1584462",
           "AuthClass": "City",
           "State": "WI",
-          "County": null,
+          "County": "Arlington",
           "City": null,
           "Department": null
         },
@@ -798,11 +798,39 @@
       },
       {
         "key": "AuthName",
+        "value": "Fox Valley Technical College",
+        "row": {
+          "AuthName": "Fox Valley Technical College",
+          "AuthID": "WI_UNIV_FVTC",
+          "AuthClass": "Educational Institutions",
+          "State": "WI",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Grant County",
         "row": {
           "AuthName": "Grant County",
           "AuthID": "GNIS_1581081",
           "AuthClass": "county",
+          "State": "WI",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
+        "value": "Madison Area Technical College (MATC)",
+        "row": {
+          "AuthName": "Madison Area Technical College (MATC)",
+          "AuthID": "WI_UNIV_MATC",
+          "AuthClass": "Educational Institutions",
           "State": "WI",
           "County": null,
           "City": null,
@@ -868,11 +896,25 @@
       },
       {
         "key": "AuthName",
+        "value": "Moraine Park Technical College",
+        "row": {
+          "AuthName": "Moraine Park Technical College",
+          "AuthID": "WI_UNIV_MPTC",
+          "AuthClass": "Educational Institutions",
+          "State": "WI",
+          "County": null,
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Northeast Wisconsin Technical College",
         "row": {
           "AuthName": "Northeast Wisconsin Technical College",
           "AuthID": "WI_UNIV_NWTC",
-          "AuthClass": "university",
+          "AuthClass": "Educational Institutions",
           "State": "WI",
           "County": null,
           "City": null,
@@ -1014,7 +1056,7 @@
           "AuthID": "GNIS_1582963",
           "AuthClass": "town",
           "State": "WI",
-          "County": null,
+          "County": "Amery",
           "City": null,
           "Department": null
         },
@@ -1056,7 +1098,7 @@
           "AuthID": "GNIS_1583272",
           "AuthClass": "town",
           "State": "WI",
-          "County": null,
+          "County": "Cleveland",
           "City": null,
           "Department": null
         },
@@ -1070,7 +1112,7 @@
           "AuthID": "GNIS_1583327",
           "AuthClass": "town",
           "State": "WI",
-          "County": null,
+          "County": "Coleman",
           "City": null,
           "Department": null
         },
@@ -1140,7 +1182,7 @@
           "AuthID": "GNIS_1584003",
           "AuthClass": "town",
           "State": "WI",
-          "County": null,
+          "County": "Algoma",
           "City": null,
           "Department": null
         },
@@ -1154,7 +1196,7 @@
           "AuthID": "GNIS_1582743",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Baldwin",
           "City": null,
           "Department": null
         },
@@ -1168,7 +1210,7 @@
           "AuthID": "GNIS_1582920",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Cascade",
           "City": null,
           "Department": null
         },
@@ -1182,7 +1224,7 @@
           "AuthID": "GNIS_1582924",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Cashton",
           "City": null,
           "Department": null
         },
@@ -1196,7 +1238,7 @@
           "AuthID": "GNIS_1583001",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Boyceville",
           "City": null,
           "Department": null
         },
@@ -1210,7 +1252,7 @@
           "AuthID": "GNIS_1583027",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Coleman",
           "City": null,
           "Department": null
         },
@@ -1224,7 +1266,7 @@
           "AuthID": "GNIS_1583064",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Belleville",
           "City": null,
           "Department": null
         },
@@ -1238,7 +1280,7 @@
           "AuthID": "GNIS_1583119",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Bloomfield",
           "City": null,
           "Department": null
         },
@@ -1252,7 +1294,7 @@
           "AuthID": "GNIS_1583132",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Athens",
           "City": null,
           "Department": null
         },
@@ -1266,7 +1308,7 @@
           "AuthID": "GNIS_1583155",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Bay City",
           "City": null,
           "Department": null
         },
@@ -1280,7 +1322,7 @@
           "AuthID": "GNIS_1583184",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Altoona",
           "City": null,
           "Department": null
         },
@@ -1294,7 +1336,7 @@
           "AuthID": "GNIS_1583188",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Altoona",
           "City": null,
           "Department": null
         },
@@ -1308,7 +1350,7 @@
           "AuthID": "GNIS_1583217",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Door",
           "City": null,
           "Department": null
         },
@@ -1322,7 +1364,7 @@
           "AuthID": "GNIS_1583248",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Adams",
           "City": null,
           "Department": null
         },
@@ -1336,7 +1378,7 @@
           "AuthID": "GNIS_2746307",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Brillion",
           "City": null,
           "Department": null
         },
@@ -1350,7 +1392,7 @@
           "AuthID": "GNIS_1583372",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Bagley",
           "City": null,
           "Department": null
         },
@@ -1364,7 +1406,7 @@
           "AuthID": "GNIS_1583532",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Baraboo",
           "City": null,
           "Department": null
         },
@@ -1378,7 +1420,7 @@
           "AuthID": "GNIS_1583510",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Baraboo",
           "City": null,
           "Department": null
         },
@@ -1392,7 +1434,7 @@
           "AuthID": "GNIS_1583595",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Boaz",
           "City": null,
           "Department": null
         },
@@ -1406,7 +1448,7 @@
           "AuthID": "GNIS_1583824",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Burlington",
           "City": null,
           "Department": null
         },
@@ -1420,7 +1462,7 @@
           "AuthID": "GNIS_1583908",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Durand",
           "City": null,
           "Department": null
         },
@@ -1434,7 +1476,7 @@
           "AuthID": "GNIS_1583943",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Bay City",
           "City": null,
           "Department": null
         },
@@ -1448,7 +1490,7 @@
           "AuthID": "GNIS_1584016",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Gilman",
           "City": null,
           "Department": null
         },
@@ -1462,7 +1504,7 @@
           "AuthID": "GNIS_1584045",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Baldwin",
           "City": null,
           "Department": null
         },
@@ -1476,7 +1518,7 @@
           "AuthID": "GNIS_1584107",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Big Falls",
           "City": null,
           "Department": null
         },
@@ -1490,7 +1532,7 @@
           "AuthID": "GNIS_1584171",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Dairyland",
           "City": null,
           "Department": null
         },
@@ -1504,7 +1546,7 @@
           "AuthID": "GNIS_1584226",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Brillion",
           "City": null,
           "Department": null
         },
@@ -1518,7 +1560,7 @@
           "AuthID": "GNIS_1584237",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Arcadia",
           "City": null,
           "Department": null
         },
@@ -1532,7 +1574,7 @@
           "AuthID": "GNIS_1584290",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Arcadia",
           "City": null,
           "Department": null
         },
@@ -1546,7 +1588,7 @@
           "AuthID": "GNIS_1584374",
           "AuthClass": "village",
           "State": "WI",
-          "County": null,
+          "County": "Belleville",
           "City": null,
           "Department": null
         },

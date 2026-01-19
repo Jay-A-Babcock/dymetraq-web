@@ -28,6 +28,20 @@
       },
       {
         "key": "AuthName",
+        "value": "City of Sparks",
+        "row": {
+          "AuthName": "City of Sparks",
+          "AuthID": "GNIS_2411949",
+          "AuthClass": "City",
+          "State": "NV",
+          "County": "Sparks",
+          "City": null,
+          "Department": null
+        },
+        "children": []
+      },
+      {
+        "key": "AuthName",
         "value": "Elko County School District",
         "row": {
           "AuthName": "Elko County School District",

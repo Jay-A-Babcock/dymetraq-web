@@ -34,7 +34,7 @@
           "AuthID": "GNIS_582340",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Bangor",
           "City": null,
           "Department": null
         },
@@ -48,7 +48,7 @@
           "AuthID": "GNIS_582347",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Belfast",
           "City": null,
           "Department": null
         },
@@ -62,7 +62,7 @@
           "AuthID": "GNIS_582554",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Androscoggin",
           "City": null,
           "Department": null
         },
@@ -76,7 +76,7 @@
           "AuthID": "GNIS_582698",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Knox",
           "City": null,
           "Department": null
         },
@@ -90,7 +90,7 @@
           "AuthID": "GNIS_582738",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Cumberland",
           "City": null,
           "Department": null
         },
@@ -104,7 +104,7 @@
           "AuthID": "GNIS_582795",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Augusta",
           "City": null,
           "Department": null
         },
@@ -118,7 +118,7 @@
           "AuthID": "GNIS_582802",
           "AuthClass": "City",
           "State": "ME",
-          "County": null,
+          "County": "Cumberland",
           "City": null,
           "Department": null
         },

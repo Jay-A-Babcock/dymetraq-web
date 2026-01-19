@@ -7,7 +7,7 @@
       "AuthID": "GNIS_2410663",
       "AuthClass": "City",
       "State": "OR",
-      "County": null,
+      "County": "Gresham",
       "City": null,
       "Department": null
     },
@@ -20,7 +20,7 @@
           "AuthID": "GNIS_2410663",
           "AuthClass": "City",
           "State": "OR",
-          "County": null,
+          "County": "Gresham",
           "City": null,
           "Department": null
         },

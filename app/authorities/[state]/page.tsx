@@ -1,7 +1,7 @@
 // app/authorities/[state]/page.tsx
 import rawStates from "@/data/states.json";
 
-import Tree from "@/components/Tree";
+import Tree from "@/components/AuthoritiesTree";
 
 interface StateWithFile {
   Code: string;
@@ -30,7 +30,7 @@ export default async function StatePage({
   const { state } = await params;
 
   console.log("State param:", state);
-  
+
   const stateData = States.find((s) => s.Code === state);
 
   if (!stateData) {

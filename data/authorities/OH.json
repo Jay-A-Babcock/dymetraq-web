@@ -7,7 +7,7 @@
       "AuthID": "GNIS_1086993",
       "AuthClass": "City",
       "State": "OH",
-      "County": null,
+      "County": "Akron",
       "City": null,
       "Department": null
     },
@@ -20,7 +20,7 @@
           "AuthID": "GNIS_1086993",
           "AuthClass": "City",
           "State": "OH",
-          "County": null,
+          "County": "Akron",
           "City": null,
           "Department": null
         },
@@ -34,7 +34,7 @@
           "AuthID": "GNIS_1086201",
           "AuthClass": "City",
           "State": "OH",
-          "County": null,
+          "County": "Amberley",
           "City": null,
           "Department": null
         },
@@ -62,7 +62,7 @@
           "AuthID": "GNIS_1085859",
           "AuthClass": "City",
           "State": "OH",
-          "County": null,
+          "County": "Clark",
           "City": null,
           "Department": null
         },

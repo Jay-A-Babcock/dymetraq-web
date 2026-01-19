@@ -34,7 +34,7 @@
           "AuthID": "GNIS_485609",
           "AuthClass": "City",
           "State": "KS",
-          "County": null,
+          "County": "Douglas",
           "City": null,
           "Department": null
         },

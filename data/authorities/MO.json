@@ -48,7 +48,7 @@
           "AuthID": "GNIS_2395942",
           "AuthClass": "City",
           "State": "MO",
-          "County": null,
+          "County": "Greene",
           "City": null,
           "Department": null
         },
@@ -60,7 +60,7 @@
         "row": {
           "AuthName": "University of Missouri",
           "AuthID": "MO_UNI_MSU",
-          "AuthClass": "university",
+          "AuthClass": "Educational Institutions",
           "State": "MO",
           "County": null,
           "City": null,

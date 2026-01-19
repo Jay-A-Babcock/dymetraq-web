@@ -1,3 +1,4 @@
+// data/regions.ts
 export const REGION_GROUPS = [
   {
     label: "Midwest",

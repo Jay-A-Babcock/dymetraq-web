@@ -7,7 +7,7 @@
       "AuthID": "GNIS_2403753",
       "AuthClass": "City",
       "State": "NC",
-      "County": null,
+      "County": "Greenville",
       "City": null,
       "Department": null
     },
@@ -20,7 +20,7 @@
           "AuthID": "GNIS_2403753",
           "AuthClass": "City",
           "State": "NC",
-          "County": null,
+          "County": "Greenville",
           "City": null,
           "Department": null
         },
