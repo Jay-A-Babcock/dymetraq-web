@@ -14,29 +14,28 @@ export default async function AuthorityPage({ params }: AuthorityPageProps) {
   const { state, id } = await params;
 
   const { default: authoritiesData } = await import(
-    `@/data/authorities/${state}.json`
+    `@/public/data/authorities/${state}.json`
   );
   const authority = findAuthority(authoritiesData, id);
 
   if (!authority) return <p>Authority not found.</p>;
- 
 
   // Read pre-generated HTML from LS2 file system
-let dynamicHtml: string | null = null;
+  let dynamicHtml: string | null = null;
 
-try {
-  const htmlPath = path.join(
-    process.cwd(),
-    "public",
-    "authorities",
-    state,
-    id,
-    "index.html"
-  );
-  dynamicHtml = await fs.readFile(htmlPath, "utf-8");
-} catch {
-  dynamicHtml = null;
-}
+  try {
+    const htmlPath = path.join(
+      process.cwd(),
+      "public",
+      "authorities",
+      state,
+      id,
+      "index.html"
+    );
+    dynamicHtml = await fs.readFile(htmlPath, "utf-8");
+  } catch {
+    dynamicHtml = null;
+  }
 
   return (
     <div className="detail-layout">

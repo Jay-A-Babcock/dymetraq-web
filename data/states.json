@@ -3,8 +3,8 @@
     "Code": "AK",
     "File": "AK",
     "StateName": "Alaska",
-    "Authorities": 3,
-    "Contracts": 138,
+    "Authorities": 4,
+    "Contracts": 139,
     "Entities": 34
   },
   {
@@ -13,46 +13,38 @@
     "StateName": "Arizona",
     "Authorities": 1,
     "Contracts": 37,
-    "Entities": 2
+    "Entities": 3
   },
   {
     "Code": "CA",
     "File": "CA",
     "StateName": "California",
-    "Authorities": 18,
-    "Contracts": 874,
-    "Entities": 117
+    "Authorities": 16,
+    "Contracts": 763,
+    "Entities": 119
   },
   {
     "Code": "FL",
     "File": "FL",
     "StateName": "Florida",
-    "Authorities": 109,
-    "Contracts": 5931,
-    "Entities": 1145
-  },
-  {
-    "Code": "GA",
-    "File": "GA",
-    "StateName": "Georgia",
-    "Authorities": 2,
-    "Contracts": 105,
-    "Entities": 1
+    "Authorities": 135,
+    "Contracts": 6952,
+    "Entities": 1370
   },
   {
     "Code": "ID",
     "File": "ID",
     "StateName": "Idaho",
-    "Authorities": 3,
-    "Contracts": 81,
-    "Entities": 22
+    "Authorities": 2,
+    "Contracts": 80,
+    "Entities": 40
   },
   {
     "Code": "IL",
     "File": "IL",
     "StateName": "Illinois",
-    "Authorities": 19,
-    "Contracts": 12946,
+    "Authorities": 21,
+    "Contracts": 12953,
     "Entities": 536
   },
   {
@@ -75,9 +67,9 @@
     "Code": "MN",
     "File": "MN",
     "StateName": "Minnesota",
-    "Authorities": 7,
-    "Contracts": 354,
-    "Entities": 16
+    "Authorities": 10,
+    "Contracts": 357,
+    "Entities": 108
   },
   {
     "Code": "MO",
@@ -91,8 +83,8 @@
     "Code": "NV",
     "File": "NV",
     "StateName": "Nevada",
-    "Authorities": 6,
-    "Contracts": 309,
+    "Authorities": 7,
+    "Contracts": 310,
     "Entities": 50
   },
   {
@@ -115,7 +107,7 @@
     "Code": "TX",
     "File": "TX",
     "StateName": "Texas",
-    "Authorities": 7,
+    "Authorities": 6,
     "Contracts": 362,
     "Entities": 29
   },
@@ -123,16 +115,16 @@
     "Code": "VA",
     "File": "VA",
     "StateName": "Virginia",
-    "Authorities": 9,
-    "Contracts": 727,
-    "Entities": 165
+    "Authorities": 10,
+    "Contracts": 728,
+    "Entities": 166
   },
   {
     "Code": "WI",
     "File": "WI",
     "StateName": "Wisconsin",
-    "Authorities": 117,
-    "Contracts": 3379,
-    "Entities": 650
+    "Authorities": 120,
+    "Contracts": 3394,
+    "Entities": 701
   }
 ]

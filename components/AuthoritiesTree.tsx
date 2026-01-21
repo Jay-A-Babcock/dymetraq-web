@@ -9,7 +9,6 @@ export default function Tree({ label, children }) {
   return (
     <div className="tree-node">
       <div className="tree-row">
-        {/* Toggle arrow */}
         {hasChildren ? (
           <span
             className="tree-arrow"
@@ -24,17 +23,10 @@ export default function Tree({ label, children }) {
           <span className="tree-arrow">•</span>
         )}
 
-        {/* Label area — can contain links */}
-        <span className="tree-label">
-          {label}
-        </span>
+        <span className="tree-label">{label}</span>
       </div>
 
-      {open && hasChildren && (
-        <div className="tree-children">
-          {children}
-        </div>
-      )}
+      {open && hasChildren && <div className="tree-children">{children}</div>}
     </div>
   );
 }

@@ -1,7 +1,6 @@
 // app/authorities/[state]/page.tsx
 import rawStates from "@/data/states.json";
-
-import Tree from "@/components/AuthoritiesTree";
+import HierarchyTree from "@/components/HierarchyTree";
 
 interface StateWithFile {
   Code: string;
@@ -29,38 +28,13 @@ export default async function StatePage({
 }) {
   const { state } = await params;
 
-  console.log("State param:", state);
-
   const stateData = States.find((s) => s.Code === state);
-
-  if (!stateData) {
-    return <p>State not found.</p>;
-  }
+  if (!stateData) return <p>State not found.</p>;
 
   // Load the authority hierarchy JSON for this state
   const { default: authorities } = await import(
-    `@/data/authorities/${stateData.File}.json`
+    `@/public/data/authorities/${stateData.File}.json`
   );
-
-  function renderNode(node: TreeNode, parentPath = "") {
-    const authId = node.AuthID ?? node.row?.AuthID;
-    const nodeKey = `${parentPath}-${node.key}-${node.value}`;
-
-    return (
-      <Tree
-        key={nodeKey}
-        label={
-          authId ? (
-            <a href={`/authorities/${state}/${authId}`}>{node.value}</a>
-          ) : (
-            <span>{node.value}</span>
-          )
-        }
-      >
-        {node.children?.map((child) => renderNode(child, nodeKey))}
-      </Tree>
-    );
-  }
 
   return (
     <div className="detail-layout">
@@ -72,7 +46,7 @@ export default async function StatePage({
         </p>
 
         <div className="tree-view">
-          {authorities.map((node: TreeNode) => renderNode(node))}
+          <HierarchyTree state={state} nodes={authorities} />
         </div>
       </div>
 
