@@ -1,6 +1,7 @@
 // app/authorities/[state]/page.tsx
 import rawStates from "@/data/states.json";
 import HierarchyTree from "@/components/HierarchyTree";
+import Image from "next/image";
 
 interface StateWithFile {
   Code: string;
@@ -52,9 +53,28 @@ export default async function StatePage({
 
       <div className="detail-sidebar">
         <h2>State Overview</h2>
-        <div className="dynamic-module">
-          <h4>Search Tools</h4>
-        </div>
+        <a
+          href={`/img/visuals/${stateData.Code}/${stateData.Code}_amounts_per_contractor.png`}
+          target="_blank"
+        >
+          <Image
+            src={`/img/visuals/${stateData.Code}/${stateData.Code}_amounts_per_contractor.png`}
+            alt={`${stateData.Code} visual`}
+            width={300}
+            height={200}
+          />
+        </a>
+        <a
+          href={`/img/visuals/${stateData.Code}/${stateData.Code}_contracts_per_contractor.png`}
+          target="_blank"
+        >
+          <Image
+            src={`/img/visuals/${stateData.Code}/${stateData.Code}_contracts_per_contractor.png`}
+            alt={`${stateData.Code} visual`}
+            width={300}
+            height={200}
+          />
+        </a>
       </div>
     </div>
   );
