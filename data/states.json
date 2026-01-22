@@ -28,8 +28,8 @@
     "File": "FL",
     "StateName": "Florida",
     "Authorities": 142,
-    "Contracts": 7704,
-    "Entities": 1631
+    "Contracts": 7706,
+    "Entities": 1677
   },
   {
     "Code": "ID",
@@ -44,8 +44,8 @@
     "File": "IL",
     "StateName": "Illinois",
     "Authorities": 22,
-    "Contracts": 13190,
-    "Entities": 605
+    "Contracts": 13191,
+    "Entities": 1351
   },
   {
     "Code": "KS",
@@ -64,11 +64,19 @@
     "Entities": 37
   },
   {
+    "Code": "MI",
+    "File": "MI",
+    "StateName": "Michigan",
+    "Authorities": 1,
+    "Contracts": 20,
+    "Entities": 1
+  },
+  {
     "Code": "MN",
     "File": "MN",
     "StateName": "Minnesota",
     "Authorities": 10,
-    "Contracts": 357,
+    "Contracts": 358,
     "Entities": 108
   },
   {
@@ -76,16 +84,24 @@
     "File": "MO",
     "StateName": "Missouri",
     "Authorities": 4,
-    "Contracts": 330,
+    "Contracts": 332,
     "Entities": 176
+  },
+  {
+    "Code": "NC",
+    "File": "NC",
+    "StateName": "North Carolina",
+    "Authorities": 4,
+    "Contracts": 219,
+    "Entities": 4
   },
   {
     "Code": "NV",
     "File": "NV",
     "StateName": "Nevada",
     "Authorities": 7,
-    "Contracts": 410,
-    "Entities": 50
+    "Contracts": 414,
+    "Entities": 51
   },
   {
     "Code": "OH",
@@ -108,23 +124,31 @@
     "File": "TX",
     "StateName": "Texas",
     "Authorities": 9,
-    "Contracts": 365,
-    "Entities": 29
+    "Contracts": 614,
+    "Entities": 30
   },
   {
     "Code": "VA",
     "File": "VA",
     "StateName": "Virginia",
     "Authorities": 11,
-    "Contracts": 729,
-    "Entities": 166
+    "Contracts": 835,
+    "Entities": 220
   },
   {
     "Code": "WI",
     "File": "WI",
     "StateName": "Wisconsin",
-    "Authorities": 120,
-    "Contracts": 3396,
-    "Entities": 703
+    "Authorities": 121,
+    "Contracts": 3751,
+    "Entities": 713
+  },
+  {
+    "Code": "WV",
+    "File": "WV",
+    "StateName": "West Virginia",
+    "Authorities": 2,
+    "Contracts": 150,
+    "Entities": 48
   }
 ]
