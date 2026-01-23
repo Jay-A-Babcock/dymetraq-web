@@ -5,6 +5,7 @@ import { useState, useEffect, useMemo } from "react";
 import { REGION_GROUPS } from "@/data/regions";
 import { statesList } from "@/data/states";
 import { StateEntity, AuthorityRow, NIGP } from "@/lib/types";
+import Selector from "@/components/Selector";
 
 export default function ContractsPage() {
   // -----------------------------
@@ -20,6 +21,15 @@ export default function ContractsPage() {
     } else {
       setSelectedStates(values);
     }
+  }
+
+  function toggleState(code: string) {
+    setSelectedStates(
+      (prev) =>
+        prev.includes(code)
+          ? prev.filter((s) => s !== code)
+          : [...prev.filter((s) => s !== "ALL"), code] // remove ALL if selecting real states
+    );
   }
 
   // -----------------------------
@@ -211,194 +221,138 @@ export default function ContractsPage() {
             the list will be presented with filtering, sorting, and advanced
             search.
           </p>
-
           {/* FILTER ROW - All 4 selectors side by side */}
-          <div className="filter-row">
-            {/* REGION | STATE SELECTOR */}
+          <div className="filters-grid">
+            {/* REGION | STATE */}
             <div className="filter-panel">
-              <label className="filter-label">Region | State</label>
-              <div className="region-state-selector">
-                <select
-                  id="state-select"
-                  name="states"
-                  multiple
-                  size={12}
-                  value={selectedStates}
-                  onChange={handleStateChange}
-                >
-                  <option value="ALL">– ALL –</option>
-                  {REGION_GROUPS.map((region) => (
-                    <optgroup
-                      key={region.label}
-                      label={region.label}
-                      className={region.className}
-                    >
-                      {region.states.map((code) => (
-                        <option key={code} value={code}>
-                          {statesList[code] ?? code}
-                        </option>
-                      ))}
-                    </optgroup>
-                  ))}
-                </select>
-              </div>
+              <Selector
+                label="Region | State"
+                groups={REGION_GROUPS.map((g) => ({
+                  label: g.label,
+                  items: g.states.map((code) => ({
+                    value: code,
+                    label: statesList[code] ?? code,
+                  })),
+                }))}
+                selected={selectedStates}
+                onToggle={toggleState}
+              />
             </div>
 
             {/* AUTHORITY SELECTOR */}
             <div className="filter-panel">
-              <label className="filter-label">Authorities</label>
-              <div className="authority-selector">
-                {authorities.length === 0 ? (
-                  <p className="selector-empty">
-                    Select a state to load authorities.
-                  </p>
-                ) : (
-                  authorities.map((node) => (
-                    <div
-                      key={node.AuthID}
-                      className={`selector-item ${
-                        selectedAuthorities.includes(node.AuthID)
-                          ? "selected"
-                          : ""
-                      }`}
-                      onClick={() => toggleAuthority(node.AuthID)}
-                    >
-                      {node.DisplayName}
-                    </div>
-                  ))
-                )}
-              </div>
+              <Selector
+                label="Authorities"
+                items={authorities.map((a) => ({
+                  value: a.AuthID,
+                  label: a.DisplayName,
+                }))}
+                selected={selectedAuthorities}
+                onToggle={toggleAuthority}
+              />
             </div>
 
             {/* ENTITY SELECTOR */}
             <div className="filter-panel">
-              <label className="filter-label">Entities</label>
-              <div className="entity-selector">
-                {filteredEntities.length === 0 ? (
-                  <p className="selector-empty">
-                    Select authorities to load entities.
-                  </p>
-                ) : (
-                  filteredEntities.map((entity) => (
-                    <div
-                      key={entity.EntityUID}
-                      className={`selector-item ${
-                        selectedEntityIds.includes(entity.EntityUID)
-                          ? "selected"
-                          : ""
-                      }`}
-                      onClick={() => toggleEntity(entity.EntityUID)}
-                    >
-                      {entity.EntityName}
-                    </div>
-                  ))
-                )}
-              </div>
+              <Selector
+                label="Entities"
+                items={filteredEntities.map((e) => ({
+                  value: e.EntityUID,
+                  label: e.EntityName,
+                }))}
+                selected={selectedEntityIds}
+                onToggle={toggleEntity}
+              />
             </div>
 
             {/* NIGP SELECTOR */}
             <div className="filter-panel">
-              <label className="filter-label">NIGP Codes</label>
-              <div className="nigp-selector">
-                {NIGP_PLACEHOLDER.length === 0 ? (
-                  <p className="selector-empty">NIGP codes coming soon.</p>
-                ) : (
-                  NIGP_PLACEHOLDER.map((item) => (
-                    <div
-                      key={item.code}
-                      className={`selector-item ${
-                        selectedNIGP.includes(item.code) ? "selected" : ""
-                      }`}
-                      onClick={() => toggleNIGP(item.code)}
-                    >
-                      {item.code} – {item.label}
-                    </div>
-                  ))
-                )}
+              <Selector
+                label="NIGP Codes"
+                items={NIGP_PLACEHOLDER.map((c) => ({
+                  value: c.code,
+                  label: `${c.code} – ${c.label}`,
+                }))}
+                selected={selectedNIGP}
+                onToggle={toggleNIGP}
+              />
+            </div>
+
+            {/* STATUS TOGGLES */}
+            <div className="filter-panel span-full">
+              <label className="filter-label">Status</label>
+              <div className="toggle-group">
+                <label className="toggle-item">
+                  <input
+                    type="checkbox"
+                    checked={toggles.open}
+                    onChange={() => toggleSwitch("open")}
+                  />
+                  Open
+                </label>
+
+                <label className="toggle-item">
+                  <input
+                    type="checkbox"
+                    checked={toggles.awarded}
+                    onChange={() => toggleSwitch("awarded")}
+                  />
+                  Awarded
+                </label>
+
+                <label className="toggle-item">
+                  <input
+                    type="checkbox"
+                    checked={toggles.activeOnly}
+                    onChange={() => toggleSwitch("activeOnly")}
+                  />
+                  Active Only
+                </label>
               </div>
             </div>
-          </div>
-
-          {/* STATUS TOGGLES */}
-          <div className="filter-panel">
-            <label className="filter-label">Status</label>
-            <div className="toggle-group">
-              <label className="toggle-item">
-                <input
-                  type="checkbox"
-                  checked={toggles.open}
-                  onChange={() => toggleSwitch("open")}
-                />
-                Open
-              </label>
-
-              <label className="toggle-item">
-                <input
-                  type="checkbox"
-                  checked={toggles.awarded}
-                  onChange={() => toggleSwitch("awarded")}
-                />
-                Awarded
-              </label>
-
-              <label className="toggle-item">
-                <input
-                  type="checkbox"
-                  checked={toggles.activeOnly}
-                  onChange={() => toggleSwitch("activeOnly")}
-                />
-                Active Only
-              </label>
-            </div>
-          </div>
-
-          <button className="reset-btn" onClick={resetFilters}>
-            Reset Filters
-          </button>
-          <button className="apply-btn" onClick={applyFilters}>
-            Apply Filters
-          </button>
-
-          {/* RESULTS */}
-          <div className="results-panel">
-            <h2>Results</h2>
-            <div className="results-table">
-              {results.length === 0 ? (
-                <p>No results yet. Apply filters to see contracts.</p>
-              ) : (
-                <table>
-                  <thead>
-                    <tr>
-                      <th>Contract ID</th>
-                      <th>Authority</th>
-                      <th>Awarded Vendor</th>
-                      <th>Bid Closing Date</th>
-                      <th>NIGP</th>
-                      <th>Status</th>
+          </div>{" "}
+          <button className="reset-btn action-btn">Reset Filters</button>
+          <button className="apply-btn action-btn">Apply Filters</button>
+        </div>
+        {/* RESULTS */}
+        <div className="results-panel">
+          <h2>Results</h2>
+          <div className="results-table">
+            {results.length === 0 ? (
+              <p>No results yet. Apply filters to see contracts.</p>
+            ) : (
+              <table>
+                <thead>
+                  <tr>
+                    <th>Contract ID</th>
+                    <th>Authority</th>
+                    <th>Awarded Vendor</th>
+                    <th>Bid Closing Date</th>
+                    <th>NIGP</th>
+                    <th>Status</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {results.map((r) => (
+                    <tr key={r._id}>
+                      <td>{r.contract_id}</td>
+                      <td>{r.auth_name}</td>
+                      <td>{r.entity_name}</td>
+                      <td>{r.nigp_code}</td>
+                      <td>{r.status}</td>
                     </tr>
-                  </thead>
-                  <tbody>
-                    {results.map((r) => (
-                      <tr key={r._id}>
-                        <td>{r.contract_id}</td>
-                        <td>{r.auth_name}</td>
-                        <td>{r.entity_name}</td>
-                        <td>{r.nigp_code}</td>
-                        <td>{r.status}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              )}
-            </div>
+                  ))}
+                </tbody>
+              </table>
+            )}
           </div>
         </div>
+      </div>
 
-        <div className="detail-sidebar">
-          <h2>Contract Overview</h2>
-          <div className="dynamic-module">
-            <h4>Search Tools</h4>
-          </div>
+      <div className="detail-sidebar">
+        <h2>Contract Overview</h2>
+        <div className="dynamic-module">
+          <h4>Search Tools</h4>
         </div>
       </div>
     </div>

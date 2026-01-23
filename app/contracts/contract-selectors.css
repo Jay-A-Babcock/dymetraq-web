@@ -1,63 +1,114 @@
-/* Container for all filter panels in a row */
-.filter-row {
-  display: flex;
+/* ---------- FILTER GRID -------------------------------------------------- */
+.filters-grid {
+  display: grid;
   gap: 16px;
-  margin-bottom: 20px;
+  /*  ≥1024px: 4 equal columns  */
+  grid-template-columns: repeat(4, 1fr);
 }
 
-/* Each filter panel takes equal width */
-.filter-row .filter-panel {
-  flex: 1;
-  min-width: 0; /* Prevents overflow issues */
+/* Tablet  (≥640px <1024px) → two columns */
+@media (max-width: 1023px) {
+  .filters-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
-/* Selector boxes - fixed height with scroll */
-.authority-selector,
-.entity-selector,
-.nigp-selector,
-.region-state-selector select {
-  height: 200px;
-  overflow-y: auto;
-  border: 1px solid var(--border-color, #ccc);
+/* Phone  (<640px) → one column */
+@media (max-width: 639px) {
+  .filters-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Every panel automatically spans one column unless told otherwise */
+.filter-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Any panel that needs to be wider can add .span-2-cols or .span-full */
+.span-2-cols {
+  grid-column: span 2;
+}
+.span-full {
+  grid-column: 1 / -1;
+} /* take the whole row */
+
+/* Optional: space the buttons nicely inside the same grid */
+.filters-grid .action-btn {
+  align-self: start; /* buttons hug the top edge like the selectors */
+}
+
+/* ---------- BUTTONS (example styles) ------------------------------------ */
+.apply-btn,
+.reset-btn {
+  padding: 8px 14px;
+  font-size: 0.9rem;
   border-radius: 4px;
-  background: var(--bg-secondary, #f9f9f9);
-}
-
-/* Selectable list items */
-.selector-item {
-  padding: 8px 12px;
   cursor: pointer;
-  border-bottom: 1px solid var(--border-light, #eee);
-  transition: background-color 0.15s ease;
-  user-select: none;
+  border: 1px solid transparent;
 }
 
-.selector-item:last-child {
+.apply-btn {
+  background: #2d6df6;
+  color: #fff;
+}
+.reset-btn {
+  background: #f0f4ff;
+  color: #2d6df6;
+}
+
+/* make the buttons line up side-by-side on wide screens, stack on mobile  */
+@media (max-width: 639px) {
+  .apply-btn,
+  .reset-btn {
+    width: 100%;
+  }
+}
+
+.dt-selector {
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 6px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.dt-selector-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 2px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.dt-selector-item:last-child {
   border-bottom: none;
 }
 
-.selector-item:hover {
-  background-color: var(--hover-bg, #e8e8e8);
+.dt-selector-item:hover {
+  background: #f0f4ff;
 }
 
-.selector-item.selected {
-  background-color: var(--selected-bg, #d0e8ff);
-  font-weight: 500;
+.dt-selector-group {
+  margin-bottom: 8px;
 }
 
-/* Empty state */
+.dt-selector-group-label {
+  font-weight: 600;
+  margin: 6px 0 4px;
+  color: #444;
+}
+
 .selector-empty {
   padding: 16px;
-  color: var(--text-muted, #888);
-  font-style: italic;
   text-align: center;
-}
-
-/* Filter labels */
-.filter-label {
-  display: block;
-  font-weight: 600;
-  margin-bottom: 6px;
+  font-style: italic;
+  color: #888;
 }
 
 /* Smaller height variant for NIGP */
@@ -68,4 +119,15 @@
 /* Taller variant for entities if needed */
 .entity-selector {
   height: 250px;
+}
+
+.status-section {
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
+.status-section label {
+  margin-right: 12px;
+  font-size: 0.9rem;
 }

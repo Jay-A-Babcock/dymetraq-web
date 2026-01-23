@@ -2,15 +2,21 @@
 @import "@fortawesome/fontawesome-free/css/all.min.css";
 
 .coming-soon {
+  color: #666;
+  margin-top: 10px;
   background-color: #fff8b3;
   /* soft yellow */
   border: 2px dashed #d40000;
   /* strong red, dashed for visibility */
-  padding: 20px;
+  padding: 4px;
+  font-style: italic;
   border-radius: 6px;
   color: #333;
   font-size: 14px;
   font-weight: 600;
+  margin: auto;
+  text-align: center;
+  max-width: 50%;
 }
 
 * {
