@@ -374,7 +374,6 @@ export default function ContractsPage() {
                   <th>Bid Closing Date</th>
                   <th>NIGP</th>
                   <th>Status</th>
-                  <th>Action</th>
                 </tr>
               </thead>
               <tbody>
@@ -385,7 +384,6 @@ export default function ContractsPage() {
                     <td>{r.entity_name}</td>
                     <td>{r.nigp_code}</td>
                     <td>{r.status}</td>
-                    <td className="coming-soon">Generate Report</td>
                   </tr>
                 ))}
               </tbody>
@@ -397,7 +395,10 @@ export default function ContractsPage() {
       <div className="detail-sidebar">
         <h2>Contract Overview</h2>
         <div className="dynamic-module">
-          <h4>Search Tools</h4>
+          <p className="coming-soon">
+            Matrix of what data points the contract contains.
+          </p>
+          <button className="coming-soon">Generate Report</button>
         </div>
       </div>
     </div>
