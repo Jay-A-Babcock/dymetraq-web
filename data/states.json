@@ -20,32 +20,32 @@
     "File": "CA",
     "StateName": "California",
     "Authorities": 16,
-    "Contracts": 763,
+    "Contracts": 764,
     "Entities": 119
   },
   {
     "Code": "FL",
     "File": "FL",
     "StateName": "Florida",
-    "Authorities": 142,
-    "Contracts": 7706,
-    "Entities": 1677
+    "Authorities": 149,
+    "Contracts": 7905,
+    "Entities": 1676
   },
   {
     "Code": "ID",
     "File": "ID",
     "StateName": "Idaho",
     "Authorities": 2,
-    "Contracts": 80,
+    "Contracts": 85,
     "Entities": 40
   },
   {
     "Code": "IL",
     "File": "IL",
     "StateName": "Illinois",
-    "Authorities": 22,
-    "Contracts": 13191,
-    "Entities": 1351
+    "Authorities": 23,
+    "Contracts": 13243,
+    "Entities": 1352
   },
   {
     "Code": "KS",
@@ -75,9 +75,9 @@
     "Code": "MN",
     "File": "MN",
     "StateName": "Minnesota",
-    "Authorities": 10,
-    "Contracts": 358,
-    "Entities": 108
+    "Authorities": 9,
+    "Contracts": 342,
+    "Entities": 96
   },
   {
     "Code": "MO",
@@ -92,7 +92,7 @@
     "File": "NC",
     "StateName": "North Carolina",
     "Authorities": 4,
-    "Contracts": 219,
+    "Contracts": 222,
     "Entities": 4
   },
   {
@@ -108,7 +108,7 @@
     "File": "OH",
     "StateName": "Ohio",
     "Authorities": 6,
-    "Contracts": 390,
+    "Contracts": 386,
     "Entities": 1
   },
   {
@@ -139,9 +139,9 @@
     "Code": "WI",
     "File": "WI",
     "StateName": "Wisconsin",
-    "Authorities": 121,
-    "Contracts": 3751,
-    "Entities": 713
+    "Authorities": 123,
+    "Contracts": 3905,
+    "Entities": 711
   },
   {
     "Code": "WV",
