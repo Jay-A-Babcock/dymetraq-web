@@ -1,8 +1,10 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import "./contract-selectors.css";
+import { useState, useEffect, useMemo } from "react";
 import { REGION_GROUPS } from "@/data/regions";
 import { statesList } from "@/data/states";
+import { StateEntity, AuthorityRow, NIGP } from "@/lib/types";
 
 export default function ContractsPage() {
   // -----------------------------
@@ -23,7 +25,7 @@ export default function ContractsPage() {
   // -----------------------------
   // 2. Authorities loaded from JSON
   // -----------------------------
-  const [authorities, setAuthorities] = useState<any[]>([]);
+  const [authorities, setAuthorities] = useState<AuthorityRow[]>([]);
 
   useEffect(() => {
     async function loadAuthorities() {
@@ -60,61 +62,49 @@ export default function ContractsPage() {
   }
 
   // -----------------------------
-  // 4. Recursive Authority Node
+  // 4. Entities state (MOVE THIS BEFORE the useEffect that uses it!)
   // -----------------------------
-  function AuthorityNode({ node }) {
-    const id = `${node.key}-${node.value}`;
-    const authId = node.row?.AuthID;
-
-    return (
-      <div className="authority-node">
-        <label>
-          <input
-            type="checkbox"
-            checked={selectedAuthorities.includes(authId)}
-            onChange={() => toggleAuthority(authId)}
-          />
-          {node.value}
-        </label>
-
-        {node.children?.length > 0 && (
-          <div className="authority-children">
-            {node.children.map((child) => (
-              <AuthorityNode key={`${id}-${child.value}`} node={child} />
-            ))}
-          </div>
-        )}
-      </div>
-    );
-  }
+  const [allEntities, setAllEntities] = useState<StateEntity[]>([]);
 
   // -----------------------------
   // 5. Entities loaded from JSON
   // -----------------------------
-  const [entities, setEntities] = useState<any[]>([]);
-
   useEffect(() => {
-    async function loadEntities() {
-      if (selectedStates.includes("ALL")) {
-        setEntities([]);
-        return;
-      }
-
-      // Placeholder: eventually fetch real JSON
-      // For now, simulate with empty array
-      setEntities([]);
+    async function loadAll() {
+      const res = await fetch("/data/entities_per_authority.json");
+      const json: StateEntity[] = await res.json();
+      setAllEntities(json);
     }
-
-    loadEntities();
-  }, [selectedStates, selectedAuthorities]);
+    loadAll();
+  }, []);
 
   // -----------------------------
-  // 6. Entity selection
+  // 6. Filtered entities based on selected authorities
   // -----------------------------
-  const [selectedEntities, setSelectedEntities] = useState<string[]>([]);
+  const filteredEntities = useMemo(() => {
+    if (selectedAuthorities.length === 0) return [];
+
+    const subset = allEntities.filter((row) =>
+      selectedAuthorities.includes(row.AuthID)
+    );
+
+    const unique = Object.values(
+      subset.reduce<Record<string, StateEntity>>((acc, row) => {
+        acc[row.EntityUID] = row;
+        return acc;
+      }, {})
+    );
+
+    return unique;
+  }, [allEntities, selectedAuthorities]);
+
+  // -----------------------------
+  // 7. Entity selection state
+  // -----------------------------
+  const [selectedEntityIds, setSelectedEntityIds] = useState<string[]>([]);
 
   function toggleEntity(entityId: string) {
-    setSelectedEntities((prev) =>
+    setSelectedEntityIds((prev) =>
       prev.includes(entityId)
         ? prev.filter((id) => id !== entityId)
         : [...prev, entityId]
@@ -122,88 +112,75 @@ export default function ContractsPage() {
   }
 
   // -----------------------------
-  // 5. Recursive Entities Node
-  // -----------------------------
-  function EntityNode({ entity }) {
-    const id = entity.EntityUID;
-
-    return (
-      <div className="entity-node">
-        <label>
-          <input
-            type="checkbox"
-            checked={selectedEntities.includes(id)}
-            onChange={() => toggleEntity(id)}
-          />
-          {entity.EntityName}
-        </label>
-      </div>
-    );
-  }
-
-  // -----------------------------
-  // 5. NIGP selection
+  // 8. NIGP state (DECLARE BEFORE the useEffect!)
   // -----------------------------
   const [selectedNIGP, setSelectedNIGP] = useState<string[]>([]);
 
+  // -----------------------------
+  // 9. Load NIGPs
+  // -----------------------------
   useEffect(() => {
-    async function loadEntities() {
-      if (selectedStates.includes("ALL")) {
-        setEntities([]);
+    async function loadNIGPs() {
+      if (selectedAuthorities.length === 0) {
+        setSelectedNIGP([]);
         return;
       }
-
-      // Placeholder: eventually fetch real JSON
-      // For now, simulate with empty array
-      setEntities([]);
+      // TODO: fetch real NIGP data when ready
+      setSelectedNIGP([]);
     }
 
-    loadEntities();
-  }, [selectedStates, selectedAuthorities]);
+    loadNIGPs();
+  }, [selectedAuthorities]);
 
   // -----------------------------
-  // 6. Entity selection
+  // 10. NIGP selection
   // -----------------------------
-
   function toggleNIGP(code: string) {
     setSelectedNIGP((prev) =>
       prev.includes(code) ? prev.filter((c) => c !== code) : [...prev, code]
     );
   }
 
-  const NIGP_PLACEHOLDER = [
+  const NIGP_PLACEHOLDER: NIGP[] = [
     { code: "005", label: "Abrasives" },
     { code: "010", label: "Acids & Chemicals" },
     { code: "015", label: "Aircraft & Airport Equipment" },
   ];
 
   // -----------------------------
-  // 6. Toggle switches
+  // 11. Toggle switches
   // -----------------------------
   const [toggles, setToggles] = useState({
     open: true,
     awarded: true,
     activeOnly: false,
   });
+
   function toggleSwitch(key: keyof typeof toggles) {
     setToggles((prev) => ({ ...prev, [key]: !prev[key] }));
   }
 
   // -----------------------------
-  // 6. Reset button
+  // 12. Results state
+  // -----------------------------
+  const [results, setResults] = useState<any[]>([]);
+
+  // -----------------------------
+  // 13. Reset button
   // -----------------------------
   function resetFilters() {
     setSelectedStates(["ALL"]);
     setAuthorities([]);
     setSelectedAuthorities([]);
+    setSelectedEntityIds([]);
     setSelectedNIGP([]);
     setToggles({ open: true, awarded: true, activeOnly: false });
     setResults([]);
   }
-  // -----------------------------
-  // 6. Apply Filters
-  // -----------------------------
 
+  // -----------------------------
+  // 14. Apply Filters
+  // -----------------------------
   async function applyFilters() {
     const res = await fetch("/api/contracts", {
       method: "POST",
@@ -211,7 +188,7 @@ export default function ContractsPage() {
       body: JSON.stringify({
         states: selectedStates,
         authorities: selectedAuthorities,
-        entities: selectedEntities,
+        entities: selectedEntityIds,
         nigp: selectedNIGP,
         toggles,
       }),
@@ -221,184 +198,207 @@ export default function ContractsPage() {
     setResults(data);
   }
 
-  const [results, setResults] = useState<any[]>([]);
-
   // -----------------------------
-  // Render
+  // RENDER
   // -----------------------------
   return (
-    <div className="detail-layout">
-      <div className="detail-content">
-        <h1>Contracts</h1>
-        <p>
-          This page provides a list of contracts in the dataset. In the future
-          the list will be presented with filtering, sorting, and advanced
-          search.
-        </p>
+    <div className="contracts-page">
+      <div className="detail-layout">
+        <div className="detail-content">
+          <h1>Contracts</h1>
+          <p>
+            This page provides a list of contracts in the dataset. In the future
+            the list will be presented with filtering, sorting, and advanced
+            search.
+          </p>
 
-        {/* REGION | STATE SELECTOR */}
-        <div className="filter-panel">
-          <label className="filter-label">Region | State</label>
-          <div className="filter-group region-state-box">
-            <select
-              id="state-select"
-              name="states"
-              multiple
-              size={12}
-              value={selectedStates}
-              onChange={handleStateChange}
-            >
-              <option value="ALL">– ALL –</option>
-
-              {REGION_GROUPS.map((region) => (
-                <optgroup
-                  key={region.label}
-                  label={region.label}
-                  className={region.className}
+          {/* FILTER ROW - All 4 selectors side by side */}
+          <div className="filter-row">
+            {/* REGION | STATE SELECTOR */}
+            <div className="filter-panel">
+              <label className="filter-label">Region | State</label>
+              <div className="region-state-selector">
+                <select
+                  id="state-select"
+                  name="states"
+                  multiple
+                  size={12}
+                  value={selectedStates}
+                  onChange={handleStateChange}
                 >
-                  {region.states.map((code) => (
-                    <option key={code} value={code}>
-                      {statesList[code] ?? code}
-                    </option>
+                  <option value="ALL">– ALL –</option>
+                  {REGION_GROUPS.map((region) => (
+                    <optgroup
+                      key={region.label}
+                      label={region.label}
+                      className={region.className}
+                    >
+                      {region.states.map((code) => (
+                        <option key={code} value={code}>
+                          {statesList[code] ?? code}
+                        </option>
+                      ))}
+                    </optgroup>
                   ))}
-                </optgroup>
-              ))}
-            </select>
+                </select>
+              </div>
+            </div>
+
+            {/* AUTHORITY SELECTOR */}
+            <div className="filter-panel">
+              <label className="filter-label">Authorities</label>
+              <div className="authority-selector">
+                {authorities.length === 0 ? (
+                  <p className="selector-empty">
+                    Select a state to load authorities.
+                  </p>
+                ) : (
+                  authorities.map((node) => (
+                    <div
+                      key={node.AuthID}
+                      className={`selector-item ${
+                        selectedAuthorities.includes(node.AuthID)
+                          ? "selected"
+                          : ""
+                      }`}
+                      onClick={() => toggleAuthority(node.AuthID)}
+                    >
+                      {node.DisplayName}
+                    </div>
+                  ))
+                )}
+              </div>
+            </div>
+
+            {/* ENTITY SELECTOR */}
+            <div className="filter-panel">
+              <label className="filter-label">Entities</label>
+              <div className="entity-selector">
+                {filteredEntities.length === 0 ? (
+                  <p className="selector-empty">
+                    Select authorities to load entities.
+                  </p>
+                ) : (
+                  filteredEntities.map((entity) => (
+                    <div
+                      key={entity.EntityUID}
+                      className={`selector-item ${
+                        selectedEntityIds.includes(entity.EntityUID)
+                          ? "selected"
+                          : ""
+                      }`}
+                      onClick={() => toggleEntity(entity.EntityUID)}
+                    >
+                      {entity.EntityName}
+                    </div>
+                  ))
+                )}
+              </div>
+            </div>
+
+            {/* NIGP SELECTOR */}
+            <div className="filter-panel">
+              <label className="filter-label">NIGP Codes</label>
+              <div className="nigp-selector">
+                {NIGP_PLACEHOLDER.length === 0 ? (
+                  <p className="selector-empty">NIGP codes coming soon.</p>
+                ) : (
+                  NIGP_PLACEHOLDER.map((item) => (
+                    <div
+                      key={item.code}
+                      className={`selector-item ${
+                        selectedNIGP.includes(item.code) ? "selected" : ""
+                      }`}
+                      onClick={() => toggleNIGP(item.code)}
+                    >
+                      {item.code} – {item.label}
+                    </div>
+                  ))
+                )}
+              </div>
+            </div>
           </div>
-        </div>
 
-        {/* AUTHORITY SELECTOR */}
-        <div className="filter-panel">
-          <label className="filter-label">Authorities</label>
-
-          <div className="authority-selector">
-            {authorities.map((node) => (
-              <label key={node.AuthID}>
+          {/* STATUS TOGGLES */}
+          <div className="filter-panel">
+            <label className="filter-label">Status</label>
+            <div className="toggle-group">
+              <label className="toggle-item">
                 <input
                   type="checkbox"
-                  checked={selectedAuthorities.includes(node.AuthID)}
-                  onChange={() => toggleAuthority(node.AuthID)}
+                  checked={toggles.open}
+                  onChange={() => toggleSwitch("open")}
                 />
-                {node.DisplayName}
+                Open
               </label>
-            ))}
+
+              <label className="toggle-item">
+                <input
+                  type="checkbox"
+                  checked={toggles.awarded}
+                  onChange={() => toggleSwitch("awarded")}
+                />
+                Awarded
+              </label>
+
+              <label className="toggle-item">
+                <input
+                  type="checkbox"
+                  checked={toggles.activeOnly}
+                  onChange={() => toggleSwitch("activeOnly")}
+                />
+                Active Only
+              </label>
+            </div>
+          </div>
+
+          <button className="reset-btn" onClick={resetFilters}>
+            Reset Filters
+          </button>
+          <button className="apply-btn" onClick={applyFilters}>
+            Apply Filters
+          </button>
+
+          {/* RESULTS */}
+          <div className="results-panel">
+            <h2>Results</h2>
+            <div className="results-table">
+              {results.length === 0 ? (
+                <p>No results yet. Apply filters to see contracts.</p>
+              ) : (
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Contract ID</th>
+                      <th>Authority</th>
+                      <th>Awarded Vendor</th>
+                      <th>Bid Closing Date</th>
+                      <th>NIGP</th>
+                      <th>Status</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {results.map((r) => (
+                      <tr key={r._id}>
+                        <td>{r.contract_id}</td>
+                        <td>{r.auth_name}</td>
+                        <td>{r.entity_name}</td>
+                        <td>{r.nigp_code}</td>
+                        <td>{r.status}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              )}
+            </div>
           </div>
         </div>
-      </div>
 
-      {/* ENTITY SELECTOR */}
-      <div className="filter-panel">
-        <label className="filter-label">Entities</label>
-
-        <div className="entity-selector">
-          {entities.length === 0 && (
-            <p className="coming-soon">
-              Entities will appear once data is available.
-            </p>
-          )}
-
-          {entities.map((entity) => (
-            <EntityNode key={entity.EntityUID} entity={entity} />
-          ))}
-        </div>
-      </div>
-
-      {/* NIGP SELECTOR */}
-      <div className="filter-panel">
-        <label className="filter-label">NIGP Codes</label>
-
-        <div className="nigp-selector">
-          {NIGP_PLACEHOLDER.map((item) => (
-            <label key={item.code} className="nigp-item">
-              <input
-                type="checkbox"
-                checked={selectedNIGP.includes(item.code)}
-                onChange={() => toggleNIGP(item.code)}
-              />
-              {item.code} – {item.label}
-            </label>
-          ))}
-        </div>
-      </div>
-      <div className="filter-panel">
-        <label className="filter-label">Status</label>
-
-        <div className="toggle-group">
-          <label className="toggle-item">
-            <input
-              type="checkbox"
-              checked={toggles.open}
-              onChange={() => toggleSwitch("open")}
-            />
-            Open
-          </label>
-
-          <label className="toggle-item">
-            <input
-              type="checkbox"
-              checked={toggles.awarded}
-              onChange={() => toggleSwitch("awarded")}
-            />
-            Awarded
-          </label>
-
-          <label className="toggle-item">
-            <input
-              type="checkbox"
-              checked={toggles.activeOnly}
-              onChange={() => toggleSwitch("activeOnly")}
-            />
-            Active Only
-          </label>
-        </div>
-      </div>
-      <button className="reset-btn" onClick={resetFilters}>
-        Reset Filters
-      </button>
-      <button className="apply-btn" onClick={applyFilters}>
-        Apply Filters
-      </button>
-      <div className="results-panel">
-        <h2>Results</h2>
-        {/* RESULTS TABLE */}
-        <div className="results-table">
-          {results.length === 0 ? (
-            <p>No results yet. Apply filters to see contracts.</p>
-          ) : (
-            <table>
-              <thead>
-                <tr>
-                  <th>Contract ID</th>
-                  <th>Authority</th>
-                  <th>Awarded Vendor</th>
-                  <th>Bid Closing Date</th>
-                  <th>NIGP</th>
-                  <th>Status</th>
-                </tr>
-              </thead>
-              <tbody>
-                {results.map((r) => (
-                  <tr key={r._id}>
-                    <td>{r.contract_id}</td>
-                    <td>{r.auth_name}</td>
-                    <td>{r.entity_name}</td>
-                    <td>{r.nigp_code}</td>
-                    <td>{r.status}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          )}
-        </div>
-      </div>
-
-      <div className="detail-sidebar">
-        <h2>Contract Overview</h2>
-        <div className="dynamic-module">
-          <p className="coming-soon">
-            Matrix of what data points the contract contains.
-          </p>
-          <button className="coming-soon">Generate Report</button>
+        <div className="detail-sidebar">
+          <h2>Contract Overview</h2>
+          <div className="dynamic-module">
+            <h4>Search Tools</h4>
+          </div>
         </div>
       </div>
     </div>

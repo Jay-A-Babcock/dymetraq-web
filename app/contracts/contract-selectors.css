@@ -1,0 +1,71 @@
+/* Container for all filter panels in a row */
+.filter-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+/* Each filter panel takes equal width */
+.filter-row .filter-panel {
+  flex: 1;
+  min-width: 0; /* Prevents overflow issues */
+}
+
+/* Selector boxes - fixed height with scroll */
+.authority-selector,
+.entity-selector,
+.nigp-selector,
+.region-state-selector select {
+  height: 200px;
+  overflow-y: auto;
+  border: 1px solid var(--border-color, #ccc);
+  border-radius: 4px;
+  background: var(--bg-secondary, #f9f9f9);
+}
+
+/* Selectable list items */
+.selector-item {
+  padding: 8px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid var(--border-light, #eee);
+  transition: background-color 0.15s ease;
+  user-select: none;
+}
+
+.selector-item:last-child {
+  border-bottom: none;
+}
+
+.selector-item:hover {
+  background-color: var(--hover-bg, #e8e8e8);
+}
+
+.selector-item.selected {
+  background-color: var(--selected-bg, #d0e8ff);
+  font-weight: 500;
+}
+
+/* Empty state */
+.selector-empty {
+  padding: 16px;
+  color: var(--text-muted, #888);
+  font-style: italic;
+  text-align: center;
+}
+
+/* Filter labels */
+.filter-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Smaller height variant for NIGP */
+.nigp-selector {
+  height: 150px;
+}
+
+/* Taller variant for entities if needed */
+.entity-selector {
+  height: 250px;
+}

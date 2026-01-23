@@ -12,7 +12,7 @@ export interface AuthorityNode {
 export interface AuthorityRow {
   State: string;
   AuthID: string;
-  OfficialName: string;
+  DisplayName: string;
 }
 
 // Authority as a simple entity (flat)
@@ -59,4 +59,17 @@ export interface State {
   Authorities: number;
   Contracts: number;
   Entities: number;
+}
+
+export interface StateEntity {
+  state_abbr: string;
+  AuthID: string;
+  OfficialName: string;
+  EntityUID: string;
+  EntityName: string;
+}
+
+export interface NIGP {
+  code: string;
+  label: string;
 }

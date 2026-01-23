@@ -25,7 +25,8 @@ body {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
 /* Main layout grid */
@@ -35,7 +36,6 @@ main.main {
   grid-template-rows: auto 1fr;
   min-height: 95vh;
 }
-
 
 /* Masthead spans full width */
 header.masthead {
@@ -251,21 +251,19 @@ footer.footer {
   border: 1px solid #ccc;
   border-radius: 12px;
   padding: 10px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
   transition: box-shadow 0.2s ease;
 }
 
 .state-card:hover {
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   background-color: #0066cc;
 }
 
 .state-card a {
   text-decoration: none;
   color: inherit;
-  
 }
-
 
 /* Region Selector */
 .dynamic-module .region-group {
