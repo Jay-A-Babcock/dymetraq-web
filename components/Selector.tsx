@@ -25,13 +25,12 @@ export default function Selector({
   groups,
   selected,
   onToggle,
-  height = 220,
 }: SelectorProps) {
   return (
-    <div className="filter-panel">
+    <>
       <div className="filter-label">{label}</div>
 
-      <div className="dt-selector" style={{ height }}>
+      <div className="dt-selector">
         {/* GROUPED MODE (Region | State) */}
         {groups &&
           groups.map((group) => (
@@ -69,6 +68,6 @@ export default function Selector({
           <div className="selector-empty">No items available</div>
         )}
       </div>
-    </div>
+    </>
   );
 }

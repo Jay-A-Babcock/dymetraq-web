@@ -27,8 +27,8 @@
     "Code": "FL",
     "File": "FL",
     "StateName": "Florida",
-    "Authorities": 149,
-    "Contracts": 7905,
+    "Authorities": 150,
+    "Contracts": 7907,
     "Entities": 1676
   },
   {
@@ -51,24 +51,24 @@
     "Code": "KS",
     "File": "KS",
     "StateName": "Kansas",
-    "Authorities": 4,
-    "Contracts": 282,
+    "Authorities": 5,
+    "Contracts": 283,
     "Entities": 107
   },
   {
     "Code": "KY",
     "File": "KY",
     "StateName": "Kentucky",
-    "Authorities": 1,
-    "Contracts": 98,
+    "Authorities": 2,
+    "Contracts": 99,
     "Entities": 37
   },
   {
     "Code": "MI",
     "File": "MI",
     "StateName": "Michigan",
-    "Authorities": 1,
-    "Contracts": 20,
+    "Authorities": 2,
+    "Contracts": 22,
     "Entities": 1
   },
   {
@@ -123,8 +123,8 @@
     "Code": "TX",
     "File": "TX",
     "StateName": "Texas",
-    "Authorities": 9,
-    "Contracts": 614,
+    "Authorities": 10,
+    "Contracts": 615,
     "Entities": 30
   },
   {
@@ -140,7 +140,7 @@
     "File": "WI",
     "StateName": "Wisconsin",
     "Authorities": 123,
-    "Contracts": 3905,
+    "Contracts": 3907,
     "Entities": 711
   },
   {

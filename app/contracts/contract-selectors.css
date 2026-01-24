@@ -67,6 +67,7 @@
 }
 
 .dt-selector {
+  height: 400px;
   overflow-y: auto;
   background: white;
   border: 1px solid #ccc;
@@ -75,6 +76,16 @@
   font-family: inherit;
   font-size: 0.9rem;
   color: #333;
+}
+
+.region-state-panel .dt-selector {
+  height: 600px;
+}
+
+.filter-label {
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #45169e;
 }
 
 .dt-selector-item {
@@ -110,24 +121,58 @@
   font-style: italic;
   color: #888;
 }
-
-/* Smaller height variant for NIGP */
-.nigp-selector {
-  height: 150px;
+.results-panel {
+  max-height: 600px;
+  overflow-y: auto;
 }
 
-/* Taller variant for entities if needed */
-.entity-selector {
-  height: 250px;
+.results-header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+  font-weight: 600;
+  padding: 10px 12px;
+  border-bottom: 2px solid #ddd;
+  background: #f7f9ff;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
-.status-section {
-  margin-top: 20px;
-  padding-top: 10px;
-  border-top: 1px solid #eee;
+.results-header > div,
+.contract-row > div {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.status-section label {
-  margin-right: 12px;
-  font-size: 0.9rem;
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 16px;
+}
+.contract-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fff;
+  align-items: center;
+}
+
+.contract-row:hover {
+  background: #f8faff;
+  border-color: #cdd7ff;
+  cursor: pointer;
+}
+
+.contract-id,
+.contract-authority,
+.contract-name,
+.contract-date,
+.contract-status {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }

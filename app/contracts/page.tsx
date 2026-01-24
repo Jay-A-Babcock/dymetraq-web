@@ -72,7 +72,7 @@ export default function ContractsPage() {
   }
 
   // -----------------------------
-  // 4. Entities state (MOVE THIS BEFORE the useEffect that uses it!)
+  // 4. Entities state
   // -----------------------------
   const [allEntities, setAllEntities] = useState<StateEntity[]>([]);
 
@@ -122,7 +122,7 @@ export default function ContractsPage() {
   }
 
   // -----------------------------
-  // 8. NIGP state (DECLARE BEFORE the useEffect!)
+  // 8. NIGP state
   // -----------------------------
   const [selectedNIGP, setSelectedNIGP] = useState<string[]>([]);
 
@@ -174,6 +174,27 @@ export default function ContractsPage() {
   // 12. Results state
   // -----------------------------
   const [results, setResults] = useState<any[]>([]);
+  const [sortField, setSortField] = useState("auth_cont_no");
+  const [sortDirection, setSortDirection] = useState("asc");
+
+  function sortResults(field) {
+    const direction =
+      sortField === field && sortDirection === "asc" ? "desc" : "asc";
+
+    setSortField(field);
+    setSortDirection(direction);
+
+    const sorted = [...results].sort((a, b) => {
+      const x = a[field];
+      const y = b[field];
+
+      if (x < y) return direction === "asc" ? -1 : 1;
+      if (x > y) return direction === "asc" ? 1 : -1;
+      return 0;
+    });
+
+    setResults(sorted);
+  }
 
   // -----------------------------
   // 13. Reset button
@@ -224,7 +245,7 @@ export default function ContractsPage() {
           {/* FILTER ROW - All 4 selectors side by side */}
           <div className="filters-grid">
             {/* REGION | STATE */}
-            <div className="filter-panel">
+            <div className="filter-panel region-state-panel">
               <Selector
                 label="Region | State"
                 groups={REGION_GROUPS.map((g) => ({
@@ -311,48 +332,44 @@ export default function ContractsPage() {
               </div>
             </div>
           </div>{" "}
-          <button className="reset-btn action-btn">Reset Filters</button>
-          <button className="apply-btn action-btn">Apply Filters</button>
-        </div>
-        {/* RESULTS */}
-        <div className="results-panel">
-          <h2>Results</h2>
-          <div className="results-table">
-            {results.length === 0 ? (
-              <p>No results yet. Apply filters to see contracts.</p>
-            ) : (
-              <table>
-                <thead>
-                  <tr>
-                    <th>Contract ID</th>
-                    <th>Authority</th>
-                    <th>Awarded Vendor</th>
-                    <th>Bid Closing Date</th>
-                    <th>NIGP</th>
-                    <th>Status</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {results.map((r) => (
-                    <tr key={r._id}>
-                      <td>{r.contract_id}</td>
-                      <td>{r.auth_name}</td>
-                      <td>{r.entity_name}</td>
-                      <td>{r.nigp_code}</td>
-                      <td>{r.status}</td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            )}
+          <button className="reset-btn action-btn" onClick={resetFilters}>
+            Reset Filters
+          </button>
+          <button className="apply-btn action-btn" onClick={applyFilters}>
+            Apply Filters
+          </button>
+          {/* RESULTS */}
+          <div className="results-panel">
+            <h2>Results</h2>
+
+            <div className="results-header">
+              <div onClick={() => sortResults("auth_cont_no")}>Contract ID</div>
+              <div onClick={() => sortResults("auth_name")}>Authority</div>
+              <div onClick={() => sortResults("cont_name")}>Contract Name</div>
+              <div onClick={() => sortResults("bid_due_date")}>
+                Bid Closing Date
+              </div>
+              <div onClick={() => sortResults("cont_status")}>Status</div>
+            </div>
+            <div className="results-list">
+              {results.map((r) => (
+                <div className="contract-row" key={r._id}>
+                  <div className="contract-id">{r.auth_cont_no}</div>
+                  <div className="contract-authority">{r.auth_name}</div>
+                  <div className="contract-name">{r.cont_name}</div>
+                  <div className="contract-date">{r.bid_due_date}</div>
+                  <div className="contract-status">{r.cont_status}</div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
-      </div>
 
-      <div className="detail-sidebar">
-        <h2>Contract Overview</h2>
-        <div className="dynamic-module">
-          <h4>Search Tools</h4>
+        <div className="detail-sidebar">
+          <h2>Contract Overview</h2>
+          <div className="dynamic-module">
+            <h4>Search Tools</h4>
+          </div>
         </div>
       </div>
     </div>
