@@ -4,7 +4,7 @@
     "File": "AK",
     "StateName": "Alaska",
     "Authorities": 4,
-    "Contracts": 139,
+    "Contracts": 140,
     "Entities": 34
   },
   {
@@ -28,7 +28,7 @@
     "File": "FL",
     "StateName": "Florida",
     "Authorities": 150,
-    "Contracts": 7907,
+    "Contracts": 7908,
     "Entities": 1676
   },
   {
@@ -59,8 +59,8 @@
     "Code": "KY",
     "File": "KY",
     "StateName": "Kentucky",
-    "Authorities": 2,
-    "Contracts": 99,
+    "Authorities": 3,
+    "Contracts": 101,
     "Entities": 37
   },
   {
@@ -140,7 +140,7 @@
     "File": "WI",
     "StateName": "Wisconsin",
     "Authorities": 123,
-    "Contracts": 3907,
+    "Contracts": 3908,
     "Entities": 711
   },
   {

@@ -368,7 +368,10 @@ export default function ContractsPage() {
         <div className="detail-sidebar">
           <h2>Contract Overview</h2>
           <div className="dynamic-module">
-            <h4>Search Tools</h4>
+            <div className="coming-soon" style={{ maxWidth: "90%" }}>
+              Contract Metadata
+            </div>
+            <button>Generate Full Report</button>
           </div>
         </div>
       </div>
