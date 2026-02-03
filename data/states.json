@@ -3,9 +3,25 @@
     "Code": "AK",
     "File": "AK",
     "StateName": "Alaska",
-    "Authorities": 4,
-    "Contracts": 141,
+    "Authorities": 11,
+    "Contracts": 1073,
     "Entities": 34
+  },
+  {
+    "Code": "AL",
+    "File": "AL",
+    "StateName": "Alabama",
+    "Authorities": 2,
+    "Contracts": 96,
+    "Entities": null
+  },
+  {
+    "Code": "AR",
+    "File": "AR",
+    "StateName": "Arkansas",
+    "Authorities": 1,
+    "Contracts": 603,
+    "Entities": null
   },
   {
     "Code": "AZ",
@@ -19,17 +35,49 @@
     "Code": "CA",
     "File": "CA",
     "StateName": "California",
-    "Authorities": 16,
-    "Contracts": 764,
+    "Authorities": 29,
+    "Contracts": 2141,
     "Entities": 119
+  },
+  {
+    "Code": "CO",
+    "File": "CO",
+    "StateName": "Colorado",
+    "Authorities": 2,
+    "Contracts": 19,
+    "Entities": 6
+  },
+  {
+    "Code": "CT",
+    "File": "CT",
+    "StateName": "Connecticut",
+    "Authorities": 2,
+    "Contracts": 30,
+    "Entities": null
   },
   {
     "Code": "FL",
     "File": "FL",
     "StateName": "Florida",
-    "Authorities": 152,
-    "Contracts": 8033,
-    "Entities": 1802
+    "Authorities": 161,
+    "Contracts": 8607,
+    "Entities": 1804
+  },
+  {
+    "Code": "GA",
+    "File": "GA",
+    "StateName": "Georgia",
+    "Authorities": 4,
+    "Contracts": 328,
+    "Entities": null
+  },
+  {
+    "Code": "IA",
+    "File": "IA",
+    "StateName": "Iowa",
+    "Authorities": 4,
+    "Contracts": 877,
+    "Entities": null
   },
   {
     "Code": "ID",
@@ -43,16 +91,24 @@
     "Code": "IL",
     "File": "IL",
     "StateName": "Illinois",
-    "Authorities": 24,
-    "Contracts": 13263,
-    "Entities": 1415
+    "Authorities": 26,
+    "Contracts": 13473,
+    "Entities": 1420
+  },
+  {
+    "Code": "IN",
+    "File": "IN",
+    "StateName": "Indiana",
+    "Authorities": 1,
+    "Contracts": 78,
+    "Entities": null
   },
   {
     "Code": "KS",
     "File": "KS",
     "StateName": "Kansas",
-    "Authorities": 5,
-    "Contracts": 295,
+    "Authorities": 7,
+    "Contracts": 461,
     "Entities": 107
   },
   {
@@ -64,11 +120,27 @@
     "Entities": 37
   },
   {
+    "Code": "MA",
+    "File": "MA",
+    "StateName": "Massachusetts",
+    "Authorities": 3,
+    "Contracts": 259,
+    "Entities": null
+  },
+  {
+    "Code": "ME",
+    "File": "ME",
+    "StateName": "Maine",
+    "Authorities": 9,
+    "Contracts": 836,
+    "Entities": null
+  },
+  {
     "Code": "MI",
     "File": "MI",
     "StateName": "Michigan",
     "Authorities": 2,
-    "Contracts": 122,
+    "Contracts": 126,
     "Entities": 10
   },
   {
@@ -76,24 +148,40 @@
     "File": "MN",
     "StateName": "Minnesota",
     "Authorities": 9,
-    "Contracts": 343,
+    "Contracts": 345,
     "Entities": 98
   },
   {
     "Code": "MO",
     "File": "MO",
     "StateName": "Missouri",
-    "Authorities": 4,
-    "Contracts": 332,
+    "Authorities": 5,
+    "Contracts": 433,
     "Entities": 178
+  },
+  {
+    "Code": "NA",
+    "File": "NA",
+    "StateName": "Native American Tribes",
+    "Authorities": 1,
+    "Contracts": 103,
+    "Entities": null
   },
   {
     "Code": "NC",
     "File": "NC",
     "StateName": "North Carolina",
     "Authorities": 4,
-    "Contracts": 226,
+    "Contracts": 231,
     "Entities": 4
+  },
+  {
+    "Code": "NE",
+    "File": "NE",
+    "StateName": "Nebraska",
+    "Authorities": 1,
+    "Contracts": 100,
+    "Entities": null
   },
   {
     "Code": "NV",
@@ -107,9 +195,17 @@
     "Code": "OH",
     "File": "OH",
     "StateName": "Ohio",
-    "Authorities": 6,
-    "Contracts": 386,
+    "Authorities": 7,
+    "Contracts": 419,
     "Entities": 1
+  },
+  {
+    "Code": "OK",
+    "File": "OK",
+    "StateName": "Oklahoma",
+    "Authorities": 1,
+    "Contracts": 2,
+    "Entities": null
   },
   {
     "Code": "OR",
@@ -120,27 +216,51 @@
     "Entities": 3
   },
   {
+    "Code": "PA",
+    "File": "PA",
+    "StateName": "Pennsylvania",
+    "Authorities": 2,
+    "Contracts": 151,
+    "Entities": null
+  },
+  {
+    "Code": "SC",
+    "File": "SC",
+    "StateName": "South Carolina",
+    "Authorities": 1,
+    "Contracts": 16,
+    "Entities": null
+  },
+  {
     "Code": "TX",
     "File": "TX",
     "StateName": "Texas",
-    "Authorities": 10,
-    "Contracts": 716,
-    "Entities": 30
+    "Authorities": 13,
+    "Contracts": 867,
+    "Entities": 34
   },
   {
     "Code": "VA",
     "File": "VA",
     "StateName": "Virginia",
     "Authorities": 11,
-    "Contracts": 835,
+    "Contracts": 841,
     "Entities": 222
+  },
+  {
+    "Code": "WA",
+    "File": "WA",
+    "StateName": "Washington",
+    "Authorities": 1,
+    "Contracts": 69,
+    "Entities": null
   },
   {
     "Code": "WI",
     "File": "WI",
     "StateName": "Wisconsin",
     "Authorities": 123,
-    "Contracts": 3913,
+    "Contracts": 3938,
     "Entities": 853
   },
   {
@@ -148,7 +268,15 @@
     "File": "WV",
     "StateName": "West Virginia",
     "Authorities": 2,
-    "Contracts": 150,
+    "Contracts": 151,
     "Entities": 51
+  },
+  {
+    "Code": "WY",
+    "File": "WY",
+    "StateName": "Wyoming",
+    "Authorities": 2,
+    "Contracts": 85,
+    "Entities": null
   }
 ]
