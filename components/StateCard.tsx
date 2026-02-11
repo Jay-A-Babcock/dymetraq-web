@@ -7,7 +7,7 @@ interface StateCardProps {
   StateName: string;
   Authorities: number;
   Contracts: number;
-  Entities: number;
+  Entities: number | null;
 }
 
 export default function StateCard({
@@ -17,6 +17,7 @@ export default function StateCard({
   Contracts,
   Entities,
 }: StateCardProps) {
+  const safeEntities = Entities ?? 0;
   return (
     <div className="state-card">
       <Link href={`/authorities/${Code}`}>
@@ -28,7 +29,7 @@ export default function StateCard({
           <b>Contracts:</b> {Contracts.toLocaleString()}
         </p>
         <p>
-          <b>Entities:</b> {Entities.toLocaleString()}
+          <b>Entities:</b> {safeEntities.toLocaleString()}
         </p>
       </Link>
     </div>
