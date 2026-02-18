@@ -1,9 +1,9 @@
-// app/authorities/[state]/[id]/RenderOnLoad.tsx
+// app/authorities/[state]/[hashed_id]/RenderOnLoad.tsx
 "use client";
 
 import { useEffect } from "react";
 
-export default function RenderOnLoad({ state, id, shouldRender }) {
+export default function RenderOnLoad({ state, hashed_id, shouldRender }) {
   useEffect(() => {
     if (!shouldRender) return;
 
@@ -14,9 +14,9 @@ export default function RenderOnLoad({ state, id, shouldRender }) {
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
             state,
-            auth_id: id,
-            sections: []
-          })
+            hashed_id: hashed_id,
+            sections: [],
+          }),
         });
 
         // After LS1 finishes, reload the page to pick up the new file
@@ -27,7 +27,7 @@ export default function RenderOnLoad({ state, id, shouldRender }) {
     }
 
     triggerRender();
-  }, [state, id, shouldRender]);
+  }, [state, hashed_id, shouldRender]);
 
   return null;
 }

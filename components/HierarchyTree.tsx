@@ -18,15 +18,15 @@ export default function HierarchyTree({
   nodes: TreeNode[];
 }) {
   function renderNode(node: TreeNode, path = "") {
-    const authId = node.AuthID ?? node.row?.AuthID ?? "no-id";
-    const nodeKey = `${path}/${node.key}-${authId}`;
+    const hashedId = node.hashed_id ?? "no-id";
+    const nodeKey = `${path}/${node.key}-${hashedId}`;
 
     return (
       <Tree
         key={nodeKey}
         label={
-          authId !== "no-id" ? (
-            <a href={`/authorities/${state}/${authId}`}>{node.value}</a>
+          hashedId !== "no-id" ? (
+            <a href={`/authorities/${state}/${hashedId}`}>{node.value}</a>
           ) : (
             <span>{node.value}</span>
           )

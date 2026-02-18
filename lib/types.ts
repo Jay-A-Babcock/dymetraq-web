@@ -11,8 +11,10 @@ export interface AuthorityNode {
 // Authority data from SQL row (what comes from the JSON tree)
 export interface AuthorityRow {
   State: string;
-  AuthID: string;
-  DisplayName: string;
+  hashed_id: string;
+  OfficialName: string;
+  AuthClass: string;
+  GroupClass: string;
 }
 
 // Authority as a simple entity (flat)

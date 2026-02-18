@@ -1,9 +1,13 @@
 // utils/authorities.ts
 import { AuthorityRow } from "@/lib/types";
 
-export function findAuthority(nodes: any[], targetId: string): AuthorityRow | null {
+export function findAuthority(
+  nodes: any[],
+  targetId: string
+): AuthorityRow | null {
   for (const node of nodes) {
-    if (node.row?.AuthID === targetId) {
+    // Search by hashed_id at the node level
+    if (node.hashed_id === targetId && node.row) {
       return node.row;
     }
     if (node.children) {
