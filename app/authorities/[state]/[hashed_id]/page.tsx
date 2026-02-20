@@ -1,6 +1,7 @@
 // /path/to/LS2/app/authorities/[state]/[hashed_id]/page.tsx
 import { Contract } from "@/lib/types";
 import { findAuthority } from "@/utils/authorities";
+import GenerateReportButton from "./GenerateReportButton";
 
 interface AuthorityPageProps {
   params: Promise<{ state: string; hashed_id: string }>;
@@ -59,6 +60,7 @@ export default async function AuthorityPage({ params }: AuthorityPageProps) {
         ) : (
           <p>Loading authority data...</p>
         )}
+        <GenerateReportButton state={state} hashed_id={hashed_id} />
       </div>
 
       <div className="detail-sidebar">
