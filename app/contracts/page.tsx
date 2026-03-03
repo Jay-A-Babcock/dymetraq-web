@@ -81,7 +81,7 @@ export default function ContractsPage() {
   // -----------------------------
   useEffect(() => {
     async function loadAll() {
-      const res = await fetch("/data/entities_per_authority.json");
+      const res = await fetch("/data/entities_by_authority.json");
       const json: StateEntity[] = await res.json();
       setAllEntities(json);
     }
